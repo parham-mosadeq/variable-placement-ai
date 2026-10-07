@@ -1,0 +1,75 @@
+[
+  {
+    "clause_id": 0,
+    "clause_type": "عنوان و مقدمه",
+    "text": "قرارداد كار قانون کار این قرارداد کار در اجرای مقررات فصل دوم قانون کار با شرایط زیر منعقد می شود",
+    "entities": []
+  },
+  {
+    "clause_id": 1,
+    "clause_type": "مشخصات طرفین",
+    "text": "طرفین قرارداد\nکارفرما:\nآقا / خانم: [employer_name] فرزند [employer_father] کدملی [employer_national_id] آدرس و تلفن: [employer_address]\n\nکارگر (یا کارمند):\nآقا / خانم: [employee_name] فرزند [employee_father] کدملی [employee_national_id] تاریخ تولد: [employee_birthdate] آدرس و تلفن: [employee_address]",
+    "entities": [
+      {"slot": "employer_name", "before_token": "آقا / خانم:", "after_token": "فرزند"},
+      {"slot": "employer_father", "before_token": "فرزند", "after_token": "کدملی"},
+      {"slot": "employer_national_id", "before_token": "کدملی", "after_token": "آدرس و تلفن"},
+      {"slot": "employer_address", "before_token": "آدرس و تلفن:", "after_token": "کارگر"},
+      {"slot": "employee_name", "before_token": "آقا / خانم:", "after_token": "فرزند"},
+      {"slot": "employee_father", "before_token": "فرزند", "after_token": "کدملی"},
+      {"slot": "employee_national_id", "before_token": "کدملی", "after_token": "تاریخ تولد"},
+      {"slot": "employee_birthdate", "before_token": "تاریخ تولد:", "after_token": "آدرس و تلفن"},
+      {"slot": "employee_address", "before_token": "آدرس و تلفن:", "after_token": "محل کارگاه"}
+    ]
+  },
+  {
+    "clause_id": 2,
+    "clause_type": "محل کار",
+    "text": "محل کارگاه\nآدرس و تلفن محل کار (کارگاه): [work_location]",
+    "entities": [
+      {"slot": "work_location", "before_token": "محل کار (کارگاه)", "after_token": null}
+    ]
+  },
+  {
+    "clause_id": 3,
+    "clause_type": "موضوع قرارداد",
+    "text": "کار و وظایف کارگر: [job_title]",
+    "entities": [
+      {"slot": "job_title", "before_token": "کار و وظایف کارگر:", "after_token": null}
+    ]
+  },
+  {
+    "clause_id": 4,
+    "clause_type": "مدت قرارداد",
+    "text": "تاریخ/مدت قرارداد کار: این قرارداد کار از تاریخ [contract_start_date] شروع شده و در تاریخ [contract_end_date] به اتمام می رسد پس از اتمام قرارداد کار هیچ یک از طرفین الزامی به تجدید و یا تمدید قرارداد کار ندارند.",
+    "entities": [
+      {"slot": "contract_start_date", "before_token": "از تاریخ", "after_token": "شروع شده"},
+      {"slot": "contract_end_date", "before_token": "در تاریخ", "after_token": "به اتمام"}
+    ]
+  },
+  {
+    "clause_id": 5,
+    "clause_type": "حقوق و مزایا",
+    "text": "حقوق و مزایا:\n| عنوان | مبلغ(ریال) |\n| --- | --- |\n| مزد روزانه | [daily_wage] |\n| پایه سنوات | [seniority_allowance] |\n| حقوق ماهانه (30 روز) | [monthly_salary] |\n| حق مسکن | [housing_allowance] |\n| بن کارگری | [grocery_allowance] |\n| حق اولاد | [child_allowance] |\n| جمع | [total_salary] |",
+    "entities": [
+      {"slot": "daily_wage", "before_token": "مزد روزانه", "after_token": null},
+      {"slot": "seniority_allowance", "before_token": "پایه سنوات", "after_token": null},
+      {"slot": "monthly_salary", "before_token": "حقوق ماهانه (30 روز)", "after_token": null},
+      {"slot": "housing_allowance", "before_token": "حق مسکن", "after_token": null},
+      {"slot": "grocery_allowance", "before_token": "بن کارگری", "after_token": null},
+      {"slot": "child_allowance", "before_token": "حق اولاد", "after_token": null},
+      {"slot": "total_salary", "before_token": "جمع", "after_token": null}
+    ]
+  },
+  {
+    "clause_id": 6,
+    "clause_type": "سایر شرایط",
+    "text": "سایر شرایط: تمام شرایط قرارداد کار تابع مقررات قانون کار خواهد بود. این قرارداد کار در 2 نسخه تنظیم و هر کدام اعتبار یکسان دارند و هر نسخه در اختیار هر یک از طرفین قرارداد کار خواهد بود.",
+    "entities": []
+  },
+  {
+    "clause_id": 7,
+    "clause_type": "امضا",
+    "text": "امضا:\nکارفرما                                 کارگر",
+    "entities": []
+  }
+]

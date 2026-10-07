@@ -1,0 +1,83 @@
+[
+  {
+    "clause_id": 0,
+    "clause_type": "title",
+    "text": "قرارداد ارائه خدمات مشاوره حقوقی",
+    "entities": []
+  },
+
+  {
+    "clause_id": 1,
+    "clause_type": "preamble",
+    "text": "این قرارداد در تاریخ [contract_date] در شهر [city] منعقد گردید",
+    "entities": [
+      { "slot": "contract_date", "before_token": "تاریخ", "after_token": "در شهر" },
+      { "slot": "city", "before_token": "در شهر", "after_token": "" }
+    ]
+  },
+
+  {
+    "clause_id": 2,
+    "clause_type": "employer",
+    "text": "شرکت [company_name] شماره ثبت [registration_number] شناسه ملی [company_national_id] کد پستی [company_postal_code] نماینده [representative] سمت [position] نشانی [company_address]",
+    "entities": [
+      { "slot": "company_name", "before_token": "شرکت", "after_token": "شماره ثبت" },
+      { "slot": "registration_number", "before_token": "شماره ثبت", "after_token": "شناسه ملی" },
+      { "slot": "company_national_id", "before_token": "شناسه ملی", "after_token": "کد پستی" },
+      { "slot": "company_postal_code", "before_token": "کد پستی", "after_token": "نماینده" },
+      { "slot": "representative", "before_token": "نماینده", "after_token": "سمت" },
+      { "slot": "position", "before_token": "سمت", "after_token": "نشانی" },
+      { "slot": "company_address", "before_token": "نشانی", "after_token": "" }
+    ]
+  },
+
+  {
+    "clause_id": 3,
+    "clause_type": "legal_consultant",
+    "text": "مشاور حقوقی: [lawyer_name] فرزند [father_name] شماره ملی [national_id] شماره شناسنامه [certificate_id] نشانی [address] تلفن [phone] پروانه وکالت [license_number]",
+    "entities": [
+      { "slot": "lawyer_name", "before_token": "مشاور حقوقی:", "after_token": "فرزند" },
+      { "slot": "father_name", "before_token": "فرزند", "after_token": "شماره ملی" },
+      { "slot": "national_id", "before_token": "شماره ملی", "after_token": "شماره شناسنامه" },
+      { "slot": "certificate_id", "before_token": "شماره شناسنامه", "after_token": "نشانی" },
+      { "slot": "address", "before_token": "نشانی", "after_token": "تلفن" },
+      { "slot": "phone", "before_token": "تلفن", "after_token": "پروانه وکالت" },
+      { "slot": "license_number", "before_token": "پروانه وکالت", "after_token": "" }
+    ]
+  },
+
+  {
+    "clause_id": 4,
+    "clause_type": "services",
+    "text": "مشاوره حقوقی، تنظیم قرارداد، بررسی اسناد و ارائه نظر کارشناسی",
+    "entities": []
+  },
+
+  {
+    "clause_id": 5,
+    "clause_type": "legal_limitations",
+    "text": "وکالت قضایی فقط با قرارداد جداگانه امکان‌پذیر است",
+    "entities": []
+  },
+
+  {
+    "clause_id": 6,
+    "clause_type": "service_mode",
+    "text": "ارائه خدمات به صورت حضوری یا غیرحضوری",
+    "entities": []
+  },
+
+  {
+    "clause_id": 7,
+    "clause_type": "attachments",
+    "text": "مدارک هویتی، مدارک تحصیلی، پروانه وکالت",
+    "entities": []
+  },
+
+  {
+    "clause_id": 8,
+    "clause_type": "final_clause",
+    "text": "این قرارداد در دو نسخه با اعتبار یکسان تنظیم و امضا می‌گردد",
+    "entities": []
+  }
+]

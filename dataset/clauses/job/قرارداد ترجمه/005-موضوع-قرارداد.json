@@ -1,0 +1,26 @@
+{
+  "title": "موضوع قرارداد - قرارداد ترجمه",
+  "content": "ترجمه از {{source_language}} به {{target_language}} شامل {{document_type}} به حجم {{word_count}} کلمه",
+  "keywords": [
+    "موضوع قرارداد",
+    "قرارداد ترجمه",
+    "بند قرارداد",
+    "قرارداد کار",
+    "subject",
+    "شرح وظایف",
+    "شرح خدمات",
+    "دامنه کار",
+    "scope of work",
+    "source_language",
+    "از",
+    "به",
+    "target_language",
+    "شامل",
+    "document_type",
+    "به حجم",
+    "word_count",
+    "کلمه",
+    "ترجمه",
+    "حجم"
+  ]
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "clause_id": 0,
+    "clause_type": "slogan",
+    "text": "بسمه خدا",
+    "entities": []
+  },
+  {
+    "clause_id": 1,
+    "clause_type": "title",
+    "text": "قرارداد استخدام منشی",
+    "entities": []
+  },
+  {
+    "clause_id": 2,
+    "clause_type": "preamble",
+    "text": "این قرارداد مطابق قانون کار جمهوری اسلامی ایران بین کارفرما و کارمند منعقد می‌گردد.",
+    "entities": []
+  },
+
+  {
+    "clause_id": 3,
+    "clause_type": "employer",
+    "text": "شرکت [company_name] شماره ثبت [registration_number] شناسه ملی [company_national_id] به نمایندگی [employer_representative] در سمت [employer_position] نشانی [company_address]",
+    "entities": [
+      {"slot": "company_name", "before_token": "شرکت", "after_token": "شماره ثبت"},
+      {"slot": "registration_number", "before_token": "شماره ثبت", "after_token": "شناسه ملی"},
+      {"slot": "company_national_id", "before_token": "شناسه ملی", "after_token": "به نمایندگی"},
+      {"slot": "employer_representative", "before_token": "به نمایندگی", "after_token": "در سمت"},
+      {"slot": "employer_position", "before_token": "در سمت", "after_token": "نشانی"},
+      {"slot": "company_address", "before_token": "نشانی", "after_token": ""}
+    ]
+  },
+
+  {
+    "clause_id": 4,
+    "clause_type": "secretary",
+    "text": "کارمند: آقا/خانم [secretary_name] فرزند [father_name] شماره شناسنامه [certificate_id] کد ملی [national_id] متولد [birth_date] نشانی [address] میزان مهارت [skill_level]",
+    "entities": [
+      {"slot": "secretary_name", "before_token": "کارمند:", "after_token": "فرزند"},
+      {"slot": "father_name", "before_token": "فرزند", "after_token": "شماره شناسنامه"},
+      {"slot": "certificate_id", "before_token": "شماره شناسنامه", "after_token": "کد ملی"},
+      {"slot": "national_id", "before_token": "کد ملی", "after_token": "متولد"},
+      {"slot": "birth_date", "before_token": "متولد", "after_token": "نشانی"},
+      {"slot": "address", "before_token": "نشانی", "after_token": "میزان مهارت"},
+      {"slot": "skill_level", "before_token": "میزان مهارت", "after_token": ""}
+    ]
+  },
+
+  {
+    "clause_id": 5,
+    "clause_type": "job_description",
+    "text": "انجام امور اداری، پاسخگویی، بایگانی و هماهنگی‌های داخلی",
+    "entities": []
+  },
+
+  {
+    "clause_id": 6,
+    "clause_type": "contract_term",
+    "text": "از تاریخ [start_date] لغایت [end_date] به مدت [duration] ماه",
+    "entities": [
+      {"slot": "start_date", "before_token": "از تاریخ", "after_token": "لغایت"},
+      {"slot": "end_date", "before_token": "لغایت", "after_token": "به مدت"},
+      {"slot": "duration", "before_token": "به مدت", "after_token": "ماه"}
+    ]
+  },
+
+  {
+    "clause_id": 7,
+    "clause_type": "work_location",
+    "text": "محل انجام کار در نشانی [work_address]",
+    "entities": [
+      {"slot": "work_address", "before_token": "نشانی", "after_token": ""}
+    ]
+  },
+
+  {
+    "clause_id": 8,
+    "clause_type": "attachments",
+    "text": "روزنامه رسمی، شرح وظایف منشی و مدارک هویتی کارمند",
+    "entities": []
+  },
+
+  {
+    "clause_id": 9,
+    "clause_type": "final_clause",
+    "text": "این قرارداد در دو نسخه با اعتبار یکسان تنظیم و امضا می‌گردد.",
+    "entities": []
+  }
+]

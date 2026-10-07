@@ -1,0 +1,70 @@
+[
+  {
+    "clause_id": 0,
+    "clause_type": "عنوان قرارداد",
+    "text": "قرارداد عدم افشای اطلاعات (NDA)",
+    "entities": []
+  },
+  {
+    "clause_id": 1,
+    "clause_type": "مشخصات طرفین",
+    "text": "این قرارداد در تاریخ [contract_date] بین شرکت [company_name] به شماره ثبت [registration_number] و شناسه ملی [national_id] به نمایندگی [representative_name] در سمت [representative_position] و آقای/خانم [recipient_name] فرزند [father_name] دارای کد ملی [national_code] و شماره شناسنامه [birth_certificate_number] منعقد گردید.",
+    "entities": [
+      {"slot":"contract_date"},
+      {"slot":"company_name"},
+      {"slot":"registration_number"},
+      {"slot":"national_id"},
+      {"slot":"representative_name"},
+      {"slot":"representative_position"},
+      {"slot":"recipient_name"},
+      {"slot":"father_name"},
+      {"slot":"national_code"},
+      {"slot":"birth_certificate_number"}
+    ]
+  },
+  {
+    "clause_id": 2,
+    "clause_type": "موضوع قرارداد",
+    "text": "موضوع قرارداد حفظ و عدم افشای اطلاعات، اسناد، مدارک، داده‌ها، فرآیندها، روش‌های کاری، اطلاعات مالی، فنی و تجاری می‌باشد.",
+    "entities": []
+  },
+  {
+    "clause_id": 3,
+    "clause_type": "تعهد محرمانگی",
+    "text": "طرف دوم متعهد می‌گردد اطلاعات محرمانه را بدون مجوز کتبی افشا ننماید.",
+    "entities": []
+  },
+  {
+    "clause_id": 4,
+    "clause_type": "مدت محرمانگی",
+    "text": "تعهد محرمانگی از تاریخ [effective_date] آغاز شده و تا [confidentiality_period] سال پس از خاتمه همکاری معتبر خواهد بود.",
+    "entities": [
+      {"slot":"effective_date"},
+      {"slot":"confidentiality_period"}
+    ]
+  },
+  {
+    "clause_id": 5,
+    "clause_type": "ضمانت اجرا",
+    "text": "در صورت نقض تعهدات محرمانگی، متخلف موظف به پرداخت مبلغ [penalty_amount] ریال به عنوان وجه التزام خواهد بود.",
+    "entities": [
+      {"slot":"penalty_amount"}
+    ]
+  },
+  {
+    "clause_id": 6,
+    "clause_type": "خاتمه قرارداد",
+    "text": "این قرارداد تا تاریخ [termination_date] معتبر است.",
+    "entities": [
+      {"slot":"termination_date"}
+    ]
+  },
+  {
+    "clause_id": 7,
+    "clause_type": "حل اختلاف",
+    "text": "مرجع رسیدگی به اختلافات ناشی از این قرارداد، مراجع صالح شهر [jurisdiction_city] خواهد بود.",
+    "entities": [
+      {"slot":"jurisdiction_city"}
+    ]
+  }
+]

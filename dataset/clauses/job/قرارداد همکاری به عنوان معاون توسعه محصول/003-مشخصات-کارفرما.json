@@ -1,0 +1,31 @@
+{
+  "title": "مشخصات کارفرما - قرارداد همکاری به عنوان معاون توسعه محصول",
+  "content": "شرکت {{company_name}} شماره ثبت {{registration_number}} شناسه ملی {{company_national_id}} نماینده {{representative}} سمت {{position}} نشانی {{company_address}}",
+  "keywords": [
+    "مشخصات کارفرما",
+    "قرارداد همکاری به عنوان معاون توسعه محصول",
+    "بند قرارداد",
+    "قرارداد کار",
+    "employer",
+    "طرفین قرارداد",
+    "مشخصات هویتی",
+    "اطلاعات تماس",
+    "کد ملی",
+    "نشانی طرفین",
+    "company_name",
+    "شرکت",
+    "شماره ثبت",
+    "registration_number",
+    "شناسه ملی",
+    "company_national_id",
+    "نماینده",
+    "representative",
+    "سمت",
+    "position",
+    "نشانی",
+    "company_address",
+    "ثبت",
+    "شناسه",
+    "ملی"
+  ]
+}

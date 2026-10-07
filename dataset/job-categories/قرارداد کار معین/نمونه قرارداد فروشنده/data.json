@@ -1,0 +1,76 @@
+[
+  {
+    "clause_id": 0,
+    "clause_type": "title",
+    "text": "قرارداد کار فروشنده",
+    "entities": []
+  },
+  {
+    "clause_id": 1,
+    "clause_type": "legal_basis",
+    "text": "ماده ۱۰ قانون کار جمهوری اسلامی ایران",
+    "entities": []
+  },
+  {
+    "clause_id": 2,
+    "clause_type": "employer",
+    "text": "شرکت [company_name] به شماره ثبت [registration_number] شناسه ملی [national_id] نماینده [representative_name] سمت [position] نشانی [company_address] تلفن [company_phone]",
+    "entities": [
+      { "slot": "company_name", "before_token": "شرکت", "after_token": "به شماره ثبت" },
+      { "slot": "registration_number", "before_token": "شماره ثبت", "after_token": "شناسه ملی" },
+      { "slot": "national_id", "before_token": "شناسه ملی", "after_token": "نماینده" },
+      { "slot": "representative_name", "before_token": "نماینده", "after_token": "سمت" },
+      { "slot": "position", "before_token": "سمت", "after_token": "نشانی" },
+      { "slot": "company_address", "before_token": "نشانی", "after_token": "تلفن" },
+      { "slot": "company_phone", "before_token": "تلفن", "after_token": "" }
+    ]
+  },
+  {
+    "clause_id": 3,
+    "clause_type": "employee",
+    "text": "آقا/خانم [seller_name] فرزند [father_name] شماره ملی [seller_national_id] شماره شناسنامه [seller_birth_certificate] متولد [birth_date] شماره تماس [seller_phone] نشانی [seller_address]",
+    "entities": [
+      { "slot": "seller_name", "before_token": "آقا/خانم", "after_token": "فرزند" },
+      { "slot": "father_name", "before_token": "فرزند", "after_token": "شماره ملی" },
+      { "slot": "seller_national_id", "before_token": "شماره ملی", "after_token": "شماره شناسنامه" },
+      { "slot": "seller_birth_certificate", "before_token": "شماره شناسنامه", "after_token": "متولد" },
+      { "slot": "birth_date", "before_token": "متولد", "after_token": "شماره تماس" },
+      { "slot": "seller_phone", "before_token": "شماره تماس", "after_token": "نشانی" },
+      { "slot": "seller_address", "before_token": "نشانی", "after_token": "" }
+    ]
+  },
+  {
+    "clause_id": 4,
+    "clause_type": "scope_of_work",
+    "text": "فروش محصولات، ارتباط با مشتریان، پیگیری سفارشات و انجام کلیه امور محوله",
+    "entities": []
+  },
+  {
+    "clause_id": 5,
+    "clause_type": "contract_type",
+    "text": "تمام‌وقت یا پاره‌وقت از تاریخ [start_date] لغایت [end_date] به مدت [duration] ماه",
+    "entities": [
+      { "slot": "start_date", "before_token": "از تاریخ", "after_token": "لغایت" },
+      { "slot": "end_date", "before_token": "لغایت", "after_token": "به مدت" },
+      { "slot": "duration", "before_token": "به مدت", "after_token": "ماه" }
+    ]
+  },
+  {
+    "clause_id": 6,
+    "clause_type": "location",
+    "text": "محل انجام کار در محل تعیین‌شده توسط کارفرما و در صورت تغییر، تأمین شرایط ایاب و ذهاب",
+    "entities": []
+  },
+  {
+    "clause_id": 7,
+    "clause_type": "working_hours",
+    "text": "ساعات کار مطابق ماده ۵۱ قانون کار جمهوری اسلامی ایران و حداکثر قانونی",
+    "entities": []
+  },
+  {
+    "clause_id": 8,
+    "clause_type": "final_clause",
+    "text": "این قرارداد در دو نسخه با اعتبار یکسان تنظیم و امضا گردید",
+    "entities": []
+  }
+]

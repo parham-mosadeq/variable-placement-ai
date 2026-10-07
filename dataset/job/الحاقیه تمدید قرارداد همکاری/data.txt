@@ -1,0 +1,15 @@
+الحاقیه تمدید قرارداد همکاری
+
+این الحاقیه در تاریخ [contract_date] بین شرکت [company_name] به نمایندگی [representative_name] و آقای/خانم [employee_name] منعقد گردید.
+
+نظر به اتمام مدت قرارداد شماره [original_contract_number] مورخ [original_contract_date] طرفین توافق نمودند قرارداد همکاری از تاریخ [extension_start_date] لغایت [extension_end_date] به مدت [extension_duration] ماه تمدید گردد.
+
+حقوق ماهیانه کارمند مبلغ [monthly_salary] ریال تعیین گردیده و سایر مزایا مطابق قرارداد اولیه برقرار خواهد بود.
+
+محل انجام کار [workplace_address] می‌باشد.
+
+کلیه مفاد قرارداد اولیه به قوت خود باقی است.
+
+امضاء کارفرما
+
+امضاء کارمند

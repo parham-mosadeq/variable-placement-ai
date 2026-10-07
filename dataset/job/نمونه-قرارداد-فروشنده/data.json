@@ -1,0 +1,79 @@
+[
+  {
+    "clause_id": 0,
+    "clause_type": "عنوان و مقدمه",
+    "text": "این قرارداد در چارچوب قوانین جمهوری اسلامی ایران به موجب ماده (۱۰) قانون کار و سایر قوانین و مقررات موضوعه کشور فی مابین کارفرما و فروشنده در تاریخ [contract_date] به شرح ذیل منعقد و لازم الاجرا گردید.",
+    "entities": [
+      {"slot": "contract_date", "before_token": "در تاریخ", "after_token": "به شرح ذیل"}
+    ]
+  },
+  {
+    "clause_id": 1,
+    "clause_type": "مشخصات طرفین",
+    "text": "شرکت آقا / خانم [employer_name] به شماره ثبت [employer_registration_number] شماره شناسنامه [employer_id] و شناسه ملی [employer_national_id] کد ملی [employer_national_id] و فرزند [employer_father] به نمایندگی جناب آقای/خانم [employer_representative] متولد [employer_representative_birthdate] در سمت [employer_representative_position] به نشانی [employer_address] و کدپستی [employer_postal_code] و تلفن [employer_phone] و دورنگار [employer_fax] پست الکترونیک [employer_representative_email] که از این پس به عنوان کارفرما نامیده میشود از یک طرف؛ و آقا/خانم [employee_name] فرزند [employee_father] متولد [employee_birthdate] به شماره شناسنامه [employee_certificate_id] شماره ملی [employee_national_id] به نشانی [employee_address] و کدپستی [employee_postal_code] و تلفن همراه [employee_phone] و پست الکترونیک [employee_email] که از این پس به عنوان فروشنده نامیده میشود از طرف دیگر بر طبق مفاد ذیل منعقد و لازم الاجرا می گردد.",
+    "entities": [
+      {"slot": "employer_name", "before_token": "شرکت آقا / خانم", "after_token": "به شماره ثبت"},
+      {"slot": "employer_registration_number", "before_token": "شماره ثبت", "after_token": "شماره شناسنامه"},
+      {"slot": "employer_id", "before_token": "شماره شناسنامه", "after_token": "و شناسه ملی"},
+      {"slot": "employer_national_id", "before_token": "شناسه ملی", "after_token": "کد ملی"},
+      {"slot": "employer_father", "before_token": "فرزند", "after_token": "به نمایندگی"},
+      {"slot": "employer_representative", "before_token": "نمایندگی جناب آقای/خانم", "after_token": "متولد"},
+      {"slot": "employer_representative_birthdate", "before_token": "متولد", "after_token": "در سمت"},
+      {"slot": "employer_representative_position", "before_token": "در سمت", "after_token": "به نشانی"},
+      {"slot": "employer_address", "before_token": "به نشانی", "after_token": "و کدپستی"},
+      {"slot": "employer_postal_code", "before_token": "کدپستی", "after_token": "و تلفن"},
+      {"slot": "employer_phone", "before_token": "تلفن", "after_token": "و دورنگار"},
+      {"slot": "employer_fax", "before_token": "دورنگار", "after_token": "پست الکترونیک"},
+      {"slot": "employer_representative_email", "before_token": "پست الکترونیک", "after_token": "که از این پس"},
+      {"slot": "employee_name", "before_token": "آقا خانم", "after_token": "فرزند"},
+      {"slot": "employee_father", "before_token": "فرزند", "after_token": "متولد"},
+      {"slot": "employee_birthdate", "before_token": "متولد", "after_token": "به شماره شناسنامه"},
+      {"slot": "employee_certificate_id", "before_token": "شماره شناسنامه", "after_token": "شماره ملی"},
+      {"slot": "employee_national_id", "before_token": "شماره ملی", "after_token": "به نشانی"},
+      {"slot": "employee_address", "before_token": "به نشانی", "after_token": "و کدپستی"},
+      {"slot": "employee_postal_code", "before_token": "کدپستی", "after_token": "و تلفن همراه"},
+      {"slot": "employee_phone", "before_token": "تلفن همراه", "after_token": "و پست الکترونیک"},
+      {"slot": "employee_email", "before_token": "پست الکترونیک", "after_token": "که از این پس"}
+    ]
+  },
+  {
+    "clause_id": 2,
+    "clause_type": "موضوع قرارداد",
+    "text": "ماده (۱) موضوع قرارداد: موضوع قرارداد عبارت است از اشتغال فروشنده در [work_location] و انجام تمامی وظایف محوله که از سوی کارفرما به وی ارجاع می‌گردد؛ به نحو رضایت‌بخش و با رعایت کامل منافع و مصالح کارفرما.",
+    "entities": [
+      {"slot": "work_location", "before_token": "اشتغال فروشنده در", "after_token": "و انجام تمامی"}
+    ]
+  },
+  {
+    "clause_id": 3,
+    "clause_type": "نوع و مدت قرارداد",
+    "text": "ماده (۲) نوع و مدت قرارداد: (۱) نوع قرارداد حاضر به صورت [contract_type] است. (۲) این قرارداد از تاریخ [contract_start_date] لغایت [contract_end_date] به مدت [contract_duration] ماه معتبر است. تبصره ۱: مدت این قرارداد با توافق طرفین قابل تمدید است که در صورت توافق بر تمدید قرارداد توافق مورد نظر به این قرارداد ضمیمه می‌گردد.",
+    "entities": [
+      {"slot": "contract_type", "before_token": "به صورت", "after_token": "است"},
+      {"slot": "contract_start_date", "before_token": "از تاریخ", "after_token": "لغایت"},
+      {"slot": "contract_end_date", "before_token": "لغایت", "after_token": "ماه"},
+      {"slot": "contract_duration", "before_token": "به مدت", "after_token": "ماه"}
+    ]
+  },
+  {
+    "clause_id": 4,
+    "clause_type": "محل انجام قرارداد",
+    "text": "ماده (۳) محل انجام قرارداد: آدرس محل کارفرما و اشتغال فروشنده: [work_address]. تبصره ۲: در صورت جابه جایی محل کار به خارج از شهر کارفرما حسب مورد ملزم به تعدیل شرایط کاری متناسب با تغییرات ایجاد شده و تأمین تسهیلات لازم جهت ایاب و ذهاب خواهد بود. جابه جایی محل کار در شهر [city] از نظر فروشنده بلامانع است. محل جدید توسط کارفرما تعیین و به فروشنده ابلاغ خواهد شد.",
+    "entities": [
+      {"slot": "work_address", "before_token": "اشتغال فروشنده:", "after_token": "تبصره"},
+      {"slot": "city", "before_token": "در شهر", "after_token": "از نظر فروشنده"}
+    ]
+  },
+  {
+    "clause_id": 5,
+    "clause_type": "ساعت کار",
+    "text": "ماده (۴) ساعت کار: (۱) ساعت انجام کار بر اساس تبصره ۱ ماده ۵۱ قانون کار، [weekly_hours] ساعت در هفته است. میزان ساعت کار و ساعت شروع و پایان آن با توافق طرفین تعیین می‌گردد. ساعت کار نمی‌تواند بیش از میزان مندرج در قانون کار تعیین شود لیکن کمتر از آن مجاز است. (۲) ساعت کاری فروشنده براساس توافق با کارفرما در روزهای شنبه تا چهارشنبه از ساعت [morning_start] تا ساعت [morning_end] بعد از ظهر است و همچنین روزهای پنج شنبه از ساعت [thursday_start] تا ساعت [thursday_end] است.",
+    "entities": [
+      {"slot": "weekly_hours", "before_token": "قانون کار،", "after_token": "ساعت در هفته"},
+      {"slot": "morning_start", "before_token": "از ساعت", "after_token": "تا ساعت"},
+      {"slot": "morning_end", "before_token": "تا ساعت", "after_token": "بعد از ظهر"},
+      {"slot": "thursday_start", "before_token": "از ساعت", "after_token": "تا ساعت"},
+      {"slot": "thursday_end", "before_token": "تا ساعت", "after_token": "است"}
+    ]
+  }
+]

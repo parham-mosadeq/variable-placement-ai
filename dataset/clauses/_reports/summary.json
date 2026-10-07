@@ -1,0 +1,12 @@
+{
+  "document_count": 45,
+  "source_clause_count": 394,
+  "clause_file_count": 394,
+  "exact_duplicate_group_count": 44,
+  "exact_duplicate_occurrence_count": 132,
+  "article_schema": [
+    "title",
+    "content",
+    "keywords"
+  ]
+}

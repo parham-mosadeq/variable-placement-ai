@@ -1,0 +1,21 @@
+بسمه خدا
+
+قرارداد کار با مدت معین
+
+این قرارداد کار به موجب ماده (۱۰) قانون کار جمهوری اسلامی ایران و تبصره (۳) الحاقی به ماده (۷) قانون کار و سایر مقررات مربوطه بین کارفرما و کارمند منعقد و لازم‌الاجرا می‌گردد.
+
+کارفرما: آقا / خانم [employer_name] فرزند [employer_father] کدملی [employer_national_id] شماره ثبت [employer_registration_number] شناسه ملی [employer_national_id_company] نشانی و تلفن [employer_contact] به نمایندگی [employer_representative] در سمت [employer_position]
+
+کارمند: آقا / خانم [employee_name] فرزند [employee_father] متولد [employee_birthdate] شماره شناسنامه [employee_certificate_id] کدملی [employee_national_id] نشانی و تلفن [employee_contact] میزان تحصیلات [education_level]
+
+موضوع قرارداد عبارت است از اشتغال کارمند به عنوان [job_title] در بخش [department] و انجام کلیه وظایف محوله در حوزه مربوطه.
+
+نوع قرارداد به صورت [contract_type] است. این قرارداد از تاریخ [start_date] لغایت [end_date] به مدت [contract_duration] ماه معتبر است.
+
+محل انجام قرارداد و کارگاه: [workplace_address]
+
+ساعت کار ۴۴ ساعت در هفته مطابق قانون کار جمهوری اسلامی ایران می‌باشد.
+
+حقوق و مزایا شامل مزد ماهیانه [base_salary] ریال، حق مسکن [housing_allowance] ریال، بن کارگری [food_allowance] ریال، حق اولاد [child_allowance] ریال، سایر مزایا [other_allowances] ریال و جمع کل [total_salary] ریال می‌باشد.
+
+پرداخت حقوق به حساب شماره [bank_account] نزد بانک [bank_name] شعبه [bank_branch] انجام می‌گردد.

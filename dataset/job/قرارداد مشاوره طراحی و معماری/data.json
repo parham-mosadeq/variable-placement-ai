@@ -1,0 +1,92 @@
+[
+  {
+    "clause_id": 0,
+    "clause_type": "title",
+    "text": "قرارداد مشاوره طراحی و معماری",
+    "entities": []
+  },
+
+  {
+    "clause_id": 1,
+    "clause_type": "legal_basis",
+    "text": "ماده ۱۰ قانون مدنی",
+    "entities": []
+  },
+
+  {
+    "clause_id": 2,
+    "clause_type": "consultant",
+    "text": "مشاور: [consultant_name] فرزند [father_name] شماره ملی [national_id] تلفن [phone] نشانی [address]",
+    "entities": [
+      { "slot": "consultant_name", "before_token": "مشاور:", "after_token": "فرزند" },
+      { "slot": "father_name", "before_token": "فرزند", "after_token": "شماره ملی" },
+      { "slot": "national_id", "before_token": "شماره ملی", "after_token": "تلفن" },
+      { "slot": "phone", "before_token": "شماره ملی", "after_token": "نشانی" },
+      { "slot": "address", "before_token": "نشانی", "after_token": "" }
+    ]
+  },
+
+  {
+    "clause_id": 3,
+    "clause_type": "client",
+    "text": "کارفرما: [client_name] شماره ملی [client_national_id] تلفن [client_phone] نشانی [client_address]",
+    "entities": [
+      { "slot": "client_name", "before_token": "کارفرما:", "after_token": "شماره ملی" },
+      { "slot": "client_national_id", "before_token": "شماره ملی", "after_token": "تلفن" },
+      { "slot": "client_phone", "before_token": "تلفن", "after_token": "نشانی" },
+      { "slot": "client_address", "before_token": "نشانی", "after_token": "" }
+    ]
+  },
+
+  {
+    "clause_id": 4,
+    "clause_type": "project_scope",
+    "text": "طراحی معماری، سازه، برق و مکانیک + اخذ پروانه ساختمانی",
+    "entities": []
+  },
+
+  {
+    "clause_id": 5,
+    "clause_type": "project_info",
+    "text": "پروژه [project_type] با کاربری [usage] در [project_address] با زیربنا [area] مترمربع",
+    "entities": [
+      { "slot": "project_type", "before_token": "پروژه", "after_token": "با" },
+      { "slot": "usage", "before_token": "کاربری", "after_token": "در" },
+      { "slot": "project_address", "before_token": "در", "after_token": "با" },
+      { "slot": "area", "before_token": "زیربنا", "after_token": "مترمربع" }
+    ]
+  },
+
+  {
+    "clause_id": 6,
+    "clause_type": "duration",
+    "text": "از تاریخ [start_date] لغایت [end_date]",
+    "entities": [
+      { "slot": "start_date", "before_token": "از تاریخ", "after_token": "لغایت" },
+      { "slot": "end_date", "before_token": "لغایت", "after_token": "" }
+    ]
+  },
+
+  {
+    "clause_id": 7,
+    "clause_type": "fee",
+    "text": "حق‌الزحمه [fee] ریال",
+    "entities": [
+      { "slot": "fee", "before_token": "مبلغ", "after_token": "ریال" }
+    ]
+  },
+
+  {
+    "clause_id": 8,
+    "clause_type": "engineer_obligations",
+    "text": "رعایت ضوابط نظام مهندسی، اصلاح نقشه‌ها، ارائه خروجی فنی استاندارد",
+    "entities": []
+  },
+
+  {
+    "clause_id": 9,
+    "clause_type": "final_clause",
+    "text": "این قرارداد در دو نسخه با اعتبار یکسان تنظیم و امضا می‌گردد",
+    "entities": []
+  }
+]

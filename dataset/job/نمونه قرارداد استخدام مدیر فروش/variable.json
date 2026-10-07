@@ -1,0 +1,40 @@
+{
+  "contract_date": "",
+  "contract_city": "",
+
+  "employer_type": "",
+  "company_name": "",
+  "registration_number": "",
+  "employer_certificate_id": "",
+  "company_national_id": "",
+  "employer_national_id": "",
+  "employer_father_name": "",
+  "company_address": "",
+  "postal_code": "",
+
+  "representative_name": "",
+  "representative_phone": "",
+  "fax": "",
+  "representative_birth_date": "",
+  "representative_email": "",
+  "position": "",
+
+  "sales_manager_name": "",
+  "sales_manager_postal_code": "",
+  "sales_manager_birth_date": "",
+  "sales_manager_certificate_id": "",
+  "sales_manager_national_id": "",
+  "sales_manager_address": "",
+  "sales_manager_mobile": "",
+  "sales_manager_email": "",
+
+  "workplace_address": "",
+  "contract_type": "",
+
+  "start_date": "",
+  "end_date": "",
+  "duration": "",
+
+  "work_city": "",
+  "weekly_work_hours": ""
+}

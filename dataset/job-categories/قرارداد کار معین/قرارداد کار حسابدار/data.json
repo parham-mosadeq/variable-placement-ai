@@ -1,0 +1,84 @@
+[
+  {
+    "clause_id": 0,
+    "clause_type": "title",
+    "text": "قرارداد کار حسابدار",
+    "entities": []
+  },
+
+  {
+    "clause_id": 1,
+    "clause_type": "preamble",
+    "text": "این قرارداد مطابق قانون کار بین کارفرما و کارمند منعقد می‌گردد",
+    "entities": [
+      { "slot": "contract_date", "before_token": "تاریخ", "after_token": "" }
+    ]
+  },
+
+  {
+    "clause_id": 2,
+    "clause_type": "company",
+    "text": "شرکت [company_name] شماره ثبت [registration_number] شناسه ملی [company_national_id] کد اقتصادی [economic_code] نماینده [representative] سمت [position] نشانی [company_address]",
+    "entities": [
+      { "slot": "company_name", "before_token": "شرکت", "after_token": "شماره ثبت" },
+      { "slot": "registration_number", "before_token": "شماره ثبت", "after_token": "شناسه ملی" },
+      { "slot": "company_national_id", "before_token": "شناسه ملی", "after_token": "کد اقتصادی" },
+      { "slot": "economic_code", "before_token": "کد اقتصادی", "after_token": "نماینده" },
+      { "slot": "representative", "before_token": "نماینده", "after_token": "سمت" },
+      { "slot": "position", "before_token": "سمت", "after_token": "نشانی" },
+      { "slot": "company_address", "before_token": "نشانی", "after_token": "" }
+    ]
+  },
+
+  {
+    "clause_id": 3,
+    "clause_type": "accountant",
+    "text": "حسابدار: [accountant_name] شماره ملی [national_id] شماره شناسنامه [certificate_id] نشانی [address] تحصیلات [education_level]",
+    "entities": [
+      { "slot": "accountant_name", "before_token": "حسابدار:", "after_token": "شماره ملی" },
+      { "slot": "national_id", "before_token": "شماره ملی", "after_token": "شماره شناسنامه" },
+      { "slot": "certificate_id", "before_token": "شماره شناسنامه", "after_token": "نشانی" },
+      { "slot": "address", "before_token": "نشانی", "after_token": "تحصیلات" },
+      { "slot": "education_level", "before_token": "تحصیلات", "after_token": "" }
+    ]
+  },
+
+  {
+    "clause_id": 4,
+    "clause_type": "subject",
+    "text": "انجام امور حسابداری و مالی شرکت",
+    "entities": []
+  },
+
+  {
+    "clause_id": 5,
+    "clause_type": "accounting_duties",
+    "text": "ثبت اسناد مالی، گزارش‌دهی، کنترل حساب‌ها و تهیه اظهارنامه مالیاتی",
+    "entities": []
+  },
+
+  {
+    "clause_id": 6,
+    "clause_type": "contract_term",
+    "text": "از تاریخ [start_date] لغایت [end_date] به مدت [duration]",
+    "entities": [
+      { "slot": "start_date", "before_token": "از تاریخ", "after_token": "لغایت" },
+      { "slot": "end_date", "before_token": "لغایت", "after_token": "به مدت" },
+      { "slot": "duration", "before_token": "به مدت", "after_token": "" }
+    ]
+  },
+
+  {
+    "clause_id": 7,
+    "clause_type": "confidentiality",
+    "text": "کارمند موظف به حفظ محرمانگی اطلاعات مالی شرکت است",
+    "entities": []
+  },
+
+  {
+    "clause_id": 8,
+    "clause_type": "final_clause",
+    "text": "این قرارداد در دو نسخه با اعتبار یکسان تنظیم و امضا می‌گردد",
+    "entities": []
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "title": "مشخصات کارفرما - قرارداد استخدام منشی",
+  "content": "شرکت {{company_name}} شماره ثبت {{registration_number}} شناسه ملی {{company_national_id}} به نمایندگی {{employer_representative}} در سمت {{employer_position}} نشانی {{company_address}}",
+  "keywords": [
+    "مشخصات کارفرما",
+    "قرارداد استخدام منشی",
+    "بند قرارداد",
+    "قرارداد کار",
+    "employer",
+    "طرفین قرارداد",
+    "مشخصات هویتی",
+    "اطلاعات تماس",
+    "کد ملی",
+    "نشانی طرفین",
+    "company_name",
+    "شرکت",
+    "شماره ثبت",
+    "registration_number",
+    "شناسه ملی",
+    "company_national_id",
+    "به نمایندگی",
+    "employer_representative",
+    "در سمت",
+    "employer_position",
+    "نشانی",
+    "company_address",
+    "ثبت",
+    "سمت",
+    "شناسه",
+    "ملی",
+    "نمایندگی"
+  ]
+}

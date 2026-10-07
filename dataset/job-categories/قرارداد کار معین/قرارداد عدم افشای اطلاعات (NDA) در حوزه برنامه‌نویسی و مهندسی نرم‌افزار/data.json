@@ -1,0 +1,80 @@
+[
+  {
+    "clause_id": 0,
+    "clause_type": "title",
+    "text": "قرارداد عدم افشای اطلاعات (NDA) در حوزه برنامه‌نویسی و مهندسی نرم‌افزار",
+    "entities": []
+  },
+  {
+    "clause_id": 1,
+    "clause_type": "legal_basis",
+    "text": "ماده 10 قانون مدنی",
+    "entities": []
+  },
+  {
+    "clause_id": 2,
+    "clause_type": "employer",
+    "text": "شرکت [company_name] به شماره ثبت [registration_number] و شناسه ملی [national_id] به نمایندگی [employer_representative] در سمت [position] به نشانی [company_address] و شماره تماس [company_phone]",
+    "entities": [
+      { "slot": "company_name", "before_token": "شرکت", "after_token": "به شماره ثبت" },
+      { "slot": "registration_number", "before_token": "شماره ثبت", "after_token": "و شناسه ملی" },
+      { "slot": "national_id", "before_token": "شناسه ملی", "after_token": "به نمایندگی" },
+      { "slot": "employer_representative", "before_token": "به نمایندگی", "after_token": "در سمت" },
+      { "slot": "position", "before_token": "در سمت", "after_token": "به نشانی" },
+      { "slot": "company_address", "before_token": "به نشانی", "after_token": "و شماره تماس" },
+      { "slot": "company_phone", "before_token": "و شماره تماس", "after_token": "" }
+    ]
+  },
+  {
+    "clause_id": 3,
+    "clause_type": "developer",
+    "text": "برنامه‌نویس: [developer_name] فرزند [father_name] شماره ملی [developer_national_id] نشانی [developer_address] شماره تماس [developer_phone]",
+    "entities": [
+      { "slot": "developer_name", "before_token": "برنامه‌نویس:", "after_token": "فرزند" },
+      { "slot": "father_name", "before_token": "فرزند", "after_token": "شماره ملی" },
+      { "slot": "developer_national_id", "before_token": "شماره ملی", "after_token": "نشانی" },
+      { "slot": "developer_address", "before_token": "نشانی", "after_token": "شماره تماس" },
+      { "slot": "developer_phone", "before_token": "شماره تماس", "after_token": "" }
+    ]
+  },
+  {
+    "clause_id": 4,
+    "clause_type": "subject",
+    "text": "حفظ محرمانگی اطلاعات فنی، کد منبع، معماری نرم‌افزار و داده‌های پروژه",
+    "entities": []
+  },
+  {
+    "clause_id": 5,
+    "clause_type": "obligations",
+    "text": "عدم افشا، عدم انتشار کد، عدم استفاده شخصی از اطلاعات، رعایت امنیت داده‌ها",
+    "entities": []
+  },
+  {
+    "clause_id": 6,
+    "clause_type": "ip_ownership",
+    "text": "مالکیت کلیه کدها و خروجی‌ها متعلق به کارفرما است",
+    "entities": []
+  },
+  {
+    "clause_id": 7,
+    "clause_type": "duration",
+    "text": "مدت قرارداد از [start_date] به مدت [duration] ماه و تعهد محرمانگی تا [n_years] سال پس از پایان همکاری",
+    "entities": [
+      { "slot": "start_date", "before_token": "از", "after_token": "به مدت" },
+      { "slot": "duration", "before_token": "به مدت", "after_token": "ماه" },
+      { "slot": "n_years", "before_token": "تا", "after_token": "سال" }
+    ]
+  },
+  {
+    "clause_id": 8,
+    "clause_type": "liability",
+    "text": "در صورت نقض قرارداد، کارفرما حق مطالبه خسارت و پیگیری حقوقی دارد",
+    "entities": []
+  },
+  {
+    "clause_id": 9,
+    "clause_type": "final_clause",
+    "text": "این قرارداد در دو نسخه متحدالمتن تنظیم و امضا گردید",
+    "entities": []
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "clause_id": 0,
+    "clause_type": "عنوان",
+    "text": "قرارداد استخدام راننده",
+    "entities": []
+  },
+  {
+    "clause_id": 1,
+    "clause_type": "مشخصات طرفین",
+    "text": "این قرارداد در تاریخ [contract_date] بین شرکت [company_name] به نمایندگی [representative_name] و آقای/خانم [driver_name] فرزند [father_name] دارای شماره ملی [national_id] منعقد گردید.",
+    "entities": [
+      {"slot":"contract_date","before_token":"در تاریخ","after_token":"بین شرکت"},
+      {"slot":"company_name","before_token":"شرکت","after_token":"به نمایندگی"},
+      {"slot":"representative_name","before_token":"به نمایندگی","after_token":"و آقای/خانم"},
+      {"slot":"driver_name","before_token":"آقای/خانم","after_token":"فرزند"},
+      {"slot":"father_name","before_token":"فرزند","after_token":"دارای شماره ملی"},
+      {"slot":"national_id","before_token":"شماره ملی","after_token":"منعقد گردید"}
+    ]
+  },
+  {
+    "clause_id": 2,
+    "clause_type": "موضوع قرارداد",
+    "text": "موضوع قرارداد عبارت است از اشتغال راننده جهت رانندگی خودرو [vehicle_type] با پلاک [vehicle_plate_number] و انجام مأموریت‌های محوله از سوی کارفرما.",
+    "entities": [
+      {"slot":"vehicle_type","before_token":"خودرو","after_token":"با پلاک"},
+      {"slot":"vehicle_plate_number","before_token":"پلاک","after_token":"و انجام مأموریت"}
+    ]
+  },
+  {
+    "clause_id": 3,
+    "clause_type": "مدت قرارداد",
+    "text": "مدت قرارداد از تاریخ [start_date] لغایت [end_date] به مدت [duration] ماه می‌باشد.",
+    "entities": [
+      {"slot":"start_date","before_token":"از تاریخ","after_token":"لغایت"},
+      {"slot":"end_date","before_token":"لغایت","after_token":"به مدت"},
+      {"slot":"duration","before_token":"به مدت","after_token":"ماه"}
+    ]
+  }
+]

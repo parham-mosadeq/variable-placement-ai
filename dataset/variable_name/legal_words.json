@@ -1,0 +1,4073 @@
+{
+  "نام": {
+    "category": "اشخاص و هویت",
+    "synonyms": [
+      "آوازه",
+      "اعتبار",
+      "شهرت",
+      "اسم",
+      "عنوان",
+      "کنیه",
+      "لقب",
+      "کلمه"
+    ],
+    "english": [
+      "appellation",
+      "cognomen",
+      "denomination",
+      "first name",
+      "forename",
+      "reputation",
+      "repute",
+      "title"
+    ]
+  },
+  "نام خانوادگی": {
+    "category": "اشخاص و هویت",
+    "synonyms": [],
+    "english": [
+      "cognomen",
+      "family name",
+      "last name",
+      "second name",
+      "surname"
+    ]
+  },
+  "شناسنامه": {
+    "category": "اشخاص و هویت",
+    "synonyms": [
+      "سجل",
+      "کارت شناسایی",
+      "ورقه هویت"
+    ],
+    "english": [
+      "identity certificate",
+      "identity card",
+      "identity card(or certificate)"
+    ]
+  },
+  "تاریخ تولد": {
+    "category": "اشخاص و هویت",
+    "synonyms": [],
+    "english": [
+      "birthdate",
+      "date of birth"
+    ]
+  },
+  "محل تولد": {
+    "category": "اشخاص و هویت",
+    "synonyms": [],
+    "english": [
+      "birthplace"
+    ]
+  },
+  "جنسیت": {
+    "category": "اشخاص و هویت",
+    "synonyms": [],
+    "english": [
+      "sexuality",
+      "generic state",
+      "homogeneity",
+      "gender",
+      "sex"
+    ]
+  },
+  "تابعیت": {
+    "category": "اشخاص و هویت",
+    "synonyms": [
+      "تبعه",
+      "قومیت",
+      "ملیت",
+      "اطاعت",
+      "انقیاد",
+      "فرمان برداری",
+      "پیروی",
+      "تبعیت"
+    ],
+    "english": [
+      "citizenship",
+      "nationality",
+      "dependence",
+      "allegiance"
+    ]
+  },
+  "مذهب": {
+    "category": "اشخاص و هویت",
+    "synonyms": [
+      "آیین",
+      "دین",
+      "روش",
+      "سنت",
+      "شرع",
+      "شریعت",
+      "طریقه",
+      "طریقت",
+      "کیش",
+      "مسلک",
+      "مشرب",
+      "نحله | زراندود",
+      "مطلا"
+    ],
+    "english": [
+      "gilt",
+      "illuminated",
+      "illuminator",
+      "gilder",
+      "faith",
+      "religion",
+      "revealed religion",
+      "illuminated (as a book)"
+    ]
+  },
+  "ولی": {
+    "category": "اشخاص و هویت",
+    "synonyms": [
+      "سرپرست",
+      "قیم",
+      "کفیل",
+      "وصی",
+      "مرشد",
+      "دوست"
+    ],
+    "english": [
+      "but",
+      "however",
+      "only",
+      "yet",
+      "guardian",
+      "tutor",
+      "maste",
+      "warden",
+      "saint",
+      "except",
+      "friend",
+      "master"
+    ]
+  },
+  "قیم": {
+    "category": "اشخاص و هویت",
+    "synonyms": [
+      "سرپرست",
+      "وصی",
+      "وکیل",
+      "ولی",
+      "راست"
+    ],
+    "english": [
+      "executrix",
+      "administrator",
+      "caretaker",
+      "executor",
+      "guardian",
+      "keeper",
+      "trustee",
+      "tutelary",
+      "ward",
+      "tutor"
+    ]
+  },
+  "وکیل": {
+    "category": "طرفین قرارداد",
+    "synonyms": [],
+    "english": [
+      "counsel",
+      "lawyer",
+      "barrister",
+      "advocate",
+      "agent",
+      "attorney",
+      "deputy",
+      "lieutenant",
+      "proxy"
+    ]
+  },
+  "نماینده": {
+    "category": "طرفین قرارداد",
+    "synonyms": [
+      "عامل",
+      "قایم مقام",
+      "کارگزار",
+      "مباشر",
+      "وکیل",
+      "شاخص",
+      "نمودار"
+    ],
+    "english": [
+      "representative",
+      "agent",
+      "indicator",
+      "exponent",
+      "index",
+      "procurator",
+      "delegate",
+      "deputy",
+      "emissary",
+      "sgent",
+      "[math.] exponent"
+    ]
+  },
+  "موکل": {
+    "category": "اشخاص و هویت",
+    "synonyms": [
+      "کفیل",
+      "گماشته",
+      "مامور",
+      "محافظ",
+      "نگهبان"
+    ],
+    "english": [
+      "guardian",
+      "client",
+      "principal",
+      "delegated",
+      "appointed",
+      "constituent"
+    ]
+  },
+  "وصی": {
+    "category": "اشخاص و هویت",
+    "synonyms": [
+      "سرپرست",
+      "قیم",
+      "کفیل",
+      "وکیل",
+      "ولی",
+      "سفارشگر",
+      "ناصح"
+    ],
+    "english": [
+      "executor"
+    ]
+  },
+  "وارث": {
+    "category": "اشخاص و هویت",
+    "synonyms": [
+      "ارث بر",
+      "بازمانده",
+      "جانشین",
+      "خلف",
+      "قایم مقام",
+      "میراث خوار"
+    ],
+    "english": [
+      "heiress",
+      "heir",
+      "inheritor",
+      "legatee"
+    ]
+  },
+  "متوفی": {
+    "category": "اشخاص و هویت",
+    "synonyms": [
+      "مرده",
+      "درگذشته",
+      "فوت شده"
+    ],
+    "english": [
+      "decedent",
+      "deceased",
+      "defunct",
+      "departed",
+      "lamented"
+    ]
+  },
+  "شخص حقوقی": {
+    "category": "اشخاص و هویت",
+    "synonyms": [],
+    "english": [
+      "legal entity",
+      "legal person"
+    ]
+  },
+  "سوگند": {
+    "category": "اشخاص و هویت",
+    "synonyms": [
+      "حلف",
+      "قسم",
+      "یمین"
+    ],
+    "english": [
+      "adjuration",
+      "oath",
+      "vow"
+    ]
+  },
+  "نشانی": {
+    "category": "آدرس و مکان",
+    "synonyms": [
+      "آدرس",
+      "نشان",
+      "اثر",
+      "یادگار"
+    ],
+    "english": [
+      "address",
+      "countersign",
+      "indication",
+      "token",
+      "proof"
+    ]
+  },
+  "کد پستی": {
+    "category": "آدرس و مکان",
+    "synonyms": [],
+    "english": [
+      "postal code",
+      "zip code"
+    ]
+  },
+  "استان": {
+    "category": "آدرس و مکان",
+    "synonyms": [],
+    "english": [
+      "threshold",
+      "sill",
+      "court",
+      "[fig.] audience",
+      "[lit.] threshold",
+      "division",
+      "province",
+      "state",
+      "(large) province",
+      "supine"
+    ]
+  },
+  "شهر": {
+    "category": "آدرس و مکان",
+    "synonyms": [
+      "آبادی",
+      "بلد",
+      "دیار",
+      "شهرستان",
+      "کشور",
+      "مدینه",
+      "ملک",
+      "ناحیه",
+      "ولایت",
+      "برج",
+      "ماه"
+    ],
+    "english": [
+      "city",
+      "place",
+      "town",
+      "month"
+    ]
+  },
+  "شهرستان": {
+    "category": "آدرس و مکان",
+    "synonyms": [
+      "بلد",
+      "شهر",
+      "کوره",
+      "مدینه",
+      "ولایت"
+    ],
+    "english": [
+      "division",
+      "province"
+    ]
+  },
+  "روستا": {
+    "category": "آدرس و مکان",
+    "synonyms": [
+      "آبادی",
+      "ده",
+      "دهات",
+      "دیه",
+      "رستاق",
+      "قریه",
+      "قصبه"
+    ],
+    "english": [
+      "village",
+      "place",
+      "land",
+      "rustic"
+    ]
+  },
+  "خیابان": {
+    "category": "آدرس و مکان",
+    "synonyms": [
+      "بلوار",
+      "شارع",
+      "گذرگاه",
+      "معبر"
+    ],
+    "english": [
+      "avenue",
+      "road",
+      "street",
+      "walk",
+      "alley",
+      "thoroughfare",
+      "drag"
+    ]
+  },
+  "کوچه": {
+    "category": "آدرس و مکان",
+    "synonyms": [
+      "برزن",
+      "خیابان",
+      "گذرگاه",
+      "معبر"
+    ],
+    "english": [
+      "alley",
+      "alleyway",
+      "court",
+      "lane",
+      "passageway",
+      "street"
+    ]
+  },
+  "پلاک": {
+    "category": "آدرس و مکان",
+    "synonyms": [],
+    "english": [
+      "plate",
+      "plaque",
+      "tag",
+      "license plate",
+      "shingle"
+    ]
+  },
+  "واحد": {
+    "category": "آدرس و مکان",
+    "synonyms": [
+      "تنها",
+      "فرد",
+      "فرید",
+      "مفرد",
+      "مقیاس",
+      "منفرد",
+      "وحید",
+      "یکتا",
+      "یکه",
+      "یگانه"
+    ],
+    "english": [
+      "credit",
+      "an",
+      "one",
+      "single",
+      "whole",
+      "module",
+      "unit",
+      "unity",
+      "detachment",
+      "unique",
+      "[n.] unit"
+    ]
+  },
+  "طبقه": {
+    "category": "آدرس و مکان",
+    "synonyms": [
+      "اشکوبه",
+      "اشکوب",
+      "خن",
+      "رده",
+      "زمره",
+      "صف",
+      "کلاس",
+      "گونه",
+      "رسته",
+      "سنخ",
+      "صنف",
+      "فرقه",
+      "گروه",
+      "پوسته",
+      "چینه",
+      "قشر",
+      "لایه",
+      "مرتبت",
+      "مرتبه",
+      "پایه",
+      "درجه",
+      "دستگاه موسیقی"
+    ],
+    "english": [
+      "breed",
+      "class",
+      "division",
+      "estate",
+      "genus",
+      "layer",
+      "order",
+      "rating",
+      "sort",
+      "stripe",
+      "stratum",
+      "category",
+      "stage",
+      "grade",
+      "group",
+      "storey",
+      "walk"
+    ]
+  },
+  "منطقه": {
+    "category": "آدرس و مکان",
+    "synonyms": [
+      "بخش",
+      "حدود",
+      "خطه",
+      "محدوده",
+      "ناحیه"
+    ],
+    "english": [
+      "area",
+      "district",
+      "division",
+      "part",
+      "region",
+      "sector",
+      "sphere",
+      "territory",
+      "zone",
+      "tract",
+      "ward",
+      "[med.] shingles"
+    ]
+  },
+  "ناحیه": {
+    "category": "آدرس و مکان",
+    "synonyms": [
+      "ارض",
+      "بخش",
+      "خطه",
+      "سرحد",
+      "سرزمین",
+      "شهر",
+      "قلمرو",
+      "کران",
+      "کرانه",
+      "کشور",
+      "منطقه",
+      "ناحیت",
+      "نقطه"
+    ],
+    "english": [
+      "area",
+      "belt",
+      "borough",
+      "country",
+      "demesne",
+      "district",
+      "locality",
+      "part",
+      "place",
+      "region",
+      "sector",
+      "territory",
+      "township",
+      "tract",
+      "ward",
+      "zone"
+    ]
+  },
+  "محله": {
+    "category": "آدرس و مکان",
+    "synonyms": [
+      "برزن",
+      "ربع",
+      "کوی",
+      "محلت"
+    ],
+    "english": [
+      "quarter",
+      "parish",
+      "community",
+      "locality",
+      "neighborhood",
+      "borough",
+      "precincts",
+      "ward",
+      "zone"
+    ]
+  },
+  "تلفن": {
+    "category": "اطلاعات تماس",
+    "synonyms": [],
+    "english": [
+      "phone _",
+      "telephone"
+    ]
+  },
+  "پست": {
+    "category": "اطلاعات تماس",
+    "synonyms": [
+      "برید",
+      "پیک",
+      "چاپار",
+      "قراول",
+      "کشیک",
+      "خدمت",
+      "شغل",
+      "مقام",
+      "جایگاه",
+      "منزل",
+      "موضع",
+      "پاسگاه | بی سروپا",
+      "پست فطرت",
+      "دون همت",
+      "رذل",
+      "ناکس",
+      "بخیل",
+      "کنس",
+      "لئیم",
+      "لچر",
+      "قصیر",
+      "کم ارتفاع",
+      "کوتاه",
+      "بی قدر",
+      "بی مقدار",
+      "حقیر",
+      "خوار",
+      "دنی",
+      "دون",
+      "ذلیل",
+      "زبون",
+      "سفله",
+      "فرومایه",
+      "متذلل",
+      "نازل",
+      "جلب",
+      "رذیل",
+      "محقر",
+      "پایین",
+      "کوچک",
+      "مبتذل",
+      "وضیع"
+    ],
+    "english": [
+      "wretch",
+      "abject",
+      "bastard",
+      "base",
+      "cheap-jack",
+      "coarse",
+      "common",
+      "crummy",
+      "dirty",
+      "effete",
+      "gross",
+      "post",
+      "ignoble",
+      "inferior",
+      "insignificant",
+      "shabby",
+      "low",
+      "low-grade",
+      "mail",
+      "mangy",
+      "matter",
+      "menial",
+      "mingy",
+      "miserable",
+      "pelting",
+      "raffish",
+      "scapegrace",
+      "schlocky",
+      "scrubby",
+      "second-class",
+      "second-rate",
+      "servile",
+      "shitty",
+      "shoddy",
+      "small",
+      "small-minded",
+      "sordid",
+      "sorry",
+      "station",
+      "villainous",
+      "wastrel",
+      "worm",
+      "wormy",
+      "wretched",
+      "bugger",
+      "low-lying",
+      "chintzy",
+      "lowdown",
+      "lowlife",
+      "ropy",
+      "jerky",
+      "schlock"
+    ]
+  },
+  "مبلغ": {
+    "category": "اطلاعات مالی",
+    "synonyms": [
+      "پول",
+      "وجه",
+      "اندازه",
+      "مقدار",
+      "میزان",
+      "بلوغ",
+      "کمال | تبلیغاتچی",
+      "تبلیغ کننده",
+      "رساننده",
+      "مبشر"
+    ],
+    "english": [
+      "amount",
+      "expense",
+      "figure",
+      "sum",
+      "missionary",
+      "propagandist",
+      "exponent",
+      "mouthpiece",
+      "preacher",
+      "proponent",
+      "publicist"
+    ]
+  },
+  "قیمت": {
+    "category": "اطلاعات مالی",
+    "synonyms": [
+      "ارز",
+      "ارزش",
+      "بها",
+      "ثمن",
+      "مظنه",
+      "نرخ"
+    ],
+    "english": [
+      "cost",
+      "price",
+      "rate",
+      "valuation",
+      "values",
+      "worth",
+      "value"
+    ]
+  },
+  "ارزش": {
+    "category": "اطلاعات مالی",
+    "synonyms": [
+      "بها",
+      "ثمن",
+      "قیمت",
+      "مظنه",
+      "نرخ",
+      "ارج",
+      "اهمیت",
+      "اعتبار",
+      "سندیت",
+      "استحقاق",
+      "شایستگی",
+      "قابلیت",
+      "لیاقت",
+      "منزلت"
+    ],
+    "english": [
+      "account",
+      "margin",
+      "merit",
+      "price",
+      "quality",
+      "rate",
+      "valuation",
+      "value",
+      "weight",
+      "worth",
+      "valence"
+    ]
+  },
+  "بها": {
+    "category": "اطلاعات مالی",
+    "synonyms": [
+      "ارزش",
+      "ثمن",
+      "قیمت",
+      "ارز",
+      "ارج",
+      "مظنه",
+      "نرخ",
+      "قدر",
+      "قرب",
+      "منزلت",
+      "تاوان",
+      "جلا",
+      "درخشندگی",
+      "درخشش",
+      "رونق",
+      "شکوه",
+      "فر",
+      "جلال",
+      "عظمت",
+      "جمال",
+      "زیبایی",
+      "حسن",
+      "نیکویی"
+    ],
+    "english": [
+      "cost",
+      "figure",
+      "price",
+      "price tag",
+      "rate",
+      "valuation",
+      "values",
+      "worth"
+    ]
+  },
+  "هزینه": {
+    "category": "اطلاعات مالی",
+    "synonyms": [
+      "خرج",
+      "خرجی",
+      "مخارج",
+      "صرف",
+      "مصرف",
+      "انفاق",
+      "نفقه",
+      "خزانه",
+      "خزینه"
+    ],
+    "english": [
+      "age _",
+      "charge",
+      "cost",
+      "dues",
+      "expenditure",
+      "expense",
+      "outgo",
+      "outgoing",
+      "outlay",
+      "price",
+      "price tag",
+      "expense(s)",
+      "tab"
+    ]
+  },
+  "دستمزد": {
+    "category": "اطلاعات مالی",
+    "synonyms": [
+      "اجر",
+      "اجرت",
+      "حق الزحمه",
+      "حق القدم"
+    ],
+    "english": [
+      "emolument",
+      "fee",
+      "pay",
+      "remuneration",
+      "stipend",
+      "wage",
+      "consideration"
+    ]
+  },
+  "حقوق": {
+    "category": "اطلاعات مالی",
+    "synonyms": [],
+    "english": [
+      "rights",
+      "privileges",
+      "law",
+      "emolument",
+      "pay",
+      "remuneration",
+      "salary",
+      "fees",
+      "dues"
+    ]
+  },
+  "اجاره": {
+    "category": "اطلاعات مالی",
+    "synonyms": [
+      "استجاره",
+      "دربست",
+      "کرایه",
+      "ربح",
+      "سود",
+      "منفعت"
+    ],
+    "english": [
+      "lease",
+      "rent",
+      "return",
+      "hire",
+      "payment",
+      "tenure"
+    ]
+  },
+  "ودیعه": {
+    "category": "اطلاعات مالی",
+    "synonyms": [
+      "امانت",
+      "سپرده",
+      "ودیعت"
+    ],
+    "english": [
+      "deposit",
+      "endowment"
+    ]
+  },
+  "سود": {
+    "category": "اطلاعات مالی",
+    "synonyms": [
+      "استفاده",
+      "بهره",
+      "دخل",
+      "ربح",
+      "صرف",
+      "صرفه",
+      "عایدی",
+      "فایده",
+      "فرع",
+      "مداخل",
+      "منفعت",
+      "نتیجه",
+      "نزول",
+      "نفع",
+      "محصول",
+      "حاصل",
+      "ثمره"
+    ],
+    "english": [
+      "profit",
+      "gain",
+      "benefit",
+      "advantage",
+      "interest",
+      "soda",
+      "sodium",
+      "boon",
+      "proceeds",
+      "return",
+      "take",
+      "takings",
+      "boot",
+      "cleanup",
+      "percentage"
+    ]
+  },
+  "جریمه": {
+    "category": "اطلاعات مالی",
+    "synonyms": [
+      "بادافره",
+      "تاوان",
+      "خسارت",
+      "غرامت",
+      "کفاره"
+    ],
+    "english": [
+      "amercement",
+      "fine",
+      "forfeit",
+      "forfeiture",
+      "infliction",
+      "mulct",
+      "penalization",
+      "penalty"
+    ]
+  },
+  "خسارت": {
+    "category": "ریسک و مسئولیت",
+    "synonyms": [
+      "آسیب",
+      "اضرار",
+      "تاوان",
+      "جریمه",
+      "غرامت",
+      "زیان کاری",
+      "زیانمندی",
+      "خسران",
+      "زیان",
+      "ضرر",
+      "غبن",
+      "غرامتی",
+      "لطمه"
+    ],
+    "english": [
+      "loss",
+      "recompense",
+      "consideration",
+      "damages",
+      "restitution",
+      "damage(s)loss",
+      "average",
+      "injury",
+      "punishment",
+      "toll"
+    ]
+  },
+  "غرامت": {
+    "category": "اطلاعات مالی",
+    "synonyms": [
+      "تاوان",
+      "جبران",
+      "جریمه",
+      "خسارت",
+      "ضرر",
+      "عذاب",
+      "مشقت",
+      "پشیمان"
+    ],
+    "english": [
+      "damages",
+      "indemnity",
+      "reparations",
+      "fine",
+      "mulct",
+      "compensation",
+      "restitution",
+      "atonement",
+      "indemnification",
+      "payoff",
+      "recompense",
+      "redress"
+    ]
+  },
+  "ضمانت": {
+    "category": "ضمانت‌ها و تضمینات",
+    "synonyms": [
+      "پایندانی",
+      "پذرفتاری",
+      "تضمین",
+      "تعهد",
+      "تقبل",
+      "ضمان",
+      "کفالت",
+      "گروی",
+      "وثیقه"
+    ],
+    "english": [
+      "guaranty",
+      "security",
+      "surety",
+      "bail",
+      "guarantee",
+      "sponsorship",
+      "testimonial",
+      "warranty",
+      "surety(ship)"
+    ]
+  },
+  "وثیقه": {
+    "category": "اطلاعات مالی",
+    "synonyms": [
+      "تضمین",
+      "رهن",
+      "رهینه",
+      "ضمانت",
+      "گروی"
+    ],
+    "english": [
+      "security",
+      "bond",
+      "written undertaking",
+      "bail",
+      "collateral",
+      "deposit",
+      "gage",
+      "guarantee",
+      "guaranty",
+      "margin",
+      "pawn",
+      "pledge",
+      "surety"
+    ]
+  },
+  "رهن": {
+    "category": "اطلاعات مالی",
+    "synonyms": [
+      "گرو",
+      "مراهنه",
+      "وثیقه"
+    ],
+    "english": [
+      "bonds",
+      "encumbrance",
+      "mortgage",
+      "pledge"
+    ]
+  },
+  "نرخ": {
+    "category": "اطلاعات مالی",
+    "synonyms": [
+      "ارج",
+      "ارزش",
+      "بها",
+      "قیمت",
+      "مظنه"
+    ],
+    "english": [
+      "charge",
+      "price",
+      "rate",
+      "quantity"
+    ]
+  },
+  "کارمزد": {
+    "category": "اطلاعات مالی",
+    "synonyms": [
+      "اجر",
+      "اجرت",
+      "حق العمل",
+      "مزد"
+    ],
+    "english": [
+      "piece-work wage",
+      "commission",
+      "emolument"
+    ]
+  },
+  "بدهی": {
+    "category": "اطلاعات مالی",
+    "synonyms": [
+      "دین",
+      "قرض",
+      "وام"
+    ],
+    "english": [
+      "(sum) due",
+      "debt",
+      "liability",
+      "debit",
+      "score",
+      "liabilities"
+    ]
+  },
+  "طلب": {
+    "category": "اطلاعات مالی",
+    "synonyms": [
+      "جست وجو",
+      "التماس",
+      "خواست",
+      "تقاضا",
+      "خواستاری",
+      "خواهش",
+      "مطالبه",
+      "جستن",
+      "خواستن",
+      "بستانکاری"
+    ],
+    "english": [
+      "search",
+      "request",
+      "begging",
+      "demand",
+      "claim",
+      "sum outstanding to a person's credit",
+      "desire",
+      "pursuit"
+    ]
+  },
+  "تسویه حساب": {
+    "category": "اطلاعات مالی",
+    "synonyms": [],
+    "english": [
+      "reckoning"
+    ]
+  },
+  "مالیات": {
+    "category": "اطلاعات مالی",
+    "synonyms": [
+      "باج",
+      "جزیه",
+      "خراج",
+      "ساو",
+      "عوارض"
+    ],
+    "english": [
+      "dues",
+      "duty",
+      "tax",
+      "taxation",
+      "value-added tax",
+      "farm",
+      "impost",
+      "tax(es)"
+    ]
+  },
+  "عوارض": {
+    "category": "اطلاعات مالی",
+    "synonyms": [
+      "جزیه",
+      "خراج",
+      "مالیات",
+      "پیامدها",
+      "عارضه ها",
+      "حوادث",
+      "وقایع",
+      "بیماری ها",
+      "ناخوشی ها",
+      "آفات",
+      "بلایا"
+    ],
+    "english": [
+      "duty",
+      "revenue",
+      "tax . toll",
+      "charges",
+      "taxes",
+      "accidents",
+      "tax"
+    ]
+  },
+  "پرداخت": {
+    "category": "تادیات و تسویه",
+    "synonyms": [
+      "ادا",
+      "تادیه",
+      "بازدادن",
+      "کارسازی",
+      "وام گذاری",
+      "آهار",
+      "جلا",
+      "صیقل",
+      "صیقلی",
+      "صافکاری",
+      "صاف کردن"
+    ],
+    "english": [
+      "rendition",
+      "arrangement",
+      "defrayal",
+      "disbursement",
+      "discharge",
+      "expense",
+      "liquidation",
+      "payment",
+      "payout",
+      "reimbursement",
+      "touch",
+      "polish(ing)"
+    ]
+  },
+  "شعبه": {
+    "category": "حساب بانکی",
+    "synonyms": [
+      "رشته",
+      "شاخه",
+      "بخش",
+      "قسمت",
+      "آژانس",
+      "باجه",
+      "فرع",
+      "نمایندگی",
+      "باند",
+      "دسته",
+      "فرقه",
+      "گروه"
+    ],
+    "english": [
+      "affiliate",
+      "auxiliary",
+      "chapter",
+      "fork",
+      "offshoot",
+      "ramification",
+      "subsidiary",
+      "branch(office)",
+      "section",
+      "tributary stream"
+    ]
+  },
+  "چک": {
+    "category": "حساب بانکی",
+    "synonyms": [
+      "تپانچه",
+      "سیلی",
+      "ضربت",
+      "کتک",
+      "کشیده",
+      "برات",
+      "حواله",
+      "صک",
+      "چانه",
+      "چکه",
+      "بنچاق",
+      "سند",
+      "قباله",
+      "معدوم",
+      "نابود"
+    ],
+    "english": [
+      "paper money",
+      "slap",
+      "box on the ear",
+      "whack",
+      "cheque",
+      "check",
+      "bohemian",
+      "buffet",
+      "cuff"
+    ]
+  },
+  "سفته": {
+    "category": "حساب بانکی",
+    "synonyms": [
+      "سند دین",
+      "فته طلب",
+      "دستلاف",
+      "دشت",
+      "سودای اول فروشنده",
+      "تیر",
+      "پیکان",
+      "نیزه",
+      "محکم",
+      "ستبر",
+      "غلیظ",
+      "سوراخ سنگهای قیمتی",
+      "سخن بکر"
+    ],
+    "english": [
+      "bill",
+      "bill of exchange",
+      "note",
+      "paper money",
+      "promissory note",
+      "bored",
+      "pierced",
+      "draft"
+    ]
+  },
+  "برات": {
+    "category": "حساب بانکی",
+    "synonyms": [],
+    "english": [
+      "draft",
+      "dill of exchange",
+      "patent",
+      "bill",
+      "bill of exchange"
+    ]
+  },
+  "کارت اعتباری": {
+    "category": "حساب بانکی",
+    "synonyms": [],
+    "english": [
+      "credit card",
+      "plastic"
+    ]
+  },
+  "حساب جاری": {
+    "category": "حساب بانکی",
+    "synonyms": [],
+    "english": [
+      "checking account"
+    ]
+  },
+  "تاریخ": {
+    "category": "زمان و مدت",
+    "synonyms": [],
+    "english": [
+      "date",
+      "history",
+      "era",
+      "annals",
+      "term"
+    ]
+  },
+  "تاریخ انقضا": {
+    "category": "زمان و مدت",
+    "synonyms": [],
+    "english": [
+      "term"
+    ]
+  },
+  "مدت": {
+    "category": "زمان و مدت",
+    "synonyms": [
+      "زمان",
+      "وقت",
+      "موقع",
+      "وهله",
+      "هنگام",
+      "مهلت",
+      "اثنا",
+      "عمر",
+      "حیات",
+      "دوران",
+      "روزگار"
+    ],
+    "english": [
+      "period",
+      "duration",
+      "time",
+      "term",
+      "span",
+      "continuance",
+      "distance",
+      "interval",
+      "space",
+      "spell",
+      "stretch",
+      "while",
+      "years"
+    ]
+  },
+  "مهلت": {
+    "category": "زمان و مدت",
+    "synonyms": [
+      "اجل",
+      "استمهال",
+      "امان",
+      "تأخیر",
+      "اجل",
+      "درنگ",
+      "ضرب الاجل",
+      "فرجه",
+      "فرصت",
+      "مدت",
+      "موعد",
+      "وعده",
+      "وقت"
+    ],
+    "english": [
+      "deadline",
+      "grace",
+      "respite",
+      "moratorium",
+      "extension of time",
+      "grace period",
+      "reprieve"
+    ]
+  },
+  "موعد": {
+    "category": "زمان و مدت",
+    "synonyms": [
+      "مهلت",
+      "وعده",
+      "فصل",
+      "موسم",
+      "موقع",
+      "وقت",
+      "هنگام",
+      "اجل"
+    ],
+    "english": [
+      "deadline",
+      "(fixed) time",
+      "date on which a bill falls due",
+      "maturity"
+    ]
+  },
+  "سررسید": {
+    "category": "زمان و مدت",
+    "synonyms": [
+      "موعد",
+      "موعدپرداخت",
+      "وقت"
+    ],
+    "english": [
+      "expiry",
+      "maturity",
+      "deadline",
+      "credit",
+      "receivable",
+      "due date"
+    ]
+  },
+  "تمدید": {
+    "category": "شرایط فسخ و پایان",
+    "synonyms": [
+      "ادامه",
+      "تداوم",
+      "کشش",
+      "کشیدگی",
+      "تداوم بخشیدن",
+      "دراز کردن",
+      "کشیدن"
+    ],
+    "english": [
+      "extension",
+      "prolongation",
+      "exension",
+      "renewal"
+    ]
+  },
+  "فسخ": {
+    "category": "شرایط فسخ و پایان",
+    "synonyms": [
+      "ابطال",
+      "الغا",
+      "باطل",
+      "حذف",
+      "زایل",
+      "لغو",
+      "نقض"
+    ],
+    "english": [
+      "dissolution",
+      "cancellation",
+      "annulment",
+      "disjunction",
+      "abolition",
+      "revocation"
+    ]
+  },
+  "تجدید": {
+    "category": "زمان و مدت",
+    "synonyms": [
+      "ازسرگیری",
+      "تازگی",
+      "دوبارگی",
+      "نوسازی",
+      "نوی",
+      "نو کردن",
+      "از نو ساختن",
+      "نمره حد نصاب قبولی نیاوردن"
+    ],
+    "english": [
+      "renewal",
+      "revision",
+      "limitation",
+      "revival"
+    ]
+  },
+  "مهلت قانونی": {
+    "category": "زمان و مدت",
+    "synonyms": [],
+    "english": [
+      "moratorium"
+    ]
+  },
+  "موضوع": {
+    "category": "موضوع قرارداد",
+    "synonyms": [
+      "سوژه",
+      "مبحث",
+      "مسئله",
+      "مشکل",
+      "مطلب",
+      "محمول",
+      "باب",
+      "خصوص",
+      "فقره",
+      "قضیه",
+      "نهاده",
+      "گذارده",
+      "وضع شده",
+      "قرارداده شده",
+      "ساختگی",
+      "مصنوع",
+      "مجعول",
+      "مکذوب",
+      "مبتدا"
+    ],
+    "english": [
+      "subject",
+      "topic",
+      "subject-matter",
+      "object",
+      "caser",
+      "deducted",
+      "placed",
+      "concern",
+      "consideration",
+      "ground",
+      "issue",
+      "item",
+      "point",
+      "proposition",
+      "question",
+      "stuff",
+      "theme",
+      "subject (-matter)",
+      "case"
+    ]
+  },
+  "شرح": {
+    "category": "موضوع قرارداد",
+    "synonyms": [
+      "بسط",
+      "بیان",
+      "تاویل",
+      "تشریح",
+      "تعبیر",
+      "تعریف",
+      "تفسیر",
+      "تفصیل",
+      "توصیف",
+      "توضیح",
+      "گزارش",
+      "وصف"
+    ],
+    "english": [
+      "account",
+      "definition",
+      "depiction",
+      "description",
+      "explanation",
+      "history",
+      "narration",
+      "portrayal",
+      "recital",
+      "relation",
+      "rider",
+      "exposition",
+      "statementreport",
+      "details",
+      "portrait"
+    ]
+  },
+  "خدمات": {
+    "category": "موضوع قرارداد",
+    "synonyms": [
+      "خدمت ها",
+      "فعالیت ها",
+      "کارها",
+      "خدمت گزاری ها"
+    ],
+    "english": []
+  },
+  "کالا": {
+    "category": "موضوع قرارداد",
+    "synonyms": [
+      "اروس",
+      "تنخواه",
+      "جنس",
+      "قماش",
+      "مال",
+      "مال التجاره",
+      "متاع",
+      "فرآورده",
+      "محصول",
+      "اسباب"
+    ],
+    "english": [
+      "goods",
+      "merchandise",
+      "product",
+      "commodoty",
+      "article",
+      "commodity",
+      "freight",
+      "lading",
+      "manufacture",
+      "ware",
+      "mechandise"
+    ]
+  },
+  "مال": {
+    "category": "موضوع قرارداد",
+    "synonyms": [
+      "بازگشت",
+      "مرجع",
+      "محل بازگشت",
+      "عاقبت",
+      "فرجام",
+      "سرانجام",
+      "پایان",
+      "نتیجه | تمکن",
+      "تمول",
+      "ثروت",
+      "خواسته",
+      "دارایی",
+      "مایملک",
+      "مکنت",
+      "ملک",
+      "نعمت",
+      "نوا",
+      "هستی",
+      "جنس",
+      "کالا",
+      "متاع",
+      "پول",
+      "وجه",
+      "سرمایه",
+      "طرفه",
+      "دندان گیر",
+      "باب دندان",
+      "درخورتوجه",
+      "اهل",
+      "شهروند",
+      "احشام",
+      "حیوان",
+      "دواب",
+      "آن",
+      "متعلق به"
+    ],
+    "english": [
+      "goods",
+      "property",
+      "wealth",
+      "rub thou",
+      "beast of burden",
+      "riding animal"
+    ]
+  },
+  "ملک": {
+    "category": "املاک و مستغلات",
+    "synonyms": [],
+    "english": [
+      "domain",
+      "king",
+      "landed property",
+      "estate",
+      "possession",
+      "kingdom",
+      "angel",
+      "land",
+      "prince",
+      "real estate",
+      "[fig.] kingdom"
+    ]
+  },
+  "عین": {
+    "category": "موضوع قرارداد",
+    "synonyms": [
+      "چشم",
+      "دیده",
+      "اصل",
+      "مشابه",
+      "چشمه",
+      "جوهر",
+      "ذات",
+      "گوهر"
+    ],
+    "english": [
+      "picture",
+      "eye",
+      "source",
+      "spring",
+      "substance",
+      "nature",
+      "carbon copy",
+      "spit"
+    ]
+  },
+  "منفعت": {
+    "category": "موضوع قرارداد",
+    "synonyms": [
+      "بهره",
+      "سود",
+      "فایده",
+      "مداخل",
+      "نفع",
+      "ربا",
+      "ربح",
+      "کرایه",
+      "رجحان",
+      "مزیت"
+    ],
+    "english": [
+      "profit",
+      "gain",
+      "benefit",
+      "interest",
+      "return"
+    ]
+  },
+  "حق": {
+    "category": "موضوع قرارداد",
+    "synonyms": [
+      "آفریدگار",
+      "الله",
+      "باریتعالی",
+      "پروردگار",
+      "خدا",
+      "حقیقت",
+      "راستی",
+      "صدق",
+      "واقع",
+      "درست",
+      "راست",
+      "روا",
+      "واقعی",
+      "انصاف",
+      "عدل",
+      "قسط",
+      "منصفت",
+      "داد",
+      "عادلانه",
+      "سزا",
+      "نصیب",
+      "بهره",
+      "مزد",
+      "ملک",
+      "مال",
+      "حقوق",
+      "سزاوار",
+      "بایسته",
+      "سزاواری",
+      "شایس"
+    ],
+    "english": [
+      "right",
+      "fee",
+      "share",
+      "portion",
+      "authority",
+      "claim",
+      "freedom",
+      "interest",
+      "justice",
+      "prerogative",
+      "title"
+    ]
+  },
+  "امتیاز": {
+    "category": "موضوع قرارداد",
+    "synonyms": [
+      "تشخیص",
+      "تمییز",
+      "فرق",
+      "برتری",
+      "تفوق",
+      "مزیت",
+      "آوانس",
+      "نمره",
+      "پروانه",
+      "جواز"
+    ],
+    "english": [
+      "asset",
+      "brownie point",
+      "charter",
+      "concession",
+      "distinction",
+      "dividend",
+      "franchise",
+      "freedom",
+      "indulgence",
+      "liberty",
+      "odds",
+      "plus",
+      "prerogative",
+      "privilege",
+      "record",
+      "field goal",
+      "licence"
+    ]
+  },
+  "مجوز": {
+    "category": "اسناد و مدارک",
+    "synonyms": [
+      "اجازه",
+      "پته",
+      "پروانه",
+      "جواز"
+    ],
+    "english": [
+      "justification",
+      "pass",
+      "permit",
+      "warrant",
+      "authorization",
+      "ground"
+    ]
+  },
+  "اختراع": {
+    "category": "موضوع قرارداد",
+    "synonyms": [
+      "آفرینش",
+      "ابتکار",
+      "ابداع",
+      "نوآوری",
+      "دروغ پردازی",
+      "شایعه سازی"
+    ],
+    "english": [
+      "invention",
+      "mintage"
+    ]
+  },
+  "علامت تجاری": {
+    "category": "موضوع قرارداد",
+    "synonyms": [],
+    "english": [
+      "tm"
+    ]
+  },
+  "محصول": {
+    "category": "موضوع قرارداد",
+    "synonyms": [
+      "بار",
+      "بر",
+      "تولید",
+      "حاصل",
+      "فرآورده",
+      "کالا",
+      "میوه",
+      "نتیجه",
+      "خرمن",
+      "درو",
+      "دخل",
+      "سود",
+      "عایدی",
+      "کارکرد",
+      "مولود"
+    ],
+    "english": [
+      "crop",
+      "product",
+      "produce",
+      "output",
+      "manufacture",
+      "fabrication",
+      "fruition",
+      "harvest",
+      "ite _",
+      "production",
+      "yield"
+    ]
+  },
+  "پروژه": {
+    "category": "خدمات و کارکرد",
+    "synonyms": [
+      "برنامه",
+      "طرح",
+      "نقشه"
+    ],
+    "english": [
+      "design",
+      "game",
+      "plan",
+      "project"
+    ]
+  },
+  "تجهیزات": {
+    "category": "موضوع قرارداد",
+    "synonyms": [
+      "اسباب",
+      "سازوبرگ",
+      "عدت",
+      "لوازم",
+      "یراق",
+      "اسلحه"
+    ],
+    "english": [
+      "mobilizations",
+      "equipment",
+      "fitment",
+      "habiliments",
+      "materiel",
+      "matriel",
+      "paraphernalia",
+      "rig",
+      "store",
+      "supplies"
+    ]
+  },
+  "تولید": {
+    "category": "موضوع قرارداد",
+    "synonyms": [
+      "پدیدآوری",
+      "زایش",
+      "توالد",
+      "زادن",
+      "زاییدن",
+      "ایجاد",
+      "خلق",
+      "فرآوری",
+      "فرآورده",
+      "محصول"
+    ],
+    "english": [
+      "fabrication",
+      "generation",
+      "making",
+      "manufacture",
+      "output",
+      "production"
+    ]
+  },
+  "نصب": {
+    "category": "خدمات و کارکرد",
+    "synonyms": [
+      "برپایی",
+      "انتصاب",
+      "برگماری",
+      "گمارش",
+      "منصوب"
+    ],
+    "english": [
+      "appointment",
+      "installation",
+      "installment",
+      "setting",
+      "erection"
+    ]
+  },
+  "پشتیبانی": {
+    "category": "خدمات و کارکرد",
+    "synonyms": [
+      "تایید",
+      "تقویت",
+      "حفظ",
+      "حمایت",
+      "طرفداری",
+      "محافظت",
+      "مدافعه"
+    ],
+    "english": [
+      "aupport",
+      "backing",
+      "championship",
+      "countenance",
+      "furtherance",
+      "relief",
+      "support"
+    ]
+  },
+  "فروشنده": {
+    "category": "طرفین قرارداد",
+    "synonyms": [],
+    "english": [
+      "saleswoman",
+      "dealer",
+      "grocer",
+      "marketer",
+      "monger",
+      "sales representative",
+      "salesclerk",
+      "salesman",
+      "salesperson",
+      "seller",
+      "shop assistant",
+      "saleslady",
+      "salesgirl",
+      "vendor"
+    ]
+  },
+  "خریدار": {
+    "category": "طرفین قرارداد",
+    "synonyms": [
+      "بایع",
+      "مشتری",
+      "طالب",
+      "مشتاق",
+      "خواهان",
+      "علاقه مند",
+      "مشتاق"
+    ],
+    "english": [
+      "alienee",
+      "bidder",
+      "buyer",
+      "customer",
+      "purchaser",
+      "shopper",
+      "taker",
+      "vendee"
+    ]
+  },
+  "موجر": {
+    "category": "طرفین قرارداد",
+    "synonyms": [
+      "صاحب",
+      "صاحبخانه",
+      "مالک"
+    ],
+    "english": [
+      "landlord",
+      "lessor"
+    ]
+  },
+  "کارفرما": {
+    "category": "طرفین قرارداد",
+    "synonyms": [
+      "آقا",
+      "ارباب",
+      "استاد",
+      "صاحب کار",
+      "مخدوم"
+    ],
+    "english": [
+      "manageress",
+      "employer",
+      "master"
+    ]
+  },
+  "پیمانکار": {
+    "category": "طرفین قرارداد",
+    "synonyms": [
+      "مقاطعه کار"
+    ],
+    "english": [
+      "contractor"
+    ]
+  },
+  "ضامن": {
+    "category": "طرفین قرارداد",
+    "synonyms": [
+      "پایندان",
+      "پذرفتار",
+      "کفیل",
+      "متعهد"
+    ],
+    "english": [
+      "cam",
+      "clamp",
+      "pawl",
+      "bail",
+      "bailsman",
+      "bondsman",
+      "guarantee",
+      "guarantor",
+      "ratchet",
+      "sponsor",
+      "surety",
+      "voucher",
+      "warrantor",
+      "tripper",
+      "safety-bolt",
+      "sere or sear",
+      "lock-back"
+    ]
+  },
+  "مشتری": {
+    "category": "طرفین قرارداد",
+    "synonyms": [
+      "بایع",
+      "خریدار",
+      "طرفدار",
+      "خواهان",
+      "خواستار",
+      "مایل",
+      "ارباب رجوع",
+      "برجیس"
+    ],
+    "english": [
+      "case",
+      "client",
+      "customer",
+      "patron",
+      "jupiter",
+      "[astr.] jupiter"
+    ]
+  },
+  "بستانکار": {
+    "category": "طرفین قرارداد",
+    "synonyms": [
+      "داین",
+      "طلبکار",
+      "وامخواه"
+    ],
+    "english": [
+      "creditor",
+      "credit",
+      "horticulfturist"
+    ]
+  },
+  "بدهکار": {
+    "category": "طرفین قرارداد",
+    "synonyms": [
+      "غارم",
+      "قرضدار",
+      "مدیون",
+      "مقروض",
+      "وامدار"
+    ],
+    "english": [
+      "debtor",
+      "in debt",
+      "indebted",
+      "owing"
+    ]
+  },
+  "امین": {
+    "category": "طرفین قرارداد",
+    "synonyms": [
+      "استوار",
+      "امانت دار",
+      "ثقه",
+      "درستکار",
+      "درست",
+      "درست کردار",
+      "صالح",
+      "موتمن",
+      "معتمد",
+      "موثق"
+    ],
+    "english": [
+      "amen",
+      "amen!",
+      "agent",
+      "caretaker",
+      "fiduciary",
+      "honest",
+      "honorable",
+      "regent",
+      "single-hearted",
+      "square",
+      "straightforward",
+      "truehearted",
+      "trustee",
+      "trustworthy",
+      "trusty",
+      "upstanding"
+    ]
+  },
+  "مرتهن": {
+    "category": "طرفین قرارداد",
+    "synonyms": [
+      "درگرو",
+      "رهین",
+      "مرهون",
+      "گروگان"
+    ],
+    "english": [
+      "mortgaged",
+      "mortgagee"
+    ]
+  },
+  "راهن": {
+    "category": "طرفین قرارداد",
+    "synonyms": [],
+    "english": [
+      "mortgager",
+      "mortgagor"
+    ]
+  },
+  "پذیرنده": {
+    "category": "طرفین قرارداد",
+    "synonyms": [],
+    "english": [
+      "receptor",
+      "acceptor"
+    ]
+  },
+  "سند": {
+    "category": "اسناد و مدارک",
+    "synonyms": [
+      "برگه",
+      "بنچاق",
+      "قباله",
+      "قواله",
+      "قولنامه",
+      "مدرک",
+      "حجت",
+      "معیار",
+      "ملاک",
+      "مناط",
+      "نمودار",
+      "بهانه",
+      "دستاویز",
+      "مستمسک | حرام زاده",
+      "سندره",
+      "زنازاده",
+      "روسپی زاده",
+      "ولدالزنا",
+      "ناپاک زاده",
+      "بچه نامشروع"
+    ],
+    "english": [
+      "act",
+      "certificate",
+      "document",
+      "documentation",
+      "indenture",
+      "proof",
+      "record",
+      "testament",
+      "voucher",
+      "deed",
+      "promissory note",
+      "bill",
+      "exhibit",
+      "instrument",
+      "the indus river"
+    ]
+  },
+  "مدرک": {
+    "category": "اسناد و مدارک",
+    "synonyms": [
+      "برگه",
+      "سند",
+      "دیپلم",
+      "کارنامه",
+      "گواهی نامه"
+    ],
+    "english": [
+      "perceptive",
+      "document",
+      "documentation",
+      "evidence",
+      "proof",
+      "record",
+      "voucher",
+      "exhibit"
+    ]
+  },
+  "گواهی": {
+    "category": "اسناد و مدارک",
+    "synonyms": [
+      "استشهاد",
+      "تایید",
+      "تصدیق",
+      "شهادت",
+      "تاییدیه",
+      "گواهی نامه",
+      "مدرک"
+    ],
+    "english": [
+      "wintness",
+      "testimony",
+      "evidence",
+      "certification",
+      "attestation",
+      "bill",
+      "certificate",
+      "deposition",
+      "testament",
+      "witness"
+    ]
+  },
+  "پروانه": {
+    "category": "اسناد و مدارک",
+    "synonyms": [
+      "اجازه",
+      "پته",
+      "جواز",
+      "حکم",
+      "فرمان",
+      "گواهی",
+      "مجوز",
+      "پره",
+      "ملخ",
+      "شب پره"
+    ],
+    "english": [
+      "fan",
+      "certificate",
+      "license",
+      "pass",
+      "permission",
+      "permit",
+      "butterfly",
+      "[mech.] governor",
+      "moth",
+      "licence",
+      "torture",
+      "propeller"
+    ]
+  },
+  "استعلام": {
+    "category": "اسناد و مدارک",
+    "synonyms": [
+      "استخبار",
+      "استفسار",
+      "پرسش",
+      "پرسیدن",
+      "خبرجویی",
+      "سؤال"
+    ],
+    "english": [
+      "inquiry",
+      "query",
+      "question",
+      "asking for information"
+    ]
+  },
+  "رسید": {
+    "category": "اسناد و مدارک",
+    "synonyms": [
+      "ورود",
+      "وصول",
+      "قبض"
+    ],
+    "english": [
+      "arrival",
+      "receipt",
+      "tab"
+    ]
+  },
+  "فاکتور": {
+    "category": "اسناد و مدارک",
+    "synonyms": [
+      "سیاهه",
+      "صورت",
+      "صورتحساب",
+      "عامل",
+      "عملگر"
+    ],
+    "english": [
+      "invoice",
+      "factor",
+      "bill"
+    ]
+  },
+  "قرارداد": {
+    "category": "اسناد و مدارک",
+    "synonyms": [
+      "پیمان",
+      "پیمان نامه",
+      "عهدنامه",
+      "قولنامه",
+      "کنترات",
+      "معاهده",
+      "مقاوله",
+      "مقاوله نامه",
+      "مواضعه",
+      "میثاق"
+    ],
+    "english": [
+      "agreement",
+      "bargain",
+      "compact",
+      "concordat",
+      "contract",
+      "indenture",
+      "treaty",
+      "convention",
+      "appointment",
+      "arrangement",
+      "instrument"
+    ]
+  },
+  "الحاقیه": {
+    "category": "اسناد و مدارک",
+    "synonyms": [
+      "پیوست",
+      "متمم",
+      "منضمات"
+    ],
+    "english": [
+      "appendage",
+      "rider"
+    ]
+  },
+  "پیوست": {
+    "category": "اسناد و مدارک",
+    "synonyms": [
+      "اتصال",
+      "الحاق",
+      "ضمیمه",
+      "ملحق",
+      "منضم"
+    ],
+    "english": [
+      "appendix",
+      "accompaniment",
+      "appendage",
+      "attachment",
+      "concomitant",
+      "enclosure",
+      "supplement",
+      "connected",
+      "[n.] union",
+      "coupling"
+    ]
+  },
+  "ضمیمه": {
+    "category": "اسناد و مدارک",
+    "synonyms": [
+      "الحاق",
+      "پیوست",
+      "تکمله",
+      "تلوا",
+      "فرعی",
+      "ملحق"
+    ],
+    "english": [
+      "enclosure",
+      "annex",
+      "appendix",
+      "supplement",
+      "collateral",
+      "concomitant",
+      "addenda",
+      "addition",
+      "accompaniment",
+      "appurtenance",
+      "inset",
+      "supplementary",
+      "tailpiece",
+      "within",
+      "addendum",
+      "pullout"
+    ]
+  },
+  "اظهارنامه": {
+    "category": "اسناد و مدارک",
+    "synonyms": [],
+    "english": [
+      "declaration",
+      "declaration form",
+      "manifest"
+    ]
+  },
+  "تصدیق": {
+    "category": "اسناد و مدارک",
+    "synonyms": [
+      "اذعان",
+      "اعتراف",
+      "اقرار",
+      "پذیرش",
+      "تایید",
+      "تسجیل",
+      "تصویب",
+      "صحه",
+      "قبول",
+      "قبولی",
+      "اجازه",
+      "پروانه",
+      "جواز",
+      "دیپلم",
+      "کارنامه",
+      "گواهی",
+      "گواهی نامه"
+    ],
+    "english": [
+      "confirmation",
+      "certification",
+      "attestation",
+      "legalization",
+      "acknowledgement",
+      "acknowledgment",
+      "affirmation",
+      "acceptance",
+      "authentication",
+      "certificate",
+      "concession",
+      "license",
+      "permit",
+      "ratification",
+      "sanction",
+      "seal",
+      "testimony"
+    ]
+  },
+  "تعهد": {
+    "category": "شرایط و تعهدات",
+    "synonyms": [
+      "پذیرفتاری",
+      "پیمان",
+      "تضمین",
+      "تقبل",
+      "ضمان",
+      "عهده داری",
+      "ضمانت",
+      "عهده",
+      "کفالت",
+      "میانجیگری",
+      "به عهده گرفتن",
+      "عهده دارشدن",
+      "پیمان بستن",
+      "عهدبستن"
+    ],
+    "english": [
+      "bonds",
+      "commitment",
+      "engagement",
+      "guarantee",
+      "obligation",
+      "promise",
+      "seal",
+      "sponsorship",
+      "troth",
+      "undertaking"
+    ]
+  },
+  "شرط": {
+    "category": "شرایط و تعهدات",
+    "synonyms": [
+      "پیمان",
+      "عهد",
+      "قرار",
+      "نذر"
+    ],
+    "english": [
+      "bet",
+      "condition",
+      "covenant",
+      "precondition",
+      "provision",
+      "stipulation",
+      "clause",
+      "term",
+      "wager",
+      "protasis",
+      "string"
+    ]
+  },
+  "بند": {
+    "category": "شرایط و تعهدات",
+    "synonyms": [
+      "حبل",
+      "رسن",
+      "رشته",
+      "ریسمان",
+      "طناب",
+      "نخ",
+      "ترک",
+      "زین",
+      "بست",
+      "عقد",
+      "قید",
+      "گره",
+      "گیر",
+      "پیوند",
+      "لولا",
+      "مفصلگاه",
+      "مفصل",
+      "استخوان انگشت",
+      "اتصالگاه",
+      "پیوندگاه",
+      "گره گاه",
+      "تله",
+      "دام",
+      "رهن",
+      "گرو",
+      "گرفتاری",
+      "مخمصه",
+      "آز",
+      "طمع",
+      "یک زوج گاو",
+      "حیله"
+    ],
+    "english": [
+      "arthro-",
+      "band",
+      "belt",
+      "bind",
+      "binder",
+      "bond",
+      "cincture",
+      "clinch",
+      "clothesline",
+      "connection",
+      "connective",
+      "cord",
+      "couple",
+      "dam",
+      "fastener",
+      "fastening",
+      "fetter",
+      "gin",
+      "hinge",
+      "lace",
+      "ligature",
+      "links",
+      "lock",
+      "noose",
+      "paragraph",
+      "restraint",
+      "restriction",
+      "rope",
+      "sling",
+      "stay",
+      "strap",
+      "string",
+      "tie",
+      "tightrope",
+      "trammel",
+      "wall",
+      "ward",
+      "weir",
+      "yoke",
+      "article",
+      "reservation",
+      "clamp",
+      "brace",
+      "cremp - iron",
+      "[lit.]chains",
+      "jont",
+      "starza",
+      "stleieght",
+      "[paper] ream",
+      "clause"
+    ]
+  },
+  "ماده": {
+    "category": "شرایط و تعهدات",
+    "synonyms": [
+      "جرم",
+      "هیولی",
+      "اصل",
+      "مایه",
+      "ریشه",
+      "علت",
+      "سبب",
+      "انثی",
+      "لاج",
+      "لاس",
+      "ماچه",
+      "مادینه",
+      "مونث",
+      "حیوان بچه زا",
+      "بند",
+      "فصل",
+      "آب",
+      "پیله",
+      "دمل",
+      "امر",
+      "موضوع"
+    ],
+    "english": [
+      "matter",
+      "material",
+      "stuff",
+      "substance",
+      "female",
+      "doe",
+      "abscess",
+      "entry",
+      "woman",
+      "clause"
+    ]
+  },
+  "تبصره": {
+    "category": "شرایط و تعهدات",
+    "synonyms": [
+      "بند",
+      "توضیح",
+      "توضیحی",
+      "بیناسازی",
+      "عبرت گیری"
+    ],
+    "english": []
+  },
+  "محدودیت": {
+    "category": "شرایط و تعهدات",
+    "synonyms": [
+      "انحصار",
+      "حصر",
+      "تحدید",
+      "تنگنا",
+      "قید",
+      "کمبود"
+    ],
+    "english": [
+      "cap",
+      "chain",
+      "confinement",
+      "constraint",
+      "curb",
+      "limitation",
+      "parameter",
+      "restraint",
+      "restriction",
+      "shackle",
+      "limbo",
+      "stint",
+      "straitjacket",
+      "stranglehold",
+      "trammel"
+    ]
+  },
+  "ممنوعیت": {
+    "category": "شرایط و تعهدات",
+    "synonyms": [],
+    "english": [
+      "interdiction",
+      "prohibition",
+      "proscription",
+      "ban",
+      "bar",
+      "interdict"
+    ]
+  },
+  "الزام": {
+    "category": "شرایط و تعهدات",
+    "synonyms": [
+      "اجبار",
+      "گردنگیر",
+      "ناچار",
+      "ناگزیر",
+      "وادار"
+    ],
+    "english": [
+      "liability",
+      "obligation",
+      "conviction",
+      "constraint",
+      "demand",
+      "incumbency",
+      "indication",
+      "requirement",
+      "stipulation"
+    ]
+  },
+  "حق تقدم": {
+    "category": "شرایط و تعهدات",
+    "synonyms": [],
+    "english": [
+      "preemption",
+      "priority"
+    ]
+  },
+  "اختیار": {
+    "category": "شرایط و تعهدات",
+    "synonyms": [
+      "انتخاب",
+      "برگزینی",
+      "گزینش",
+      "آزادگی",
+      "آزادی",
+      "تفویض",
+      "اجازه",
+      "تصرف",
+      "غلبه",
+      "قدرت"
+    ],
+    "english": [
+      "authority",
+      "power",
+      "option",
+      "free will",
+      "discretion",
+      "authorization",
+      "commission",
+      "say-so",
+      "control",
+      "disposition",
+      "hand",
+      "indeterminism",
+      "jurisdiction",
+      "prerogative",
+      "say",
+      "volition",
+      "power(s)",
+      "choice"
+    ]
+  },
+  "اجازه": {
+    "category": "شرایط و تعهدات",
+    "synonyms": [
+      "اجازت",
+      "اذن",
+      "تجویز",
+      "دستور",
+      "رخصت",
+      "پروانه",
+      "تصدیق",
+      "جواز",
+      "مجوز",
+      "منشور",
+      "فتوا"
+    ],
+    "english": [
+      "allowance",
+      "consent",
+      "permission",
+      "permit",
+      "sanction",
+      "sufferance",
+      "access",
+      "leave",
+      "ok"
+    ]
+  },
+  "تضمین": {
+    "category": "ضمانت‌ها و تضمینات",
+    "synonyms": [
+      "پشتوانه",
+      "وثیقه",
+      "پایندانی",
+      "پذرفتاری",
+      "تعهد",
+      "ضمانت",
+      "کفالت",
+      "ضامن شدن"
+    ],
+    "english": [
+      "assurance",
+      "entailment",
+      "guarantee",
+      "indemnity",
+      "pawn",
+      "safeguard",
+      "safety net",
+      "surety",
+      "testimonial",
+      "undertaking",
+      "warranty",
+      "security",
+      "giving a security",
+      "insertion or anothersverses in ones own poem"
+    ]
+  },
+  "مسئولیت": {
+    "category": "ریسک و مسئولیت",
+    "synonyms": [
+      "تکلیف",
+      "کار",
+      "نقش",
+      "وظیفه",
+      "تعهد",
+      "رسالت",
+      "ماموریت"
+    ],
+    "english": [
+      "responsibility",
+      "liability",
+      "accountability",
+      "business",
+      "care",
+      "trust"
+    ]
+  },
+  "جبران": {
+    "category": "شرایط و تعهدات",
+    "synonyms": [
+      "تاوان",
+      "ترمیم",
+      "تلافی",
+      "عوض",
+      "غرامت",
+      "مغرم"
+    ],
+    "english": [
+      "amends",
+      "atonement",
+      "compensation",
+      "indemnity",
+      "payoff",
+      "recompense",
+      "recuperation",
+      "redress",
+      "reimbursement"
+    ]
+  },
+  "فورس ماژور": {
+    "category": "شرایط و تعهدات",
+    "synonyms": [],
+    "english": [
+      "force majeure"
+    ]
+  },
+  "نگهداری": {
+    "category": "شرایط و تعهدات",
+    "synonyms": [
+      "حفاظت",
+      "حفظ",
+      "صیانت",
+      "پاسداری",
+      "حراست",
+      "محارست",
+      "محافظت",
+      "وقایت",
+      "توجه",
+      "مراقبت",
+      "مواظبت",
+      "بازداری",
+      "ضبط",
+      "کف",
+      "پرستاری",
+      "سرپرستی"
+    ],
+    "english": [
+      "care",
+      "custody",
+      "keeping",
+      "maintenance",
+      "preservation",
+      "retention",
+      "support",
+      "sustenance",
+      "ward"
+    ]
+  },
+  "گارانتی": {
+    "category": "شرایط و تعهدات",
+    "synonyms": [],
+    "english": [
+      "surety",
+      "warranty"
+    ]
+  },
+  "سرمایه": {
+    "category": "شرکت و سازمان",
+    "synonyms": [],
+    "english": [
+      "asset",
+      "capital",
+      "equity",
+      "estate",
+      "resources"
+    ]
+  },
+  "هیئت مدیره": {
+    "category": "شرکت و سازمان",
+    "synonyms": [],
+    "english": [
+      "directorate",
+      "board of directors",
+      "board of directors managing council"
+    ]
+  },
+  "سهم": {
+    "category": "شرکت و سازمان",
+    "synonyms": [
+      "بهر",
+      "بهره",
+      "حصه",
+      "قسمت",
+      "نصیب",
+      "بیم",
+      "ترس",
+      "دهشت",
+      "خوف",
+      "هراس",
+      "هول",
+      "هیبت",
+      "شکوه",
+      "هیمنه",
+      "جذبه",
+      "پیکان",
+      "تیر",
+      "خدنگ",
+      "فلش",
+      "قرعه"
+    ],
+    "english": [
+      "share",
+      "portion",
+      "stock",
+      "bond",
+      "arrow",
+      "allotment",
+      "distribution",
+      "dole",
+      "moiety",
+      "part",
+      "percentage",
+      "plate",
+      "proportion",
+      "ration",
+      "role or rle",
+      "slice",
+      "tranche",
+      "cut",
+      "dread",
+      "awe",
+      "rake-off",
+      "contribution"
+    ]
+  },
+  "امضا": {
+    "category": "شرکت و سازمان",
+    "synonyms": [
+      "توشیح",
+      "توقیع",
+      "دستینه",
+      "صحه",
+      "تایید",
+      "تصویب",
+      "جایزشماری",
+      "صحه گذاری"
+    ],
+    "english": [
+      "autograph",
+      "signature",
+      "subscription"
+    ]
+  },
+  "مهر": {
+    "category": "شرکت و سازمان",
+    "synonyms": [],
+    "english": [
+      "affection",
+      "charity",
+      "earmark",
+      "emblem",
+      "liking",
+      "love",
+      "punch",
+      "seal",
+      "signet",
+      "stamp"
+    ]
+  },
+  "اساسنامه": {
+    "category": "شرکت و سازمان",
+    "synonyms": [],
+    "english": [
+      "articles of association",
+      "constitution",
+      "charter"
+    ]
+  },
+  "ترازنامه": {
+    "category": "شرکت و سازمان",
+    "synonyms": [
+      "بیلان",
+      "عملکرد"
+    ],
+    "english": [
+      "balance sheet",
+      "balance - sheet"
+    ]
+  },
+  "دعوا": {
+    "category": "حقوقی و قضایی",
+    "synonyms": [
+      "آشوب",
+      "اختلاف",
+      "تنازع",
+      "حرب",
+      "زدوخورد",
+      "کشمکش",
+      "مجادله",
+      "مرافعه",
+      "مشاجره",
+      "منازعه",
+      "نزاع"
+    ],
+    "english": [
+      "aggro",
+      "argument",
+      "difference",
+      "disagreementt",
+      "jar",
+      "misunderstanding",
+      "quarrel",
+      "tiff",
+      "lawsuit",
+      "litigation",
+      "disagreement",
+      "falling-out",
+      "scrap",
+      "spat"
+    ]
+  },
+  "شکایت": {
+    "category": "حقوقی و قضایی",
+    "synonyms": [
+      "بث الشکوی",
+      "تشکی",
+      "تظلم",
+      "دادخواست",
+      "دادخواهی",
+      "شکوائیه",
+      "شکوا",
+      "تعرض",
+      "چغلی",
+      "شکوه",
+      "گلایه",
+      "گله",
+      "گله مندی"
+    ],
+    "english": [
+      "beef",
+      "complaint",
+      "grievance",
+      "gripe",
+      "grumble",
+      "mutter",
+      "remonstrance",
+      "squawk",
+      "cause",
+      "prosecution",
+      "representation",
+      "kick"
+    ]
+  },
+  "داوری": {
+    "category": "حقوقی و قضایی",
+    "synonyms": [
+      "حکم",
+      "قضا",
+      "قضاوت",
+      "تظلم",
+      "خصومت",
+      "ستیزه"
+    ],
+    "english": [
+      "arbitration",
+      "judgement",
+      "judgeship",
+      "adjudication",
+      "arbitrament",
+      "decision",
+      "doom",
+      "estimate",
+      "eye",
+      "judgment",
+      "pronouncement",
+      "verdict"
+    ]
+  },
+  "محاکم": {
+    "category": "حقوقی و قضایی",
+    "synonyms": [
+      "محکمه ها",
+      "دادگاه ها"
+    ],
+    "english": []
+  },
+  "دادگاه": {
+    "category": "حقوقی و قضایی",
+    "synonyms": [
+      "دادسرا",
+      "دادگستری",
+      "عدلیه",
+      "محکمه"
+    ],
+    "english": [
+      "bench",
+      "court",
+      "judicatory",
+      "tribunal",
+      "court of justice"
+    ]
+  },
+  "قاضی": {
+    "category": "حقوقی و قضایی",
+    "synonyms": [
+      "حاکم",
+      "حکم",
+      "دادرس",
+      "داور",
+      "دیان",
+      "فیصل"
+    ],
+    "english": []
+  },
+  "حکم": {
+    "category": "حقوقی و قضایی",
+    "synonyms": [],
+    "english": [
+      "order",
+      "command",
+      "sentence",
+      "judgement",
+      "verdict",
+      "decision",
+      "injunction",
+      "act",
+      "arbiter",
+      "arbitrator",
+      "award",
+      "decree",
+      "dictate",
+      "dictation",
+      "dictum",
+      "direction",
+      "dogma",
+      "edict",
+      "mandate",
+      "ordainment",
+      "ordinance",
+      "prescript",
+      "pronouncement",
+      "referee",
+      "umpire",
+      "warrant",
+      "word",
+      "writ",
+      "arbitator",
+      "axiom",
+      "theorem",
+      "commandment",
+      "control"
+    ]
+  },
+  "اجراییه": {
+    "category": "حقوقی و قضایی",
+    "synonyms": [],
+    "english": [
+      "executive order"
+    ]
+  },
+  "توقیف": {
+    "category": "حقوقی و قضایی",
+    "synonyms": [
+      "بازداشت",
+      "جلب",
+      "حبس",
+      "دستگیر",
+      "زندانی",
+      "محبوس",
+      "ضبط",
+      "بازداشت کردن",
+      "ضبط کردن",
+      "قبضه کردن"
+    ],
+    "english": [
+      "arrest",
+      "detention",
+      "confinement",
+      "sequestration",
+      "custody",
+      "ban",
+      "apprehension",
+      "detainment",
+      "seizure",
+      "attachment",
+      "confiscation"
+    ]
+  },
+  "مصادره": {
+    "category": "حقوقی و قضایی",
+    "synonyms": [
+      "ضبط اموال",
+      "مطالبه",
+      "تاوان گیری",
+      "اخذ",
+      "بازگیری"
+    ],
+    "english": [
+      "expropriation",
+      "seizure",
+      "confiscation",
+      "requisition",
+      "fine"
+    ]
+  },
+  "ابلاغ": {
+    "category": "حقوقی و قضایی",
+    "synonyms": [],
+    "english": [
+      "communication"
+    ]
+  },
+  "اخطار": {
+    "category": "حقوقی و قضایی",
+    "synonyms": [
+      "آگهی",
+      "اخطاریه",
+      "هشدار",
+      "ابلاغ",
+      "یادآوری"
+    ],
+    "english": [
+      "alarm",
+      "caveat",
+      "notice",
+      "warning"
+    ]
+  },
+  "دادخواست": {
+    "category": "حقوقی و قضایی",
+    "synonyms": [
+      "دادنامه",
+      "شکایت",
+      "شکوائیه",
+      "عرضحال"
+    ],
+    "english": [
+      "petition",
+      "bill"
+    ]
+  },
+  "شاکی": {
+    "category": "حقوقی و قضایی",
+    "synonyms": [
+      "شکایتمند",
+      "عارض",
+      "گلایه مند",
+      "گله مند",
+      "متظلم",
+      "معترض"
+    ],
+    "english": []
+  },
+  "خوانده": {
+    "category": "حقوقی و قضایی",
+    "synonyms": [
+      "قرائت شده",
+      "مدعی علیه",
+      "مدعو"
+    ],
+    "english": [
+      "called",
+      "invited",
+      "invite",
+      "defendant",
+      "foster",
+      "read",
+      "y-clept",
+      "yclept",
+      "respondent"
+    ]
+  },
+  "خواهان": {
+    "category": "حقوقی و قضایی",
+    "synonyms": [
+      "آرزومند",
+      "مایل",
+      "راغب",
+      "مشتاق",
+      "طالب",
+      "خواستار",
+      "متقاضی",
+      "بیزار",
+      "نفور",
+      "دوستدار",
+      "شیفته",
+      "عاشق",
+      "مدعی",
+      "شاکی",
+      "خریدار",
+      "مشتری"
+    ],
+    "english": [
+      "desirous",
+      "willing",
+      "fond",
+      "plaintiff",
+      "able _",
+      "advocate",
+      "aspirant",
+      "anxious",
+      "athirst",
+      "covetous",
+      "forward",
+      "disposed",
+      "eager",
+      "hungry",
+      "liker",
+      "partial",
+      "philo-",
+      "pretender",
+      "proponent",
+      "prosecution",
+      "solicitous",
+      "thirsty",
+      "zealous",
+      "complainant",
+      "fain",
+      "lief",
+      "propitious"
+    ]
+  },
+  "واخواهی": {
+    "category": "حقوقی و قضایی",
+    "synonyms": [
+      "اعتراض",
+      "پرخاش",
+      "رد",
+      "نکول"
+    ],
+    "english": [
+      "protest",
+      "protestation",
+      "protesting"
+    ]
+  },
+  "قرار": {
+    "category": "حقوقی و قضایی",
+    "synonyms": [
+      "رسم",
+      "روش",
+      "نهاد",
+      "استقرار",
+      "ثبات",
+      "سکون",
+      "طمانینه",
+      "آرام",
+      "آرامش",
+      "صبر",
+      "فراغ",
+      "فراغت",
+      "هال",
+      "شرط",
+      "عهد",
+      "وعده",
+      "رانده وو",
+      "میعاد",
+      "وعده گاه",
+      "قول",
+      "میثاق",
+      "شرح",
+      "شیوه",
+      "وضع",
+      "حکم",
+      "عادت"
+    ],
+    "english": [
+      "appointment",
+      "arrangement",
+      "award",
+      "date",
+      "obligation",
+      "rendezvous",
+      "rule",
+      "setup",
+      "rest",
+      "repose",
+      "stability",
+      "agreement"
+    ]
+  },
+  "عرضه": {
+    "category": "املاک و مستغلات",
+    "synonyms": [
+      "ارائه",
+      "نمایش",
+      "نمود",
+      "نشان دادن",
+      "نمودن",
+      "اظهار",
+      "بیان",
+      "پیشنهاد",
+      "تقدیم",
+      "تقدیمی",
+      "هدیه | توانایی",
+      "قدرت",
+      "قوت",
+      "قوه",
+      "شایستگی",
+      "قابلیت",
+      "لیاقت",
+      "جرئت",
+      "شهامت",
+      "کارآیی"
+    ],
+    "english": [
+      "supply",
+      "presentation",
+      "proposal",
+      "capability",
+      "efficiency",
+      "enterprise",
+      "exhibit",
+      "exposition",
+      "offer",
+      "purveyance",
+      "submission",
+      "push"
+    ]
+  },
+  "مساحت": {
+    "category": "املاک و مستغلات",
+    "synonyms": [
+      "سطح",
+      "اندازه گیری",
+      "پیمایش"
+    ],
+    "english": [
+      "area",
+      "measurement",
+      "survey"
+    ]
+  },
+  "زمین": {
+    "category": "املاک و مستغلات",
+    "synonyms": [
+      "ارض",
+      "اقلیم",
+      "بوم",
+      "سرزمین",
+      "مرزوبوم",
+      "حد",
+      "مرز",
+      "تراب",
+      "ثری",
+      "خاک",
+      "گل",
+      "بر",
+      "خشکی",
+      "ملک"
+    ],
+    "english": [
+      "ground",
+      "land",
+      "property",
+      "soil",
+      "terrain",
+      "domain",
+      "earth",
+      "floor",
+      "landed property"
+    ]
+  },
+  "ساختمان": {
+    "category": "املاک و مستغلات",
+    "synonyms": [
+      "بنا",
+      "ساخت",
+      "عمارت",
+      "آپارتمان",
+      "خانه",
+      "ویلا",
+      "ساختار",
+      "نهاد",
+      "وضع",
+      "معماری"
+    ],
+    "english": [
+      "construction building",
+      "structure",
+      "build",
+      "constitution",
+      "construction",
+      "edifice",
+      "erection",
+      "fabrication",
+      "facility",
+      "formation",
+      "frame",
+      "house",
+      "making",
+      "masonry",
+      "organization",
+      "temple"
+    ]
+  },
+  "پاساژ": {
+    "category": "املاک و مستغلات",
+    "synonyms": [
+      "بازارچه",
+      "تیمچه",
+      "راهرو",
+      "گذرگاه",
+      "معبر"
+    ],
+    "english": [
+      "arcade",
+      "galleria",
+      "mall",
+      "passage",
+      "shopping center"
+    ]
+  },
+  "مغازه": {
+    "category": "املاک و مستغلات",
+    "synonyms": [
+      "بوتیک",
+      "حجره",
+      "دکان",
+      "دکه",
+      "فروشگاه",
+      "مخزن",
+      "انبار"
+    ],
+    "english": [
+      "store",
+      "shop",
+      "establishment",
+      "salon"
+    ]
+  },
+  "پارکینگ": {
+    "category": "املاک و مستغلات",
+    "synonyms": [],
+    "english": [
+      "parking lot",
+      "car park"
+    ]
+  },
+  "پایان کار": {
+    "category": "املاک و مستغلات",
+    "synonyms": [],
+    "english": [
+      "sunset"
+    ]
+  },
+  "مشاوره": {
+    "category": "خدمات و کارکرد",
+    "synonyms": [
+      "رایزنی",
+      "شور",
+      "مشورت",
+      "مشاورت"
+    ],
+    "english": [
+      "consultation",
+      "guidance",
+      "consulting together",
+      "deliberation"
+    ]
+  },
+  "تحویل": {
+    "category": "خدمات و کارکرد",
+    "synonyms": [
+      "استرداد",
+      "واسپاری",
+      "واگذاری",
+      "بازدهی",
+      "انتقال",
+      "تبدیل",
+      "تغییر",
+      "جابه جایی",
+      "سپردن",
+      "واسپردن",
+      "واگذار کردن"
+    ],
+    "english": [
+      "consignment",
+      "delivery",
+      "surrender",
+      "reduction"
+    ]
+  },
+  "پذیرش": {
+    "category": "خدمات و کارکرد",
+    "synonyms": [
+      "اجابت",
+      "استجابت",
+      "پذیرایی",
+      "تقبل",
+      "عهده گیری",
+      "قابلیت",
+      "قبول",
+      "مطاوعت"
+    ],
+    "english": [
+      "acceptance",
+      "agreement",
+      "agrement",
+      "admittance",
+      "admission",
+      "acceptability",
+      "acceptableness",
+      "allowance",
+      "assent",
+      "compliance",
+      "intake",
+      "receipt",
+      "reception",
+      "resignation",
+      "sanction",
+      "tolerance",
+      "yes"
+    ]
+  },
+  "کنترل کیفیت": {
+    "category": "خدمات و کارکرد",
+    "synonyms": [],
+    "english": [
+      "quality control"
+    ]
+  },
+  "بازرسی": {
+    "category": "خدمات و کارکرد",
+    "synonyms": [
+      "بررسی",
+      "پژوهش",
+      "تحقیق",
+      "رسیدگی",
+      "تفتیش",
+      "سرکشی",
+      "نظارت"
+    ],
+    "english": [
+      "inspection",
+      "search"
+    ]
+  },
+  "تست": {
+    "category": "خدمات و کارکرد",
+    "synonyms": [
+      "آزمایش",
+      "آزمون",
+      "امتحان",
+      "سنجش",
+      "پرسش های چندگزینه ای",
+      "سؤالهای چندجوابی"
+    ],
+    "english": [
+      "test"
+    ]
+  },
+  "استاندارد": {
+    "category": "خدمات و کارکرد",
+    "synonyms": [
+      "مدل",
+      "معیار",
+      "مقیاس",
+      "میزان",
+      "نمونه"
+    ],
+    "english": [
+      "standard"
+    ]
+  },
+  "راهبر": {
+    "category": "خدمات و کارکرد",
+    "synonyms": [
+      "امام",
+      "بلد",
+      "پیشوا",
+      "دلیل",
+      "راهنما",
+      "رهبر",
+      "هادی | دزد",
+      "راهدار",
+      "سارق",
+      "قطاع الطریق",
+      "گردنه بند"
+    ],
+    "english": [
+      "guide",
+      "inductive"
+    ]
+  },
+  "محرمانگی": {
+    "category": "حفاظت و محرمانگی",
+    "synonyms": [],
+    "english": [
+      "confidentiality",
+      "privacy"
+    ]
+  },
+  "افشاء": {
+    "category": "حفاظت و محرمانگی",
+    "synonyms": [],
+    "english": [
+      "revealing",
+      "divulging",
+      "disclosing"
+    ]
+  },
+  "اطلاعات محرمانه": {
+    "category": "حفاظت و محرمانگی",
+    "synonyms": [],
+    "english": [
+      "poop"
+    ]
+  },
+  "رضایت نامه": {
+    "category": "حفاظت و محرمانگی",
+    "synonyms": [],
+    "english": [
+      "letter of satisfaction",
+      "testimonial",
+      "subscription"
+    ]
+  },
+  "تسویه": {
+    "category": "تادیات و تسویه",
+    "synonyms": [],
+    "english": [
+      "liquidation",
+      "settlement",
+      "equalization",
+      "[o.s.] equalization"
+    ]
+  },
+  "حواله": {
+    "category": "تادیات و تسویه",
+    "synonyms": [
+      "برات",
+      "حوالت",
+      "واگذاری",
+      "محول"
+    ],
+    "english": [
+      "bill",
+      "bill of exchange",
+      "remittance",
+      "warrant",
+      "draft",
+      "(money)-order",
+      "transfer",
+      "assignment"
+    ]
+  },
+  "خاتمه": {
+    "category": "شرایط فسخ و پایان",
+    "synonyms": [
+      "آخر",
+      "انجام",
+      "انقضا",
+      "پایان",
+      "فرجام",
+      "نهایت"
+    ],
+    "english": [
+      "end",
+      "conclusion",
+      "adjournment",
+      "finally",
+      "close",
+      "closure",
+      "completion",
+      "ending",
+      "expiration",
+      "expiry",
+      "finis",
+      "kibosh",
+      "period",
+      "stop",
+      "tail end",
+      "termination",
+      "windup"
+    ]
+  },
+  "اختتام": {
+    "category": "شرایط فسخ و پایان",
+    "synonyms": [
+      "آخر",
+      "انتها",
+      "پایان",
+      "تمام",
+      "ختم",
+      "فرجام",
+      "نهایت",
+      "نهایت"
+    ],
+    "english": [
+      "completion",
+      "expiry",
+      "being finshed",
+      "end",
+      "conclusion"
+    ]
+  },
+  "انصراف": {
+    "category": "شرایط فسخ و پایان",
+    "synonyms": [
+      "اعراض",
+      "پشیمانی",
+      "تغییرعقیده",
+      "عدول"
+    ],
+    "english": [
+      "dissuasion",
+      "relinquishment",
+      "renunciation",
+      "withdrawal",
+      "dispensing",
+      "dispensing(with)"
+    ]
+  },
+  "لغو": {
+    "category": "شرایط فسخ و پایان",
+    "synonyms": [
+      "ابطال",
+      "الغا",
+      "باطل",
+      "بی فایده",
+      "بیهوده",
+      "بیهوده گویی",
+      "پوچ",
+      "عاطل",
+      "فسخ",
+      "مزخرف",
+      "ملغا",
+      "مهمل",
+      "نقض",
+      "واهی",
+      "یاوه"
+    ],
+    "english": [
+      "abolition",
+      "abrogation",
+      "cancellation",
+      "futile",
+      "revocation",
+      "vitiation",
+      "idle talk",
+      "nonsense",
+      "nullification",
+      "null",
+      "nonsensical"
+    ]
+  },
+  "مالکیت": {
+    "category": "حقوق مالکیت و استفاده",
+    "synonyms": [
+      "تملک",
+      "ملکیت"
+    ],
+    "english": [
+      "ownership",
+      "possession",
+      "property",
+      "proprietorship"
+    ]
+  },
+  "جبران خسارت": {
+    "category": "ریسک و مسئولیت",
+    "synonyms": [],
+    "english": [
+      "restitution"
+    ]
+  },
+  "ریسک": {
+    "category": "ریسک و مسئولیت",
+    "synonyms": [],
+    "english": [
+      "gamble",
+      "risk",
+      "venture",
+      "long shot"
+    ]
+  },
+  "بیمه": {
+    "category": "ریسک و مسئولیت",
+    "synonyms": [],
+    "english": [
+      "insurance",
+      "assurance",
+      "indemnity"
+    ]
+  },
+  "قانون": {
+    "category": "عمومی و قانونی",
+    "synonyms": [
+      "رسم",
+      "روش",
+      "طرز",
+      "طریقه",
+      "نظم",
+      "هنجار",
+      "آیین",
+      "ضابطه",
+      "قاعده",
+      "مقررات",
+      "ساز"
+    ],
+    "english": [
+      "code",
+      "enactment",
+      "law",
+      "ordinance",
+      "rule",
+      "statute",
+      "act",
+      "theorem",
+      "(parliamentary) act",
+      "canun",
+      "kind of zither ordulcimer"
+    ]
+  },
+  "مقررات": {
+    "category": "عمومی و قانونی",
+    "synonyms": [],
+    "english": [
+      "provisions",
+      "requirements",
+      "prescriptions",
+      "stipulations",
+      "regulation",
+      "discipline",
+      "ground rule",
+      "ordinances",
+      "rulebook",
+      "statute",
+      "dispositions",
+      "regulation(s)"
+    ]
+  },
+  "اختلاف": {
+    "category": "عمومی و قانونی",
+    "synonyms": [
+      "افتراق",
+      "تباین",
+      "تضاد",
+      "تفارق",
+      "تفاوت",
+      "تمایز",
+      "توفیر",
+      "فرق",
+      "مغایرت",
+      "تشت",
+      "دعوا",
+      "ضدیت",
+      "کشمکش",
+      "مخالفت",
+      "مشاجره",
+      "نزاع",
+      "نفاق"
+    ],
+    "english": [
+      "conflict",
+      "difference",
+      "disagreement",
+      "discord",
+      "discrepancy",
+      "dissimilarity",
+      "dissonance",
+      "diversity",
+      "jar",
+      "misunderstanding",
+      "polarity",
+      "variance",
+      "dispute",
+      "diversity of opinions"
+    ]
+  }
+}

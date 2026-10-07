@@ -1,0 +1,82 @@
+[
+  {
+    "clause_id": 0,
+    "clause_type": "عنوان قرارداد",
+    "text": "قرارداد استخدام مدیر داخلی",
+    "entities": []
+  },
+  {
+    "clause_id": 1,
+    "clause_type": "مشخصات طرفین",
+    "text": "این قرارداد در تاریخ [contract_date] بین شرکت [company_name] به شماره ثبت [registration_number] و شناسه ملی [national_id] به نمایندگی [representative_name] در سمت [representative_position] و آقای/خانم [manager_name] فرزند [father_name] دارای کد ملی [national_code] و شماره شناسنامه [birth_certificate_number] منعقد گردید.",
+    "entities": [
+      {"slot":"contract_date"},
+      {"slot":"company_name"},
+      {"slot":"registration_number"},
+      {"slot":"national_id"},
+      {"slot":"representative_name"},
+      {"slot":"representative_position"},
+      {"slot":"manager_name"},
+      {"slot":"father_name"},
+      {"slot":"national_code"},
+      {"slot":"birth_certificate_number"}
+    ]
+  },
+  {
+    "clause_id": 2,
+    "clause_type": "موضوع قرارداد",
+    "text": "موضوع قرارداد عبارت است از استخدام مدیر داخلی جهت برنامه‌ریزی، هماهنگی و نظارت بر امور داخلی شرکت.",
+    "entities": []
+  },
+  {
+    "clause_id": 3,
+    "clause_type": "مدت قرارداد",
+    "text": "مدت قرارداد از تاریخ [start_date] لغایت [end_date] به مدت [contract_duration] ماه می‌باشد.",
+    "entities": [
+      {"slot":"start_date"},
+      {"slot":"end_date"},
+      {"slot":"contract_duration"}
+    ]
+  },
+  {
+    "clause_id": 4,
+    "clause_type": "محل انجام کار",
+    "text": "محل انجام کار در [workplace_address] می‌باشد.",
+    "entities": [
+      {"slot":"workplace_address"}
+    ]
+  },
+  {
+    "clause_id": 5,
+    "clause_type": "حقوق و مزایا",
+    "text": "حقوق ماهیانه مبلغ [monthly_salary] ریال بوده و فوق‌العاده مدیریت مبلغ [management_allowance] ریال پرداخت خواهد شد.",
+    "entities": [
+      {"slot":"monthly_salary"},
+      {"slot":"management_allowance"}
+    ]
+  },
+  {
+    "clause_id": 6,
+    "clause_type": "ساعات کاری",
+    "text": "ساعات کار [working_hours] ساعت در هفته می‌باشد.",
+    "entities": [
+      {"slot":"working_hours"}
+    ]
+  },
+  {
+    "clause_id": 7,
+    "clause_type": "دوره آزمایشی",
+    "text": "مدت دوره آزمایشی [probation_period] ماه تعیین گردیده است.",
+    "entities": [
+      {"slot":"probation_period"}
+    ]
+  },
+  {
+    "clause_id": 8,
+    "clause_type": "فسخ قرارداد",
+    "text": "هریک از طرفین موظفند حداقل [notice_period] روز قبل از فسخ قرارداد، مراتب را کتباً اعلام نمایند.",
+    "entities": [
+      {"slot":"notice_period"}
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "title": "مشخصات مشاور - قرارداد مشاوره مالی و حسابداری",
+  "content": "مشاور: {{consultant_name}} فرزند {{father_name}} شماره ملی {{consultant_national_id}} تلفن {{consultant_phone}} نشانی {{consultant_address}}",
+  "keywords": [
+    "مشخصات مشاور",
+    "قرارداد مشاوره مالی و حسابداری",
+    "بند قرارداد",
+    "قرارداد کار",
+    "consultant",
+    "طرفین قرارداد",
+    "مشخصات هویتی",
+    "اطلاعات تماس",
+    "کد ملی",
+    "نشانی طرفین",
+    "consultant_name",
+    "مشاور",
+    "فرزند",
+    "father_name",
+    "شماره ملی",
+    "consultant_national_id",
+    "تلفن",
+    "consultant_phone",
+    "نشانی",
+    "consultant_address",
+    "ملی"
+  ]
+}

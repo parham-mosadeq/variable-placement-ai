@@ -1,0 +1,100 @@
+[
+  {
+    "clause_id": 0,
+    "clause_type": "title",
+    "text": "قرارداد تأمین نیروی انسانی",
+    "entities": []
+  },
+
+  {
+    "clause_id": 1,
+    "clause_type": "preamble",
+    "text": "این قرارداد بین کارفرما و پیمانکار منعقد و لازم‌الاجرا می‌گردد.",
+    "entities": []
+  },
+
+  {
+    "clause_id": 2,
+    "clause_type": "employer",
+    "text": "شرکت [employer_company_name] شماره ثبت [employer_registration_number] شناسه ملی [employer_national_id] کد اقتصادی [employer_economic_code] به نمایندگی [employer_representative] در سمت [employer_position] نشانی [employer_address] تلفن [employer_phone]",
+    "entities": [
+      {"slot": "employer_company_name", "before_token": "شرکت", "after_token": "شماره ثبت"},
+      {"slot": "employer_registration_number", "before_token": "شماره ثبت", "after_token": "شناسه ملی"},
+      {"slot": "employer_national_id", "before_token": "شناسه ملی", "after_token": "کد اقتصادی"},
+      {"slot": "employer_economic_code", "before_token": "کد اقتصادی", "after_token": "به نمایندگی"},
+      {"slot": "employer_representative", "before_token": "به نمایندگی", "after_token": "در سمت"},
+      {"slot": "employer_position", "before_token": "در سمت", "after_token": "نشانی"},
+      {"slot": "employer_address", "before_token": "نشانی", "after_token": "تلفن"},
+      {"slot": "employer_phone", "before_token": "تلفن", "after_token": ""}
+    ]
+  },
+
+  {
+    "clause_id": 3,
+    "clause_type": "contractor",
+    "text": "شرکت [contractor_company_name] شماره ثبت [contractor_registration_number] شناسه ملی [contractor_national_id] کد اقتصادی [contractor_economic_code] به نمایندگی [contractor_representative] در سمت [contractor_position] نشانی [contractor_address] تلفن [contractor_phone]",
+    "entities": [
+      {"slot": "contractor_company_name", "before_token": "شرکت", "after_token": "شماره ثبت"},
+      {"slot": "contractor_registration_number", "before_token": "شماره ثبت", "after_token": "شناسه ملی"},
+      {"slot": "contractor_national_id", "before_token": "شناسه ملی", "after_token": "کد اقتصادی"},
+      {"slot": "contractor_economic_code", "before_token": "کد اقتصادی", "after_token": "به نمایندگی"},
+      {"slot": "contractor_representative", "before_token": "به نمایندگی", "after_token": "در سمت"},
+      {"slot": "contractor_position", "before_token": "در سمت", "after_token": "نشانی"},
+      {"slot": "contractor_address", "before_token": "نشانی", "after_token": "تلفن"},
+      {"slot": "contractor_phone", "before_token": "تلفن", "after_token": ""}
+    ]
+  },
+
+  {
+    "clause_id": 4,
+    "clause_type": "subject",
+    "text": "تأمین نیروی انسانی (کارگر ساده / کارگر ماهر) توسط پیمانکار",
+    "entities": []
+  },
+
+  {
+    "clause_id": 5,
+    "clause_type": "contract_term",
+    "text": "از تاریخ [start_date] لغایت [end_date] به مدت [duration] ماه",
+    "entities": [
+      {"slot": "start_date", "before_token": "از تاریخ", "after_token": "لغایت"},
+      {"slot": "end_date", "before_token": "لغایت", "after_token": "به مدت"},
+      {"slot": "duration", "before_token": "به مدت", "after_token": "ماه"}
+    ]
+  },
+
+  {
+    "clause_id": 6,
+    "clause_type": "obligations_contractor",
+    "text": "تأمین نیروی انسانی و جایگزینی نیروهای نامناسب",
+    "entities": []
+  },
+
+  {
+    "clause_id": 7,
+    "clause_type": "obligations_employer",
+    "text": "پرداخت به‌موقع مطالبات و اعلام نیاز نیرو",
+    "entities": []
+  },
+
+  {
+    "clause_id": 8,
+    "clause_type": "confidentiality",
+    "text": "حفظ محرمانگی اطلاعات و اسناد طرفین الزامی است",
+    "entities": []
+  },
+
+  {
+    "clause_id": 9,
+    "clause_type": "termination",
+    "text": "در صورت تخلف هر یک از طرفین، قرارداد قابل فسخ می‌باشد",
+    "entities": []
+  },
+
+  {
+    "clause_id": 10,
+    "clause_type": "final_clause",
+    "text": "این قرارداد در دو نسخه با اعتبار یکسان تنظیم و امضا گردیده است",
+    "entities": []
+  }
+]

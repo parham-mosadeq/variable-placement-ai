@@ -1,0 +1,88 @@
+[
+  {
+    "clause_id": 0,
+    "clause_type": "title",
+    "text": "قرارداد کار مربی",
+    "entities": []
+  },
+  {
+    "clause_id": 1,
+    "clause_type": "legal_basis",
+    "text": "ماده ۱۰ قانون کار جمهوری اسلامی ایران",
+    "entities": []
+  },
+  {
+    "clause_id": 2,
+    "clause_type": "employer",
+    "text": "شرکت / آقا / خانم [company_name] به شماره ثبت [registration_number] شناسه ملی [national_id] کد ملی یا کد اقتصادی [economic_or_national_code] نماینده [representative_name] سمت [position] نشانی [company_address] تلفن [company_phone] دورنگار [company_fax]",
+    "entities": [
+      { "slot": "company_name", "before_token": "شرکت / آقا / خانم", "after_token": "به شماره ثبت" },
+      { "slot": "registration_number", "before_token": "شماره ثبت", "after_token": "شناسه ملی" },
+      { "slot": "national_id", "before_token": "شناسه ملی", "after_token": "کد ملی یا کد اقتصادی" },
+      { "slot": "economic_or_national_code", "before_token": "کد ملی یا کد اقتصادی", "after_token": "نماینده" },
+      { "slot": "representative_name", "before_token": "نماینده", "after_token": "سمت" },
+      { "slot": "position", "before_token": "سمت", "after_token": "نشانی" },
+      { "slot": "company_address", "before_token": "نشانی", "after_token": "تلفن" },
+      { "slot": "company_phone", "before_token": "تلفن", "after_token": "دورنگار" },
+      { "slot": "company_fax", "before_token": "دورنگار", "after_token": "" }
+    ]
+  },
+  {
+    "clause_id": 3,
+    "clause_type": "employee",
+    "text": "مربی: [trainer_name] فرزند [father_name] متولد [birth_date] شماره شناسنامه [id_number] شماره ملی [national_id] نشانی [address] کدپستی [postal_code] تلفن [mobile] پست الکترونیک [email]",
+    "entities": [
+      { "slot": "trainer_name", "before_token": "مربی:", "after_token": "فرزند" },
+      { "slot": "father_name", "before_token": "فرزند", "after_token": "متولد" },
+      { "slot": "birth_date", "before_token": "متولد", "after_token": "شماره شناسنامه" },
+      { "slot": "id_number", "before_token": "شماره شناسنامه", "after_token": "شماره ملی" },
+      { "slot": "national_id", "before_token": "شماره ملی", "after_token": "نشانی" },
+      { "slot": "address", "before_token": "نشانی", "after_token": "کدپستی" },
+      { "slot": "postal_code", "before_token": "کدپستی", "after_token": "تلفن" },
+      { "slot": "mobile", "before_token": "تلفن", "after_token": "پست الکترونیک" },
+      { "slot": "email", "before_token": "پست الکترونیک", "after_token": "" }
+    ]
+  },
+  {
+    "clause_id": 4,
+    "clause_type": "scope_of_work",
+    "text": "اشتغال مربی در [workplace_unit] و انجام کلیه وظایف محوله از سوی کارفرما",
+    "entities": [
+      { "slot": "workplace_unit", "before_token": "در", "after_token": "و انجام" }
+    ]
+  },
+  {
+    "clause_id": 5,
+    "clause_type": "contract_type",
+    "text": "تمام‌وقت یا پاره‌وقت",
+    "entities": []
+  },
+  {
+    "clause_id": 6,
+    "clause_type": "duration",
+    "text": "از تاریخ [start_date] لغایت [end_date] به مدت [duration] ماه",
+    "entities": [
+      { "slot": "start_date", "before_token": "از تاریخ", "after_token": "لغایت" },
+      { "slot": "end_date", "before_token": "لغایت", "after_token": "به مدت" },
+      { "slot": "duration", "before_token": "به مدت", "after_token": "ماه" }
+    ]
+  },
+  {
+    "clause_id": 7,
+    "clause_type": "workplace",
+    "text": "محل انجام قرارداد آدرس محل کارفرما و محل اشتغال مربی",
+    "entities": []
+  },
+  {
+    "clause_id": 8,
+    "clause_type": "working_hours",
+    "text": "ساعت کار [weekly_hours] ساعت در هفته و در روزهای شنبه تا چهارشنبه از [start_time] تا [end_time] و پنج‌شنبه از [thursday_start] تا [thursday_end]",
+    "entities": [
+      { "slot": "weekly_hours", "before_token": "ساعت کار", "after_token": "ساعت در هفته" },
+      { "slot": "start_time", "before_token": "از", "after_token": "تا" },
+      { "slot": "end_time", "before_token": "تا", "after_token": "و پنج‌شنبه" },
+      { "slot": "thursday_start", "before_token": "پنج‌شنبه از", "after_token": "تا" },
+      { "slot": "thursday_end", "before_token": "تا", "after_token": "" }
+    ]
+  }
+]

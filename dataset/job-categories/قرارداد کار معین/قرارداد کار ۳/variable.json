@@ -1,0 +1,22 @@
+{
+  "employer_name": "",
+  "employer_father": "",
+  "employer_national_id": "",
+  "employer_address": "",
+  "employee_name": "",
+  "employee_father": "",
+  "employee_national_id": "",
+  "employee_birthdate": "",
+  "employee_address": "",
+  "work_location": "",
+  "job_title": "",
+  "contract_start_date": "",
+  "contract_end_date": "",
+  "daily_wage": "",
+  "seniority_allowance": "",
+  "monthly_salary": "",
+  "housing_allowance": "",
+  "grocery_allowance": "",
+  "child_allowance": "",
+  "total_salary": ""
+}

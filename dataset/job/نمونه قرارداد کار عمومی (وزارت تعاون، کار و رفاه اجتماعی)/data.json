@@ -1,0 +1,134 @@
+[
+  {
+    "clause_id": 0,
+    "clause_type": "عنوان و مقدمه",
+    "text": "نمونه قرارداد کار عمومی (وزارت تعاون، کار و رفاه اجتماعی) این قرارداد به موجب ماده (10) قانون کار جمهوری اسلامی ایران بین کارفرما /نماینده قانونی کارفرما و کارگر منعقد می شود.",
+    "entities": []
+  },
+  {
+    "clause_id": 1,
+    "clause_type": "مشخصات طرفین",
+    "text": "1) مشخصات طرفین: کارفرما/ نماینده قانونی کارفرما آقای/خانم/شرکت [employer_name] فرزند [employer_father] شماره شناسنامه/شماره ثبت: [employer_id] به نشانی: [employer_address] و کارگر آقای/خانم [employee_name] فرزند [employee_father] متولد [employee_birthdate] شماره شناسنامه [employee_certificate_id] شماره ملی [employee_national_id] میزان تحصیلات [employee_education] نوع و میزان مهرات: [employee_skill] به نشانی: [employee_address] منعقد می گردد.",
+    "entities": [
+      {"slot": "employer_name", "before_token": "شرکت", "after_token": "فرزند"},
+      {"slot": "employer_father", "before_token": "فرزند", "after_token": "شماره شناسنامه"},
+      {"slot": "employer_id", "before_token": "شماره ثبت:", "after_token": "به نشانی"},
+      {"slot": "employer_address", "before_token": "به نشانی:", "after_token": "و کارگر"},
+      {"slot": "employee_name", "before_token": "آقای/خانم", "after_token": "فرزند"},
+      {"slot": "employee_father", "before_token": "فرزند", "after_token": "متولد"},
+      {"slot": "employee_birthdate", "before_token": "متولد", "after_token": "شماره شناسنامه"},
+      {"slot": "employee_certificate_id", "before_token": "شماره شناسنامه", "after_token": "شماره ملی"},
+      {"slot": "employee_national_id", "before_token": "شماره ملی", "after_token": "میزان تحصیلات"},
+      {"slot": "employee_education", "before_token": "میزان تحصیلات", "after_token": "نوع و میزان مهرات"},
+      {"slot": "employee_skill", "before_token": "نوع و میزان مهرات:", "after_token": "به نشانی"},
+      {"slot": "employee_address", "before_token": "به نشانی:", "after_token": "منعقد می گردد"}
+    ]
+  },
+  {
+    "clause_id": 2,
+    "clause_type": "نوع قرارداد",
+    "text": "2) نوع قرارداد دائم□ موقت□ کار معین□",
+    "entities": [
+      {"slot": "contract_type", "before_token": "نوع قرارداد", "after_token": "دائم□ موقت□ کار معین□"}
+    ]
+  },
+  {
+    "clause_id": 3,
+    "clause_type": "موضوع قرارداد",
+    "text": "3) نوع کار یا حرفه یا حجم کار یا وظیفه ای که کارگر به آن اشتغال می‌‌یابد: [job_title]",
+    "entities": [
+      {"slot": "job_title", "before_token": "اشتغال می‌‌یابد:", "after_token": null}
+    ]
+  },
+  {
+    "clause_id": 4,
+    "clause_type": "محل انجام کار",
+    "text": "4) محل انجام کار: [work_location]",
+    "entities": [
+      {"slot": "work_location", "before_token": "محل انجام کار:", "after_token": null}
+    ]
+  },
+  {
+    "clause_id": 5,
+    "clause_type": "تاریخ انعقاد",
+    "text": "5) تاریخ انعقاد قرارداد: [contract_date]",
+    "entities": [
+      {"slot": "contract_date", "before_token": "تاریخ انعقاد قرارداد:", "after_token": null}
+    ]
+  },
+  {
+    "clause_id": 6,
+    "clause_type": "مدت قرارداد",
+    "text": "6) مدت قرارداد: [contract_duration]",
+    "entities": [
+      {"slot": "contract_duration", "before_token": "مدت قرارداد:", "after_token": null}
+    ]
+  },
+  {
+    "clause_id": 7,
+    "clause_type": "ساعت کار",
+    "text": "7) ساعت کار: [working_hours] میزان ساعت کار و ساعت شروع و پایان آن با توافق طرفین تعیین می‌گردد، ساعت کار نمی تواند بیش از میزان مندرج در قانون کار تعیین شود لیکن کمتر از آن مجاز است.",
+    "entities": [
+      {"slot": "working_hours", "before_token": "ساعت کار:", "after_token": "میزان ساعت کار"}
+    ]
+  },
+  {
+    "clause_id": 8,
+    "clause_type": "حق السعی",
+    "text": "8) حق السعی: الف) مزد ثابت / مبنا روزانه/ ساعتی [base_salary] ریال. ب) حق مسکن ماهیانه [housing_allowance] ریال. ج) حق اولاد ماهیانه [child_allowance] ریال. د) پایه سنوات روزانه [seniority_allowance] ریال. ه) کمک هزنه اقلام مصرفی خانوار (بن کارگری)ماهیانه [grocery_allowance] ریال. و) سایر مزایا: [other_benefits] ریال.",
+    "entities": [
+      {"slot": "base_salary", "before_token": "ساعتی", "after_token": "ریال"},
+      {"slot": "housing_allowance", "before_token": "حق مسکن ماهیانه", "after_token": "ریال"},
+      {"slot": "child_allowance", "before_token": "حق اولاد ماهیانه", "after_token": "ریال"},
+      {"slot": "seniority_allowance", "before_token": "پایه سنوات روزانه", "after_token": "ریال"},
+      {"slot": "grocery_allowance", "before_token": "(بن کارگری)ماهیانه", "after_token": "ریال"},
+      {"slot": "other_benefits", "before_token": "سایر مزایا:", "after_token": "ریال"}
+    ]
+  },
+  {
+    "clause_id": 9,
+    "clause_type": "حقوق و مزایا و نحوه پرداخت",
+    "text": "9) حقوق و مزایا: حقوق و مزایا بصورت هفتگی / ماهانه کارگر به حساب شماره [bank_account_number] نزد بانک [bank_name] شعبه [bank_branch] توسط کارفرما یا نماینده قانونی وی پرداخت می گردد.",
+    "entities": [
+      {"slot": "bank_account_number", "before_token": "به حساب شماره", "after_token": "نزد بانک"},
+      {"slot": "bank_name", "before_token": "نزد بانک", "after_token": "شعبه"},
+      {"slot": "bank_branch", "before_token": "شعبه", "after_token": "توسط کارفرما"}
+    ]
+  },
+  {
+    "clause_id": 10,
+    "clause_type": "بیمه",
+    "text": "10) بیمه: به موجب ماده 148 قانون کار کارفرمایان کارگاه های مشمول این قانون مکلفند بر اساس قانون تامین اجتماعی نسبت به بیمه نمودن کارگران واحد خود اقدام نمایند.",
+    "entities": []
+  },
+  {
+    "clause_id": 11,
+    "clause_type": "عیدی و پاداش سالانه",
+    "text": "11) عیدی و پاداش سالانه: به موجب ماده واحده قانون مربوط به تعیین عیدی و پاداش سالانه کارگران شاغل در کارگاه‌های مشمول قانون کار مصوب 6/12/1370 مجلس شورای اسلامی به ازای یک سال کار معادل شصت روز مزد ثابت/مبنا (تاسقف نود روز حداقل مزد روزانه قانونی کارگران) به عنوان عیدی و پاداش سالانه به کارگر پرداخت می شود. برای کار کمتر از یک سال میزان عیدی و پاداش و سقف مربوط به نسبت محاسبه خواهد شد.",
+    "entities": []
+  },
+  {
+    "clause_id": 12,
+    "clause_type": "حق سنوات یا مزایای پایان کار",
+    "text": "12) حق سنوات یا مزایای پایان کار: به استناد ماده 24 قانون کار در صورت خاتمه قراردادکار، کار معین یا مدت موقت، کارفرما مکلف است به کارگری که مطابق قرارداد یکسال یا بیشتر، به کار اشتغال داشته است برای هر سال سابقه، اعم از متوالی یا متناوب بر اساس آخرین حقوق مبلغی معادل یک ماه حقوق به عنوان مزایای پایان کار(حق سنوات) به وی پرداخت نماید.",
+    "entities": []
+  },
+  {
+    "clause_id": 13,
+    "clause_type": "فسخ قرارداد",
+    "text": "13) فسخ قرارداد: به استناد ماده 25 قانون کار و تبصره آن در قرارداد کار موقت و یا برای انجام کار معین هیچ یک از طرفین به تنهایی حق فسخ آن را ندارند و رسیدگی به اختلافات ناشی از این نوع قرارداد in صلاحیت هیات‌های تشخیص و حل اختلاف می باشد.",
+    "entities": []
+  },
+  {
+    "clause_id": 14,
+    "clause_type": "سایر مقررات",
+    "text": "14) سایر: سایر موضوعات مندرج در قانون کار و مقررات تبعی از جمله مرخصی استحقاقی نسبت به این قرارداد اعمال خواهد شد.",
+    "entities": []
+  },
+  {
+    "clause_id": 15,
+    "clause_type": "نسخ قرارداد و امضا",
+    "text": "15) این قرارداد در 4 نسخه تنظیم می شود که یک نسخه نزد کارفرما یک نسخه نزد کارگر یک نسخه به تشکل کارگری (در صورت وجود) و یک نسخه نیز توسط کارفرما به اداره تعاون کار و رفاه اجتماعی محل تحویل می شود. محل امضای کارفرما محل امضای کارگر",
+    "entities": []
+  }
+]

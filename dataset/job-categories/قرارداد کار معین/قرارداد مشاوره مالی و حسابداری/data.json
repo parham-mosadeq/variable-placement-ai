@@ -1,0 +1,82 @@
+[
+  {
+    "clause_id": 0,
+    "clause_type": "title",
+    "text": "قرارداد مشاور مالی و حسابداری",
+    "entities": []
+  },
+  {
+    "clause_id": 1,
+    "clause_type": "legal_basis",
+    "text": "ماده ۱۰ قانون مدنی",
+    "entities": []
+  },
+  {
+    "clause_id": 2,
+    "clause_type": "employer",
+    "text": "شرکت [company_name] به شماره ثبت [registration_number] شناسه ملی [national_id] کد اقتصادی [economic_code] نماینده [employer_representative] سمت [employer_position] نشانی [employer_address] تلفن [employer_phone]",
+    "entities": [
+      { "slot": "company_name", "before_token": "شرکت", "after_token": "به شماره ثبت" },
+      { "slot": "registration_number", "before_token": "شماره ثبت", "after_token": "شناسه ملی" },
+      { "slot": "national_id", "before_token": "شناسه ملی", "after_token": "کد اقتصادی" },
+      { "slot": "economic_code", "before_token": "کد اقتصادی", "after_token": "نماینده" },
+      { "slot": "employer_representative", "before_token": "نماینده", "after_token": "سمت" },
+      { "slot": "employer_position", "before_token": "سمت", "after_token": "نشانی" },
+      { "slot": "employer_address", "before_token": "نشانی", "after_token": "تلفن" },
+      { "slot": "employer_phone", "before_token": "تلفن", "after_token": "" }
+    ]
+  },
+  {
+    "clause_id": 3,
+    "clause_type": "consultant",
+    "text": "مشاور: [consultant_name] فرزند [father_name] شماره ملی [consultant_national_id] تلفن [consultant_phone] نشانی [consultant_address]",
+    "entities": [
+      { "slot": "consultant_name", "before_token": "مشاور:", "after_token": "فرزند" },
+      { "slot": "father_name", "before_token": "فرزند", "after_token": "شماره ملی" },
+      { "slot": "consultant_national_id", "before_token": "شماره ملی", "after_token": "تلفن" },
+      { "slot": "consultant_phone", "before_token": "شماره ملی", "after_token": "نشانی" },
+      { "slot": "consultant_address", "before_token": "نشانی", "after_token": "" }
+    ]
+  },
+  {
+    "clause_id": 4,
+    "clause_type": "scope_of_work",
+    "text": "مشاوره مالی، حسابداری، مالیاتی و اصلاح فرآیندهای مالی شرکت",
+    "entities": []
+  },
+  {
+    "clause_id": 5,
+    "clause_type": "financial_tasks",
+    "text": "راه‌اندازی سیستم مالی، ثبت اسناد، تهیه اظهارنامه مالیاتی، نظارت حسابداری",
+    "entities": []
+  },
+  {
+    "clause_id": 6,
+    "clause_type": "duration",
+    "text": "از تاریخ [start_date] لغایت [end_date]",
+    "entities": [
+      { "slot": "start_date", "before_token": "از تاریخ", "after_token": "لغایت" },
+      { "slot": "end_date", "before_token": "لغایت", "after_token": "" }
+    ]
+  },
+  {
+    "clause_id": 7,
+    "clause_type": "fee",
+    "text": "حق‌الزحمه [fee] ریال",
+    "entities": [
+      { "slot": "fee", "before_token": "مبلغ", "after_token": "ریال" }
+    ]
+  },
+  {
+    "clause_id": 8,
+    "clause_type": "consultant_obligations",
+    "text": "رعایت استانداردهای حسابداری، حفظ محرمانگی، ارائه گزارش‌های مالی",
+    "entities": []
+  },
+  {
+    "clause_id": 9,
+    "clause_type": "final_clause",
+    "text": "این قرارداد در دو نسخه با اعتبار یکسان تنظیم و امضا گردید",
+    "entities": []
+  }
+]

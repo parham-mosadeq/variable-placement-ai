@@ -1,0 +1,29 @@
+{
+  "title": "مشخصات کارفرما - قرارداد ترجمه",
+  "content": "شرکت {{company_name}} شناسه ملی {{company_national_id}} نشانی {{company_address}} تلفن {{company_phone}} به نمایندگی {{employer_representative}}",
+  "keywords": [
+    "مشخصات کارفرما",
+    "قرارداد ترجمه",
+    "بند قرارداد",
+    "قرارداد کار",
+    "employer",
+    "طرفین قرارداد",
+    "مشخصات هویتی",
+    "اطلاعات تماس",
+    "کد ملی",
+    "نشانی طرفین",
+    "company_name",
+    "شرکت",
+    "شناسه ملی",
+    "company_national_id",
+    "نشانی",
+    "company_address",
+    "تلفن",
+    "company_phone",
+    "به نمایندگی",
+    "employer_representative",
+    "شناسه",
+    "ملی",
+    "نمایندگی"
+  ]
+}

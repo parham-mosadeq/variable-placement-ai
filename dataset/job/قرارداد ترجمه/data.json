@@ -1,0 +1,87 @@
+[
+  {
+    "clause_id": 0,
+    "clause_type": "title",
+    "text": "قرارداد ترجمه",
+    "entities": []
+  },
+  {
+    "clause_id": 1,
+    "clause_type": "preamble",
+    "text": "این قرارداد در تاریخ [contract_date] در شهر [city] منعقد گردید.",
+    "entities": [
+      { "slot": "contract_date", "before_token": "تاریخ", "after_token": "در شهر" },
+      { "slot": "city", "before_token": "در شهر", "after_token": "" }
+    ]
+  },
+
+  {
+    "clause_id": 2,
+    "clause_type": "employer",
+    "text": "شرکت [company_name] شناسه ملی [company_national_id] نشانی [company_address] تلفن [company_phone] به نمایندگی [employer_representative]",
+    "entities": [
+      { "slot": "company_name", "before_token": "شرکت", "after_token": "شناسه ملی" },
+      { "slot": "company_national_id", "before_token": "شناسه ملی", "after_token": "نشانی" },
+      { "slot": "company_address", "before_token": "نشانی", "after_token": "تلفن" },
+      { "slot": "company_phone", "before_token": "تلفن", "after_token": "به نمایندگی" },
+      { "slot": "employer_representative", "before_token": "به نمایندگی", "after_token": "" }
+    ]
+  },
+
+  {
+    "clause_id": 3,
+    "clause_type": "translator",
+    "text": "مترجم: [translator_name] فرزند [father_name] شماره ملی [national_id] نشانی [address] تلفن [phone] ایمیل [email]",
+    "entities": [
+      { "slot": "translator_name", "before_token": "مترجم:", "after_token": "فرزند" },
+      { "slot": "father_name", "before_token": "فرزند", "after_token": "شماره ملی" },
+      { "slot": "national_id", "before_token": "شماره ملی", "after_token": "نشانی" },
+      { "slot": "address", "before_token": "نشانی", "after_token": "تلفن" },
+      { "slot": "phone", "before_token": "تلفن", "after_token": "ایمیل" },
+      { "slot": "email", "before_token": "ایمیل", "after_token": "" }
+    ]
+  },
+
+  {
+    "clause_id": 4,
+    "clause_type": "subject",
+    "text": "ترجمه از [source_language] به [target_language] شامل [document_type] به حجم [word_count] کلمه",
+    "entities": [
+      { "slot": "source_language", "before_token": "از", "after_token": "به" },
+      { "slot": "target_language", "before_token": "به", "after_token": "شامل" },
+      { "slot": "document_type", "before_token": "شامل", "after_token": "به حجم" },
+      { "slot": "word_count", "before_token": "به حجم", "after_token": "کلمه" }
+    ]
+  },
+
+  {
+    "clause_id": 5,
+    "clause_type": "payment",
+    "text": "حق‌الزحمه [fee] ریال به ازای هر [unit] پرداخت می‌شود",
+    "entities": [
+      { "slot": "fee", "before_token": "حق‌الزحمه", "after_token": "ریال" },
+      { "slot": "unit", "before_token": "به ازای هر", "after_token": "" }
+    ]
+  },
+
+  {
+    "clause_id": 6,
+    "clause_type": "confidentiality",
+    "text": "مترجم موظف به حفظ محرمانگی اطلاعات می‌باشد",
+    "entities": []
+  },
+
+  {
+    "clause_id": 7,
+    "clause_type": "attachments",
+    "text": "مدارک هویتی، روزنامه رسمی و متن قرارداد",
+    "entities": []
+  },
+
+  {
+    "clause_id": 8,
+    "clause_type": "final_clause",
+    "text": "این قرارداد در دو نسخه با اعتبار یکسان تنظیم و امضا گردیده است",
+    "entities": []
+  }
+]

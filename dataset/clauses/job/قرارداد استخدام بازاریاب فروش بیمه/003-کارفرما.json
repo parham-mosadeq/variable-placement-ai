@@ -1,0 +1,29 @@
+{
+  "title": "کارفرما - قرارداد استخدام بازاریاب فروش بیمه",
+  "content": "کارفرما: {{employer_name}} شماره ثبت {{registration_number}} شناسه ملی {{national_id}} به نمایندگی {{employer_representative}} در سمت {{employer_position}}",
+  "keywords": [
+    "کارفرما",
+    "قرارداد استخدام بازاریاب فروش بیمه",
+    "بند قرارداد",
+    "قرارداد کار",
+    "طرفین قرارداد",
+    "مشخصات هویتی",
+    "اطلاعات تماس",
+    "کد ملی",
+    "نشانی طرفین",
+    "employer_name",
+    "شماره ثبت",
+    "registration_number",
+    "شناسه ملی",
+    "national_id",
+    "به نمایندگی",
+    "employer_representative",
+    "در سمت",
+    "employer_position",
+    "ثبت",
+    "سمت",
+    "شناسه",
+    "ملی",
+    "نمایندگی"
+  ]
+}

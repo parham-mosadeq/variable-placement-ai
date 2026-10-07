@@ -1,0 +1,28 @@
+{
+  "title": "مشخصات کارگر یا کارمند - نمونه قرارداد کار موقت 3",
+  "content": "کارگر: {{worker_name}} فرزند {{worker_father_name}} شماره شناسنامه {{worker_birth_certificate}} صادره از {{worker_issue_place}} نشانی {{worker_address}}",
+  "keywords": [
+    "مشخصات کارگر یا کارمند",
+    "نمونه قرارداد کار موقت 3",
+    "بند قرارداد",
+    "قرارداد کار",
+    "employee",
+    "طرفین قرارداد",
+    "مشخصات هویتی",
+    "اطلاعات تماس",
+    "کد ملی",
+    "نشانی طرفین",
+    "worker_name",
+    "کارگر",
+    "فرزند",
+    "worker_father_name",
+    "شماره شناسنامه",
+    "worker_birth_certificate",
+    "صادره از",
+    "worker_issue_place",
+    "نشانی",
+    "worker_address",
+    "شناسنامه",
+    "صادره"
+  ]
+}

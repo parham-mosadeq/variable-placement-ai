@@ -1,0 +1,169 @@
+{
+  "clause_id": 1,
+  "clause_type": "مشخصات کامل طرفین قرارداد",
+  "text": "این قرارداد فی‌مابین:\n\n**کارفرما:**\nآقا/خانم: [employer_name] فرزند [employer_father] به شماره شناسنامه [employer_reg_id] و کدملی [employer_national_id] متولد [employer_birthdate] مذهب [employer_religion] قومیت [employer_ethnicity] صادره از [employer_reg_place] دارای تحصیلات [employer_education] ساکن در [employer_address] تلفن ثابت [employer_phone] و تلفن همراه [employer_mobile] که در این قرارداد «کارفرما» نامیده می‌شود، از یک سو و\n\n**کارگر (یا کارمند):**\nآقا/خانم: [employee_name] فرزند [employee_father] به شماره شناسنامه [employee_reg_id] و کدملی [employee_national_id] متولد [employee_birthdate] مذهب [employee_religion] قومیت [employee_ethnicity] صادره از [employee_reg_place] دارای تحصیلات [employee_education] وضعیت تأهل [employee_marital_status] دارای [employee_children_count] فرزند ساکن در [employee_address] تلفن ثابت [employee_phone] و تلفن همراه [employee_mobile] که در این قرارداد «کارگر» نامیده می‌شود، از سوی دیگر با رعایت کلیه مفاد قانون کار و قوانین جاری کشور، منجر به انعقاد این قرارداد گردید.\n\n**اطلاعات تکمیلی و بانکی کارگر:**\nشماره حساب/شبا: [employee_iban] به نام [employee_account_holder] در بانک [employee_bank_name]\nشماره بیمه: [employee_insurance_no]\nنام و شماره تماس فرد اضطراری: [emergency_contact_name] - [emergency_contact_phone]",
+  "entities": [
+    {
+      "slot": "employer_name",
+      "before_token": "آقا/خانم:",
+      "after_token": "فرزند"
+    },
+    {
+      "slot": "employer_father",
+      "before_token": "فرزند",
+      "after_token": "به شماره شناسنامه"
+    },
+    {
+      "slot": "employer_reg_id",
+      "before_token": "به شماره شناسنامه",
+      "after_token": "و کدملی"
+    },
+    {
+      "slot": "employer_national_id",
+      "before_token": "و کدملی",
+      "after_token": "متولد"
+    },
+    {
+      "slot": "employer_birthdate",
+      "before_token": "متولد",
+      "after_token": "مذهب"
+    },
+    {
+      "slot": "employer_religion",
+      "before_token": "مذهب",
+      "after_token": "قومیت"
+    },
+    {
+      "slot": "employer_ethnicity",
+      "before_token": "قومیت",
+      "after_token": "صادر از"
+    },
+    {
+      "slot": "employer_reg_place",
+      "before_token": "صادر از",
+      "after_token": "دارای تحصیلات"
+    },
+    {
+      "slot": "employer_education",
+      "before_token": "دارای تحصیلات",
+      "after_token": "ساکن در"
+    },
+    {
+      "slot": "employer_address",
+      "before_token": "ساکن در",
+      "after_token": "تلفن ثابت"
+    },
+    {
+      "slot": "employer_phone",
+      "before_token": "تلفن ثابت",
+      "after_token": "و تلفن همراه"
+    },
+    {
+      "slot": "employer_mobile",
+      "before_token": "و تلفن همراه",
+      "after_token": "که در این قرارداد"
+    },
+    
+    {
+      "slot": "employee_name",
+      "before_token": "آقا/خانم:",
+      "after_token": "فرزند"
+    },
+    {
+      "slot": "employee_father",
+      "before_token": "فرزند",
+      "after_token": "به شماره شناسنامه"
+    },
+    {
+      "slot": "employee_reg_id",
+      "before_token": "به شماره شناسنامه",
+      "after_token": "و کدملی"
+    },
+    {
+      "slot": "employee_national_id",
+      "before_token": "و کدملی",
+      "after_token": "متولد"
+    },
+    {
+      "slot": "employee_birthdate",
+      "before_token": "متولد",
+      "after_token": "مذهب"
+    },
+    {
+      "slot": "employee_religion",
+      "before_token": "مذهب",
+      "after_token": "قومیت"
+    },
+    {
+      "slot": "employee_ethnicity",
+      "before_token": "قومیت",
+      "after_token": "صادر از"
+    },
+    {
+      "slot": "employee_reg_place",
+      "before_token": "صادر از",
+      "after_token": "دارای تحصیلات"
+    },
+    {
+      "slot": "employee_education",
+      "before_token": "دارای تحصیلات",
+      "after_token": "وضعیت تأهل"
+    },
+    {
+      "slot": "employee_marital_status",
+      "before_token": "وضعیت تأهل",
+      "after_token": "دارای"
+    },
+    {
+      "slot": "employee_children_count",
+      "before_token": "دارای",
+      "after_token": "فرزند ساکن در"
+    },
+    {
+      "slot": "employee_address",
+      "before_token": "فرزند ساکن در",
+      "after_token": "تلفن ثابت"
+    },
+    {
+      "slot": "employee_phone",
+      "before_token": "تلفن ثابت",
+      "after_token": "و تلفن همراه"
+    },
+    {
+      "slot": "employee_mobile",
+      "before_token": "و تلفن همراه",
+      "after_token": "که در این قرارداد"
+    },
+    
+    {
+      "slot": "employee_iban",
+      "before_token": "شماره حساب/شبا:",
+      "after_token": "به نام"
+    },
+    {
+      "slot": "employee_account_holder",
+      "before_token": "به نام",
+      "after_token": "در بانک"
+    },
+    {
+      "slot": "employee_bank_name",
+      "before_token": "در بانک",
+      "after_token": "شماره بیمه"
+    },
+    {
+      "slot": "employee_insurance_no",
+      "before_token": "شماره بیمه:",
+      "after_token": "نام و شماره تماس فرد اضطراری"
+    },
+    {
+      "slot": "emergency_contact_name",
+      "before_token": "نام و شماره تماس فرد اضطراری:",
+      "after_token": "-"
+    },
+    {
+      "slot": "emergency_contact_phone",
+      "before_token": "-",
+      "after_token": null
+    }
+  ]
+}

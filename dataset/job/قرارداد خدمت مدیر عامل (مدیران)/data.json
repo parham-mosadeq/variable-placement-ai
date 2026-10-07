@@ -1,0 +1,96 @@
+[
+  {
+    "clause_id": 0,
+    "clause_type": "title",
+    "text": "قرارداد خدمت مدیران (انتصاب مدیرعامل)",
+    "entities": []
+  },
+
+  {
+    "clause_id": 1,
+    "clause_type": "preamble",
+    "text": "این قرارداد بین شرکت و مدیرعامل منعقد می‌گردد.",
+    "entities": []
+  },
+
+  {
+    "clause_id": 2,
+    "clause_type": "company",
+    "text": "شرکت [company_name] شماره ثبت [registration_number] شناسه ملی [company_national_id] کد اقتصادی [economic_code] نشانی [company_address] نماینده [board_representative]",
+    "entities": [
+      { "slot": "company_name", "before_token": "شرکت", "after_token": "شماره ثبت" },
+      { "slot": "registration_number", "before_token": "شماره ثبت", "after_token": "شناسه ملی" },
+      { "slot": "company_national_id", "before_token": "شناسه ملی", "after_token": "کد اقتصادی" },
+      { "slot": "economic_code", "before_token": "کد اقتصادی", "after_token": "نشانی" },
+      { "slot": "company_address", "before_token": "نشانی", "after_token": "نماینده" },
+      { "slot": "board_representative", "before_token": "نماینده", "after_token": "" }
+    ]
+  },
+
+  {
+    "clause_id": 3,
+    "clause_type": "ceo",
+    "text": "مدیرعامل: [ceo_name] فرزند [father_name] شماره ملی [national_id] شماره شناسنامه [certificate_id] نشانی [address] تلفن [phone]",
+    "entities": [
+      { "slot": "ceo_name", "before_token": "مدیرعامل:", "after_token": "فرزند" },
+      { "slot": "father_name", "before_token": "فرزند", "after_token": "شماره ملی" },
+      { "slot": "national_id", "before_token": "شماره ملی", "after_token": "شماره شناسنامه" },
+      { "slot": "certificate_id", "before_token": "شماره شناسنامه", "after_token": "نشانی" },
+      { "slot": "address", "before_token": "نشانی", "after_token": "تلفن" },
+      { "slot": "phone", "before_token": "تلفن", "after_token": "" }
+    ]
+  },
+
+  {
+    "clause_id": 4,
+    "clause_type": "subject",
+    "text": "انتصاب مدیرعامل و اداره شرکت مطابق سیاست‌های هیئت‌مدیره",
+    "entities": []
+  },
+
+  {
+    "clause_id": 5,
+    "clause_type": "definition_control",
+    "text": "کنترل به معنای توانایی مستقیم یا غیرمستقیم در هدایت شرکت از طریق مالکیت یا قرارداد است",
+    "entities": []
+  },
+
+  {
+    "clause_id": 6,
+    "clause_type": "contract_term",
+    "text": "از تاریخ [start_date] لغایت [end_date] به مدت [duration] سال",
+    "entities": [
+      { "slot": "start_date", "before_token": "از تاریخ", "after_token": "لغایت" },
+      { "slot": "end_date", "before_token": "لغایت", "after_token": "به مدت" },
+      { "slot": "duration", "before_token": "به مدت", "after_token": "سال" }
+    ]
+  },
+
+  {
+    "clause_id": 7,
+    "clause_type": "ceo_powers",
+    "text": "اختیارات شامل اداره شرکت، اجرای مصوبات و انعقاد قراردادها",
+    "entities": []
+  },
+
+  {
+    "clause_id": 8,
+    "clause_type": "ceo_obligations",
+    "text": "ارائه گزارش، رعایت سیاست‌ها و حفظ منافع شرکت",
+    "entities": []
+  },
+
+  {
+    "clause_id": 9,
+    "clause_type": "termination",
+    "text": "قرارداد با تصمیم هیئت‌مدیره قابل فسخ است",
+    "entities": []
+  },
+
+  {
+    "clause_id": 10,
+    "clause_type": "final_clause",
+    "text": "این قرارداد در دو نسخه با اعتبار یکسان تنظیم و امضا می‌گردد",
+    "entities": []
+  }
+]

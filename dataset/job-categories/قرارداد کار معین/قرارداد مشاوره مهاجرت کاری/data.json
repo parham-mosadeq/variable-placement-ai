@@ -1,0 +1,172 @@
+{
+  "contract_title": "قرارداد ارائه خدمات مشاوره و اخذ روادید کار",
+  "legal_reference": "ماده 10 قانون مدنی",
+  "clauses": [
+    {
+      "clause_id": 0,
+      "clause_type": "preamble",
+      "text": "بسمه تعالی\nقرارداد ارائه خدمات مشاوره و اخذ روادید کار\nاین قرارداد به استناد ماده 10 قانون مدنی در تاریخ [contract_date] فی‌مابین طرفین زیر منعقد گردید.",
+      "entities": [
+        {
+          "slot": "contract_date",
+          "before_token": "در تاریخ",
+          "after_token": "فی‌مابین"
+        }
+      ]
+    },
+    {
+      "clause_id": 1,
+      "clause_type": "parties",
+      "sub_clauses": [
+        {
+          "sub_id": "1-1",
+          "party_type": "company",
+          "text": "مؤسسه [company_name] به شماره ثبت [registration_number] و شناسه ملی [national_id] به نمایندگی [representative_name] در سمت [position] به نشانی [company_address] و شماره تماس [company_phone] که از این پس «موسسه» نامیده می‌شود.",
+          "entities": [
+            {
+              "slot": "company_name",
+              "before_token": "موسسه",
+              "after_token": "به شماره ثبت"
+            },
+            {
+              "slot": "registration_number",
+              "before_token": "شماره ثبت",
+              "after_token": "و شناسه ملی"
+            },
+            {
+              "slot": "national_id",
+              "before_token": "شناسه ملی",
+              "after_token": "به نمایندگی"
+            },
+            {
+              "slot": "representative_name",
+              "before_token": "نمایندگی",
+              "after_token": "در سمت"
+            },
+            {
+              "slot": "position",
+              "before_token": "در سمت",
+              "after_token": "به نشانی"
+            },
+            {
+              "slot": "company_address",
+              "before_token": "به نشانی",
+              "after_token": "و شماره تماس"
+            },
+            {
+              "slot": "company_phone",
+              "before_token": "شماره تماس",
+              "after_token": "که از این پس"
+            }
+          ]
+        },
+        {
+          "sub_id": "1-2",
+          "party_type": "applicant",
+          "text": "آقا/خانم [applicant_name] فرزند [father_name] شماره ملی [applicant_national_id] شماره تماس [applicant_phone] نشانی [applicant_address] که از این پس «متقاضی» نامیده می‌شود.",
+          "entities": [
+            {
+              "slot": "applicant_name",
+              "before_token": "آقا/خانم",
+              "after_token": "فرزند"
+            },
+            {
+              "slot": "father_name",
+              "before_token": "فرزند",
+              "after_token": "شماره ملی"
+            },
+            {
+              "slot": "applicant_national_id",
+              "before_token": "شماره ملی",
+              "after_token": "شماره تماس"
+            },
+            {
+              "slot": "applicant_phone",
+              "before_token": "شماره تماس",
+              "after_token": "نشانی"
+            },
+            {
+              "slot": "applicant_address",
+              "before_token": "نشانی",
+              "after_token": "که از این پس"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clause_id": 2,
+      "clause_type": "scope_of_services",
+      "text": "موضوع قرارداد عبارت است از ارائه خدمات مشاوره تخصصی مهاجرت کاری شامل بررسی مدارک، ارزیابی شرایط، اخذ Job Offer، معرفی فرصت شغلی و راهنمایی سفارت برای کشور مقصد [destination_country].",
+      "entities": [
+        {
+          "slot": "destination_country",
+          "before_token": "کشور مقصد",
+          "after_token": ""
+        }
+      ]
+    },
+    {
+      "clause_id": 3,
+      "clause_type": "duration",
+      "text": "این قرارداد از تاریخ [start_date] لغایت [end_date] به مدت [duration] ماه معتبر می‌باشد.",
+      "entities": [
+        {
+          "slot": "start_date",
+          "before_token": "از تاریخ",
+          "after_token": "لغایت"
+        },
+        {
+          "slot": "end_date",
+          "before_token": "لغایت",
+          "after_token": "به مدت"
+        },
+        {
+          "slot": "duration",
+          "before_token": "به مدت",
+          "after_token": "ماه"
+        }
+      ]
+    },
+    {
+      "clause_id": 4,
+      "clause_type": "payment",
+      "text": "مبلغ کل قرارداد [total_fee] ریال می‌باشد که شامل پیش‌پرداخت [advance_payment] و مرحله دوم [stage2_payment] و تسویه نهایی است.",
+      "entities": [
+        {
+          "slot": "total_fee",
+          "before_token": "مبلغ کل قرارداد",
+          "after_token": "ریال"
+        },
+        {
+          "slot": "advance_payment",
+          "before_token": "پیش‌پرداخت",
+          "after_token": "و مرحله دوم"
+        },
+        {
+          "slot": "stage2_payment",
+          "before_token": "مرحله دوم",
+          "after_token": "و تسویه"
+        }
+      ]
+    },
+    {
+      "clause_id": 5,
+      "clause_type": "obligations_company",
+      "text": "ارائه خدمات مشاوره، حفظ محرمانگی، تلاش در معرفی فرصت شغلی و عدم تضمین صدور ویزا از تعهدات موسسه است.",
+      "entities": []
+    },
+    {
+      "clause_id": 6,
+      "clause_type": "obligations_applicant",
+      "text": "ارائه مدارک صحیح، همکاری در فرآیند، پرداخت به موقع هزینه‌ها و پذیرش ریسک تصمیم سفارت از تعهدات متقاضی است.",
+      "entities": []
+    },
+    {
+      "clause_id": 7,
+      "clause_type": "legal_disclaimer",
+      "text": "این قرارداد هیچ‌گونه تعهد به صدور ویزا ایجاد نمی‌کند.",
+      "entities": []
+    }
+  ]
+}

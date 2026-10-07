@@ -1,0 +1,32 @@
+{
+  "title": "مشخصات شرکت - قرارداد خدمت مدیر عامل (مدیران)",
+  "content": "شرکت {{company_name}} شماره ثبت {{registration_number}} شناسه ملی {{company_national_id}} کد اقتصادی {{economic_code}} نشانی {{company_address}} نماینده {{board_representative}}",
+  "keywords": [
+    "مشخصات شرکت",
+    "قرارداد خدمت مدیر عامل مدیران",
+    "بند قرارداد",
+    "قرارداد کار",
+    "company",
+    "طرفین قرارداد",
+    "مشخصات هویتی",
+    "اطلاعات تماس",
+    "کد ملی",
+    "نشانی طرفین",
+    "company_name",
+    "شرکت",
+    "شماره ثبت",
+    "registration_number",
+    "شناسه ملی",
+    "company_national_id",
+    "کد اقتصادی",
+    "economic_code",
+    "نشانی",
+    "company_address",
+    "نماینده",
+    "board_representative",
+    "اقتصادی",
+    "ثبت",
+    "شناسه",
+    "ملی"
+  ]
+}

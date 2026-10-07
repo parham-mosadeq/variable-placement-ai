@@ -1,0 +1,94 @@
+[
+  {
+    "clause_id": 0,
+    "clause_type": "مقدمه و مشخصات طرفین",
+    "text": "بر اساس مفاد ماده 2 قانون کار جمهوری اسلامی ایران ، این قرارداد کار بین شرکت /آقای / خانم : [employer_name] فرزند [employer_father] دارای شناسنامه شماره [employer_id] صادره از [employer_issued_at] ساکن [employer_address] که در این قرارداد به اختصار (کارفرما ) نامیده می شود. و آقای / خانم : [employee_name] فرزند [employee_father] دارای شناسنامه شماره [employee_id] صادره از [employee_issued_at] ساکن [employee_address] که از این پس (کارگر) نامیده می شود منعقد می گردد. تبصره : اینقرارداد جهت کار موقت با توجه به بند (و ) از ماده 10 قانون کار بین طرفین تنظیم گردیده است.",
+    "entities": [
+      {"slot": "employer_name", "before_token": "خانم :", "after_token": "فرزند"},
+      {"slot": "employer_father", "before_token": "فرزند", "after_token": "دارای شناسنامه شماره"},
+      {"slot": "employer_id", "before_token": "شناسنامه شماره", "after_token": "صادره از"},
+      {"slot": "employer_issued_at", "before_token": "صادره از", "after_token": "ساکن"},
+      {"slot": "employer_address", "before_token": "ساکن", "after_token": "که در این قرارداد"},
+      {"slot": "employee_name", "before_token": "خانم :", "after_token": "فرزند"},
+      {"slot": "employee_father", "before_token": "فرزند", "after_token": "دارای شناسنامه شماره"},
+      {"slot": "employee_id", "before_token": "شناسنامه شماره", "after_token": "صادره از"},
+      {"slot": "employee_issued_at", "before_token": "صادره از", "after_token": "ساکن"},
+      {"slot": "employee_address", "before_token": "ساکن", "after_token": "که از این پس"}
+    ]
+  },
+  {
+    "clause_id": 1,
+    "clause_type": "مدت و محل قرارداد",
+    "text": "1- مدت قرارداد : مدت این قرارداد [contract_duration] ماه است که شروع آن از تاریخ [contract_start_date] و پایان آن تاریخ [contract_end_date] می باشد و محل انجام کار ، واقع در محل [work_location_name] به نشانی [work_location_address] می باشد. تبصره : ۳ ماه از ابتدای مدت این قرارداد جنبه آزمایشی دارد و در حین و پایان مدت مذکور چنانچه نحوه خدمت کارگر فوق الذکر مورد تایید کارفرما نباشد طبق مقررات قانون کار به این قرارداد خاتمه داده خواهد شد.",
+    "entities": [
+      {"slot": "contract_duration", "before_token": "مدت این قرارداد", "after_token": "ماه است"},
+      {"slot": "contract_start_date", "before_token": "شروع آن از تاریخ", "after_token": "و پایان آن"},
+      {"slot": "contract_end_date", "before_token": "پایان آن تاریخ", "after_token": "می باشد"},
+      {"slot": "work_location_name", "before_token": "واقع در محل", "after_token": "به نشانی"},
+      {"slot": "work_location_address", "before_token": "به نشانی", "after_token": "می باشد"}
+    ]
+  },
+  {
+    "clause_id": 2,
+    "clause_type": "موضوع قرارداد",
+    "text": "2- موضوع قرارداد : انجام خدمت در قسمت [work_department] شرکت می باشد و آقای / خانم [employee_name] متعهد است که وظایف محوله را با رعایت مقررات و طبق شرح وظایف ابلاغ شده به ایشان انجام دهد .",
+    "entities": [
+      {"slot": "work_department", "before_token": "انجام خدمت در قسمت", "after_token": "شرکت می باشد"},
+      {"slot": "employee_name", "before_token": "آقای / خانم", "after_token": "متعهد است"}
+    ]
+  },
+  {
+    "clause_id": 3,
+    "clause_type": "ساعت کار",
+    "text": "3- ساعت کار : ساعت کار شرکت معادل 44 ساعت کار در هفته می باشد و در صورت انجام کار اضافی ، طبق مقررات قانون کار مزایای اضافه کار به کارگر پرداخت خواهد شد .",
+    "entities": []
+  },
+  {
+    "clause_id": 4,
+    "clause_type": "حق السعی",
+    "text": "۴- حق السعی : 4-1) حقوق ماهیانه : [base_salary] ریال 4-2) حق جذب ماهانه : [attraction_allowance] ریال 4-3) خواربار و مسکن : [housing_allowance] ریال 4-4) کمک عائله مندی : [child_allowance] ریال ۴-۵) سایر مزایا : [other_benefits] ریال تبصره : مالیات بر حقوق و مزایا و کسورات مربوط به حق بیمه تامین اجتماعی و سایر کسورات قانونی از دریافتی ماهانه کارگر کسر و خالص پرداختی از طرف کارفرما به نامبرده پرداخت خواهد شد.",
+    "entities": [
+      {"slot": "base_salary", "before_token": "حقوق ماهیانه :", "after_token": "ریال"},
+      {"slot": "attraction_allowance", "before_token": "حق جذب ماهانه :", "after_token": "ریال"},
+      {"slot": "housing_allowance", "before_token": "خواربار و مسکن :", "after_token": "ریال"},
+      {"slot": "child_allowance", "before_token": "کمک عائله مندی :", "after_token": "ریال"},
+      {"slot": "other_benefits", "before_token": "سایر مزایا :", "after_token": "ریال"}
+    ]
+  },
+  {
+    "clause_id": 5,
+    "clause_type": "تعطیلات و مرخصی",
+    "text": "5) خانم / آقای [employee_name] طی مدتی که برای شرکت کار می کنند حق استفاده از تعطیلات رسمی و مرخصی استحقاقی سالیانه را براساس مقررات قانون کار دارا خواهد بود.",
+    "entities": [
+      {"slot": "employee_name", "before_token": "خانم / آقای", "after_token": "طی مدتی که"}
+    ]
+  },
+  {
+    "clause_id": 6,
+    "clause_type": "فسخ قرارداد",
+    "text": "6) این قرارداد پس از پایان خدمت از سوی هر یک از طرفین قابل فسخ خواهد بود ولی در حین اجرای آن نیز با توافق طرفین و پرداخت حق سنوات معادل یک ماه آخرین حقوق و مزایای دریافتی در ازای هر سال خدمت می توان این قرارداد را فسخ کرد مشروط بر اینکه این تصمیم یک ماه قبل به طرف مقابل اعلام شده باشد.",
+    "entities": []
+  },
+  {
+    "clause_id": 7,
+    "clause_type": "اسقاط حق ادعا",
+    "text": "7) خانم / آقای [employee_name] با دریافت مبلغ مذکور هر گونه ادعای بعدی در مورد دریافت مزایای پایان قرارداد کار را از خود سلب می نماید .",
+    "entities": [
+      {"slot": "employee_name", "before_token": "خانم / آقای", "after_token": "با دریافت مبلغ"}
+    ]
+  },
+  {
+    "clause_id": 8,
+    "clause_type": "حل اختلاف",
+    "text": "8) اختلافات ناشی از اجرای این قرارداد ، بدواً از طریق سازش بین طرفین حل و فصل و در صورت عدم سازش در مراجع حل اختلاف مذکور در قانون کار حل و فصل خواهد شد.",
+    "entities": []
+  },
+  {
+    "clause_id": 9,
+    "clause_type": "قوانین حاکم و نسخ قرارداد",
+    "text": "9) بقیه مواردی که در این قرارداد پیش بینی نشده باشد بر اساس قانون کار و سایر قوانین و مقررات مربوطه خواهد بود . این قرارداد در 9 بند و 3 تبصره و 3 نسخه در تاریخ [contract_signing_date] تنظیم و به امضاء طرفین رسید به هریک نسخه ای تسلیم شد. امضاء کارفرما ء امضاء کارگر",
+    "entities": [
+      {"slot": "contract_signing_date", "before_token": "در تاریخ", "after_token": "تنظیم و به امضاء"}
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "clause_id": 0,
+    "clause_type": "عنوان",
+    "text": "قرارداد استخدام منشی",
+    "entities": []
+  },
+  {
+    "clause_id": 1,
+    "clause_type": "طرفین",
+    "text": "این قرارداد بین شرکت [company_name] و خانم/آقای [secretary_name] منعقد گردید.",
+    "entities": [
+      {
+        "slot": "company_name",
+        "before_token": "شرکت",
+        "after_token": "و خانم/آقای"
+      },
+      {
+        "slot": "secretary_name",
+        "before_token": "خانم/آقای",
+        "after_token": "منعقد گردید"
+      }
+    ]
+  },
+  {
+    "clause_id": 2,
+    "clause_type": "مدت قرارداد",
+    "text": "مدت قرارداد از تاریخ [start_date] لغایت [end_date] است.",
+    "entities": [
+      {
+        "slot": "start_date",
+        "before_token": "از تاریخ",
+        "after_token": "لغایت"
+      },
+      {
+        "slot": "end_date",
+        "before_token": "لغایت",
+        "after_token": "است"
+      }
+    ]
+  }
+]

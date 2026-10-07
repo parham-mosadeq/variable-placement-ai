@@ -1,0 +1,33 @@
+{
+  "title": "پرستار کودک - قرارداد استخدام پرستار کودک",
+  "content": "پرستار: آقا/خانم {{nanny_name}} فرزند {{nanny_father}} شماره شناسنامه {{nanny_certificate_id}} کد ملی {{nanny_national_id}} متولد {{nanny_birthdate}} نشانی {{nanny_address}} میزان تحصیلات {{education_level}} وضعیت تأهل {{marital_status}}",
+  "keywords": [
+    "پرستار کودک",
+    "قرارداد استخدام پرستار کودک",
+    "بند قرارداد",
+    "قرارداد کار",
+    "nanny_name",
+    "پرستار",
+    "فرزند",
+    "nanny_father",
+    "شماره شناسنامه",
+    "nanny_certificate_id",
+    "کد ملی",
+    "nanny_national_id",
+    "متولد",
+    "nanny_birthdate",
+    "نشانی",
+    "nanny_address",
+    "میزان تحصیلات",
+    "education_level",
+    "وضعیت تأهل",
+    "marital_status",
+    "آقا",
+    "تأهل",
+    "تحصیلات",
+    "خانم",
+    "شناسنامه",
+    "ملی",
+    "میزان"
+  ]
+}

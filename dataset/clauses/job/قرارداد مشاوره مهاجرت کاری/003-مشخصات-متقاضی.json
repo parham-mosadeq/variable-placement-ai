@@ -1,0 +1,28 @@
+{
+  "title": "مشخصات متقاضی - قرارداد مشاوره مهاجرت کاری",
+  "content": "آقا/خانم {{applicant_name}} فرزند {{father_name}} شماره ملی {{applicant_national_id}} شماره تماس {{applicant_phone}} نشانی {{applicant_address}} که از این پس «متقاضی» نامیده می‌شود.",
+  "keywords": [
+    "مشخصات متقاضی",
+    "قرارداد مشاوره مهاجرت کاری",
+    "بند قرارداد",
+    "قرارداد کار",
+    "parties applicant",
+    "applicant_name",
+    "آقا خانم",
+    "فرزند",
+    "father_name",
+    "شماره ملی",
+    "applicant_national_id",
+    "شماره تماس",
+    "applicant_phone",
+    "نشانی",
+    "applicant_address",
+    "که از این پس",
+    "آقا",
+    "تماس",
+    "خانم",
+    "متقاضی",
+    "ملی",
+    "نامیده"
+  ]
+}

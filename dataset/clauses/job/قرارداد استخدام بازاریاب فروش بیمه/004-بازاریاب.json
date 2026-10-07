@@ -1,0 +1,27 @@
+{
+  "title": "بازاریاب - قرارداد استخدام بازاریاب فروش بیمه",
+  "content": "بازاریاب: {{marketer_name}} فرزند {{father_name}} شماره شناسنامه {{birth_certificate_id}} کد ملی {{national_id_marketer}} متولد {{birth_date}} نشانی {{address}} تلفن {{phone}} ایمیل {{email}}",
+  "keywords": [
+    "بازاریاب",
+    "قرارداد استخدام بازاریاب فروش بیمه",
+    "بند قرارداد",
+    "قرارداد کار",
+    "marketer_name",
+    "فرزند",
+    "father_name",
+    "شماره شناسنامه",
+    "birth_certificate_id",
+    "کد ملی",
+    "national_id_marketer",
+    "متولد",
+    "birth_date",
+    "نشانی",
+    "address",
+    "تلفن",
+    "phone",
+    "ایمیل",
+    "email",
+    "شناسنامه",
+    "ملی"
+  ]
+}

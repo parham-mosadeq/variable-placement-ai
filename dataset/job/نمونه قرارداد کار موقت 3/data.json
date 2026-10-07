@@ -1,0 +1,84 @@
+[
+  {
+    "clause_id": 0,
+    "clause_type": "title",
+    "text": "قرارداد کار موقت",
+    "entities": []
+  },
+  {
+    "clause_id": 1,
+    "clause_type": "legal_basis",
+    "text": "ماده ۲ قانون کار جمهوری اسلامی ایران",
+    "entities": []
+  },
+  {
+    "clause_id": 2,
+    "clause_type": "employer",
+    "text": "کارفرما: شرکت [company_name] فرزند [employer_father_name] شماره شناسنامه [employer_birth_certificate] صادره از [employer_issue_place] نشانی [employer_address]",
+    "entities": [
+      { "slot": "company_name", "before_token": "شرکت", "after_token": "فرزند" },
+      { "slot": "employer_father_name", "before_token": "فرزند", "after_token": "شماره شناسنامه" },
+      { "slot": "employer_birth_certificate", "before_token": "شماره شناسنامه", "after_token": "صادره از" },
+      { "slot": "employer_issue_place", "before_token": "صادره از", "after_token": "نشانی" },
+      { "slot": "employer_address", "before_token": "نشانی", "after_token": "" }
+    ]
+  },
+  {
+    "clause_id": 3,
+    "clause_type": "employee",
+    "text": "کارگر: [worker_name] فرزند [worker_father_name] شماره شناسنامه [worker_birth_certificate] صادره از [worker_issue_place] نشانی [worker_address]",
+    "entities": [
+      { "slot": "worker_name", "before_token": "کارگر:", "after_token": "فرزند" },
+      { "slot": "worker_father_name", "before_token": "فرزند", "after_token": "شماره شناسنامه" },
+      { "slot": "worker_birth_certificate", "before_token": "شماره شناسنامه", "after_token": "صادره از" },
+      { "slot": "worker_issue_place", "before_token": "صادره از", "after_token": "نشانی" },
+      { "slot": "worker_address", "before_token": "نشانی", "after_token": "" }
+    ]
+  },
+  {
+    "clause_id": 4,
+    "clause_type": "duration",
+    "text": "مدت قرارداد [duration] ماه از تاریخ [start_date] لغایت [end_date]",
+    "entities": [
+      { "slot": "duration", "before_token": "مدت قرارداد", "after_token": "ماه" },
+      { "slot": "start_date", "before_token": "از تاریخ", "after_token": "لغایت" },
+      { "slot": "end_date", "before_token": "لغایت", "after_token": "" }
+    ]
+  },
+  {
+    "clause_id": 5,
+    "clause_type": "probation",
+    "text": "سه ماه ابتدایی دوره آزمایشی با امکان فسخ طبق قانون کار",
+    "entities": []
+  },
+  {
+    "clause_id": 6,
+    "clause_type": "scope_of_work",
+    "text": "انجام وظایف محوله در بخش تعیین‌شده شرکت مطابق شرح وظایف",
+    "entities": []
+  },
+  {
+    "clause_id": 7,
+    "clause_type": "working_hours",
+    "text": "۴۴ ساعت کار در هفته و پرداخت اضافه‌کاری مطابق قانون کار",
+    "entities": []
+  },
+  {
+    "clause_id": 8,
+    "clause_type": "salary",
+    "text": "حقوق ماهیانه [base_salary] حق جذب [attraction_allowance] خواربار و مسکن [housing_food_allowance] کمک عائله‌مندی [family_allowance] سایر مزایا [other_benefits]",
+    "entities": [
+      { "slot": "base_salary", "before_token": "حقوق ماهیانه", "after_token": "حق جذب" },
+      { "slot": "attraction_allowance", "before_token": "حق جذب", "after_token": "خواربار" },
+      { "slot": "housing_food_allowance", "before_token": "خواربار و مسکن", "after_token": "کمک" },
+      { "slot": "family_allowance", "before_token": "کمک عائله‌مندی", "after_token": "سایر" },
+      { "slot": "other_benefits", "before_token": "سایر مزایا", "after_token": "" }
+    ]
+  },
+  {
+    "clause_id": 9,
+    "clause_type": "final_clause",
+    "text": "این قرارداد در سه نسخه متحدالمتن تنظیم و امضا گردید",
+    "entities": []
+  }
+]

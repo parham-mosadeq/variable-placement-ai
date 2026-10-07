@@ -1,0 +1,26 @@
+{
+  "title": "مشخصات کارفرما - تفاهم نامه استخدام پرستار کودک",
+  "content": "کارفرما: {{employer_name}} فرزند {{employer_father}} کد ملی {{employer_national_id}} نشانی {{employer_address}} تلفن {{employer_phone}}",
+  "keywords": [
+    "مشخصات کارفرما",
+    "تفاهم نامه استخدام پرستار کودک",
+    "بند قرارداد",
+    "قرارداد کار",
+    "employer",
+    "طرفین قرارداد",
+    "مشخصات هویتی",
+    "اطلاعات تماس",
+    "کد ملی",
+    "نشانی طرفین",
+    "employer_name",
+    "کارفرما",
+    "فرزند",
+    "employer_father",
+    "employer_national_id",
+    "نشانی",
+    "employer_address",
+    "تلفن",
+    "employer_phone",
+    "ملی"
+  ]
+}

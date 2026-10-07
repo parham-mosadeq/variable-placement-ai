@@ -1,0 +1,76 @@
+[
+  {
+    "clause_id": 0,
+    "clause_type": "title",
+    "text": "قرارداد وکالت",
+    "entities": []
+  },
+  {
+    "clause_id": 1,
+    "clause_type": "legal_basis",
+    "text": "ماده 10 قانون مدنی",
+    "entities": []
+  },
+  {
+    "clause_id": 2,
+    "clause_type": "client",
+    "text": "موکل: [client_name] فرزند [father_name] شماره ملی [client_national_id] شماره شناسنامه [id_number] صادره از [issue_place] نشانی [client_address] تلفن [client_phone]",
+    "entities": [
+      { "slot": "client_name", "before_token": "موکل:", "after_token": "فرزند" },
+      { "slot": "father_name", "before_token": "فرزند", "after_token": "شماره ملی" },
+      { "slot": "client_national_id", "before_token": "شماره ملی", "after_token": "شماره شناسنامه" },
+      { "slot": "id_number", "before_token": "شماره شناسنامه", "after_token": "صادره از" },
+      { "slot": "issue_place", "before_token": "صادره از", "after_token": "نشانی" },
+      { "slot": "client_address", "before_token": "نشانی", "after_token": "تلفن" },
+      { "slot": "client_phone", "before_token": "تلفن", "after_token": "" }
+    ]
+  },
+  {
+    "clause_id": 3,
+    "clause_type": "lawyer",
+    "text": "وکیل: [lawyer_name] فرزند [father_name_2] شماره ملی [lawyer_national_id] شماره شناسنامه [lawyer_id_number] نشانی [lawyer_address] تلفن [lawyer_phone] رشته [field_of_study]",
+    "entities": [
+      { "slot": "lawyer_name", "before_token": "وکیل:", "after_token": "فرزند" },
+      { "slot": "father_name_2", "before_token": "فرزند", "after_token": "شماره ملی" },
+      { "slot": "lawyer_national_id", "before_token": "شماره ملی", "after_token": "شماره شناسنامه" },
+      { "slot": "lawyer_id_number", "before_token": "شماره شناسنامه", "after_token": "نشانی" },
+      { "slot": "lawyer_address", "before_token": "نشانی", "after_token": "تلفن" },
+      { "slot": "lawyer_phone", "before_token": "تلفن", "after_token": "رشته" },
+      { "slot": "field_of_study", "before_token": "رشته", "after_token": "" }
+    ]
+  },
+  {
+    "clause_id": 4,
+    "clause_type": "subject",
+    "text": "انجام امور اداری و حقوقی توسط وکیل در [organization_name]",
+    "entities": [
+      { "slot": "organization_name", "before_token": "در", "after_token": "به منظور" }
+    ]
+  },
+  {
+    "clause_id": 5,
+    "clause_type": "limitation",
+    "text": "این قرارداد شامل وکالت قضایی نمی‌باشد و نیازمند وکالت‌نامه رسمی جداگانه است",
+    "entities": []
+  },
+  {
+    "clause_id": 6,
+    "clause_type": "fee",
+    "text": "حق‌الزحمه وکیل مبلغ [fee] ریال می‌باشد",
+    "entities": [
+      { "slot": "fee", "before_token": "مبلغ", "after_token": "ریال" }
+    ]
+  },
+  {
+    "clause_id": 7,
+    "clause_type": "lawyer_obligations",
+    "text": "حسن نیت، رعایت مصلحت موکل، حفظ محرمانگی، ارائه گزارش",
+    "entities": []
+  },
+  {
+    "clause_id": 8,
+    "clause_type": "final_clause",
+    "text": "این قرارداد در دو نسخه متحدالمتن تنظیم و امضا گردید",
+    "entities": []
+  }
+]

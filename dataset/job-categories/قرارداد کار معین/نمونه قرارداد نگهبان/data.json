@@ -1,0 +1,80 @@
+[
+  {
+    "clause_id": 0,
+    "clause_type": "عنوان و مقدمه",
+    "text": "این قرارداد در چارچوب قوانین جمهوری اسلامی ایران به موجب ماده (۱۰) قانون کار و سایر قوانین و مقررات موضوعه کشور فی مابین کارفرما و نگهبان در تاریخ [contract_date] به شرح ذیل منعقد و لازم الاجرا گردید.",
+    "entities": [
+      {"slot": "contract_date", "before_token": "در تاریخ", "after_token": "به شرح ذیل"}
+    ]
+  },
+  {
+    "clause_id": 1,
+    "clause_type": "مشخصات طرفین",
+    "text": "شرکت [employer_name] به شماره ثبت [employer_registration_number] شماره شناسنامه [employer_id] و شناسه ملی [employer_national_id] کد ملی [employer_national_id] و فرزند [employer_father] و کدپستی [employer_postal_code] که از این پس به عنوان کارفرما نامیده میشود از یک طرف به نمایندگی جناب آقای/خانم [employer_representative] متولد [employer_representative_birthdate] پست الکترونیک [employer_representative_email] در سمت [employer_representative_position] به نشانی [employer_address] و تلفن [employer_phone] و دورنگار [employer_fax] طرف اول؛ و آقای/خانم [employee_name] فرزند [employee_father] به شماره شناسنامه [employee_certificate_id] و شماره ملی [employee_national_id] به نشانی [employee_address] و کدپستی [employee_postal_code] و تلفن همراه [employee_phone] و پست الکترونیک [employee_email] که از این پس به عنوان نگهبان نامیده میشود از طرف دیگر؛ بر طبق مفاد ذیل منعقد و لازم الاجرا می گردد.",
+    "entities": [
+      {"slot": "employer_name", "before_token": "شرکت", "after_token": "به شماره ثبت"},
+      {"slot": "employer_registration_number", "before_token": "شماره ثبت", "after_token": "شماره شناسنامه"},
+      {"slot": "employer_id", "before_token": "شماره شناسنامه", "after_token": "و شناسه ملی"},
+      {"slot": "employer_national_id", "before_token": "شناسه ملی", "after_token": "کد ملی"},
+      {"slot": "employer_father", "before_token": "فرزند", "after_token": "و کدپستی"},
+      {"slot": "employer_postal_code", "before_token": "کدپستی", "after_token": "که از این پس"},
+      {"slot": "employer_representative", "before_token": "نمایندگی جناب آقای/خانم", "after_token": "متولد"},
+      {"slot": "employer_representative_birthdate", "before_token": "متولد", "after_token": "پست الکترونیک"},
+      {"slot": "employer_representative_email", "before_token": "پست الکترونیک", "after_token": "در سمت"},
+      {"slot": "employer_representative_position", "before_token": "در سمت", "after_token": "به نشانی"},
+      {"slot": "employer_address", "before_token": "به نشانی", "after_token": "و تلفن"},
+      {"slot": "employer_phone", "before_token": "تلفن", "after_token": "و دورنگار"},
+      {"slot": "employer_fax", "before_token": "دورنگار", "after_token": "طرف اول"},
+      {"slot": "employee_name", "before_token": "آقا / خانم", "after_token": "فرزند"},
+      {"slot": "employee_father", "before_token": "فرزند", "after_token": "به شماره شناسنامه"},
+      {"slot": "employee_certificate_id", "before_token": "شماره شناسنامه", "after_token": "و شماره ملی"},
+      {"slot": "employee_national_id", "before_token": "شماره ملی", "after_token": "به نشانی"},
+      {"slot": "employee_address", "before_token": "به نشانی", "after_token": "و کدپستی"},
+      {"slot": "employee_postal_code", "before_token": "کدپستی", "after_token": "و تلفن همراه"},
+      {"slot": "employee_phone", "before_token": "تلفن همراه", "after_token": "و پست الکترونیک"},
+      {"slot": "employee_email", "before_token": "پست الکترونیک", "after_token": "که از این پس"}
+    ]
+  },
+  {
+    "clause_id": 2,
+    "clause_type": "موضوع قرارداد",
+    "text": "ماده (۱) موضوع قرارداد: موضوع قرارداد عبارت است از اشتغال نگهبان در [work_location] و انجام تمامی وظایف محوله که از سوی کارفرما به وی ارجاع می‌گردد؛ به نحو رضایت‌بخش و با رعایت کامل منافع و مصالح کارفرما.",
+    "entities": [
+      {"slot": "work_location", "before_token": "اشتغال نگهبان در", "after_token": "و انجام تمامی"}
+    ]
+  },
+  {
+    "clause_id": 3,
+    "clause_type": "نوع و مدت قرارداد",
+    "text": "ماده (۲) نوع و مدت قرارداد: (۱) نوع قرارداد حاضر به صورت [contract_type] است. (۲) این قرارداد از تاریخ [contract_start_date] لغایت [contract_end_date] به مدت [contract_duration] ماه معتبر است. تبصره: مدت این قرارداد با توافق طرفین قابل تمدید است که در صورت توافق بر تمدید قرارداد توافق مورد نظر به این قرارداد ضمیمه می‌گردد.",
+    "entities": [
+      {"slot": "contract_type", "before_token": "به صورت", "after_token": "است"},
+      {"slot": "contract_start_date", "before_token": "از تاریخ", "after_token": "لغایت"},
+      {"slot": "contract_end_date", "before_token": "لغایت", "after_token": "به مدت"},
+      {"slot": "contract_duration", "before_token": "به مدت", "after_token": "ماه"}
+    ]
+  },
+  {
+    "clause_id": 4,
+    "clause_type": "ساعت کار",
+    "text": "ماده (۳) ساعت کار: (۱) ساعت انجام کار بر اساس تبصره ۱ ماده ۵۱ قانون کار [weekly_hours] ساعت در هفته است. میزان ساعت کار و ساعت شروع و پایان آن با توافق طرفین تعیین می‌گردد. (۲) ساعت کاری نگهبان براساس توافق با کارفرما در روزهای [work_days] از ساعت [start_time] تا ساعت [end_time] است.",
+    "entities": [
+      {"slot": "weekly_hours", "before_token": "قانون کار", "after_token": "ساعت در هفته"},
+      {"slot": "work_days", "before_token": "در روزهای", "after_token": "از ساعت"},
+      {"slot": "start_time", "before_token": "از ساعت", "after_token": "تا ساعت"},
+      {"slot": "end_time", "before_token": "تا ساعت", "after_token": "است"}
+    ]
+  },
+  {
+    "clause_id": 5,
+    "clause_type": "حق السعی",
+    "text": "ماده (۴) حق السعی: (۱) حق السعی به شرح ذیل است که به طور ماهانه و پس از کسر کسورات قانونی مندرج در ماده ۵ توسط کارفرما پرداخت میشود: الف) مزد مبنا ماهیانه [base_salary] ریال. ب) حق مسکن ماهیانه [housing_allowance] ریال. پ) حق اولاد ماهیانه [child_allowance] ریال. ت) کمک هزینه اقلام مصرفی خانوار (بن کارگری) ماهیانه [grocery_allowance] ریال. ث) پایه سنوات [seniority_allowance] ریال.",
+    "entities": [
+      {"slot": "base_salary", "before_token": "مزد مبنا ماهیانه", "after_token": "ریال"},
+      {"slot": "housing_allowance", "before_token": "حق مسکن ماهیانه", "after_token": "ریال"},
+      {"slot": "child_allowance", "before_token": "حق اولاد ماهیانه", "after_token": "ریال"},
+      {"slot": "grocery_allowance", "before_token": "بن کارگری ماهیانه", "after_token": "ریال"},
+      {"slot": "seniority_allowance", "before_token": "پایه سنوات", "after_token": "ریال"}
+    ]
+  }
+]

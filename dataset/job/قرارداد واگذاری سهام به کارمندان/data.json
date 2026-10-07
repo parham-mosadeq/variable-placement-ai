@@ -1,0 +1,128 @@
+{
+  "contract_title": "قرارداد واگذاری سهام",
+  "clauses": [
+    {
+      "clause_id": 0,
+      "clause_type": "preamble",
+      "text": "به نام خداوند جان و خرد\nقرارداد واگذاری سهام\nاین قرارداد واگذاری سهام که از این پس قرارداد نامیده می‌شود در تاریخ [contract_date] فی‌مابین طرفین زیر منعقد گردید.",
+      "entities": [
+        {
+          "slot": "contract_date",
+          "before_token": "در تاریخ",
+          "after_token": "فی‌مابین"
+        }
+      ]
+    },
+    {
+      "clause_id": 1,
+      "clause_type": "company",
+      "text": "شرکت [company_name] به شماره ثبت [registration_number] و شناسه ملی [national_id] به نمایندگی [ceo_name] در سمت مدیرعامل و [board_chair_name] در سمت رئیس هیئت‌مدیره که از این پس «شرکت» نامیده می‌شود.",
+      "entities": [
+        {
+          "slot": "company_name",
+          "before_token": "شرکت",
+          "after_token": "به شماره ثبت"
+        },
+        {
+          "slot": "registration_number",
+          "before_token": "شماره ثبت",
+          "after_token": "و شناسه ملی"
+        },
+        {
+          "slot": "national_id",
+          "before_token": "شناسه ملی",
+          "after_token": "به نمایندگی"
+        },
+        {
+          "slot": "ceo_name",
+          "before_token": "مدیرعامل",
+          "after_token": "و"
+        },
+        {
+          "slot": "board_chair_name",
+          "before_token": "رئیس هیئت‌مدیره",
+          "after_token": "که از این پس"
+        }
+      ]
+    },
+    {
+      "clause_id": 2,
+      "clause_type": "shareholders",
+      "text": "سهامداران شامل اشخاص حقیقی و حقوقی زیر هستند: [shareholder_list] که منفرداً یا مشترکاً طرف قرارداد محسوب می‌شوند.",
+      "entities": [
+        {
+          "slot": "shareholder_list",
+          "before_token": "سهامداران شامل",
+          "after_token": "که"
+        }
+      ]
+    },
+    {
+      "clause_id": 3,
+      "clause_type": "employee",
+      "text": "کارمند آقا/خانم [employee_name] فرزند [father_name] شماره ملی [employee_national_id] نشانی [employee_address] که از این پس کارمند نامیده می‌شود.",
+      "entities": [
+        {
+          "slot": "employee_name",
+          "before_token": "کارمند آقا/خانم",
+          "after_token": "فرزند"
+        },
+        {
+          "slot": "father_name",
+          "before_token": "فرزند",
+          "after_token": "شماره ملی"
+        },
+        {
+          "slot": "employee_national_id",
+          "before_token": "شماره ملی",
+          "after_token": "نشانی"
+        },
+        {
+          "slot": "employee_address",
+          "before_token": "نشانی",
+          "after_token": "که از این پس"
+        }
+      ]
+    },
+    {
+      "clause_id": 4,
+      "clause_type": "employment_reference",
+      "text": "کارمند طی قرارداد کار شماره [employment_contract_number] مورخ [employment_date] در شرکت با سمت [job_title] مشغول به کار می‌باشد.",
+      "entities": [
+        {
+          "slot": "employment_contract_number",
+          "before_token": "شماره",
+          "after_token": "مورخ"
+        },
+        {
+          "slot": "employment_date",
+          "before_token": "مورخ",
+          "after_token": "با سمت"
+        },
+        {
+          "slot": "job_title",
+          "before_token": "سمت",
+          "after_token": "در شرکت"
+        }
+      ]
+    },
+    {
+      "clause_id": 5,
+      "clause_type": "purpose",
+      "text": "به منظور افزایش انگیزه و مشارکت کارمند، بخشی از سهام شرکت مطابق شرایط این قرارداد به وی واگذار می‌گردد.",
+      "entities": []
+    },
+    {
+      "clause_id": 6,
+      "clause_type": "share_structure",
+      "text": "ترکیب سهام شرکت شامل لیست سهامداران و درصد مالکیت آنان مطابق جدول پیوست می‌باشد.",
+      "entities": []
+    },
+    {
+      "clause_id": 7,
+      "clause_type": "agreement",
+      "text": "طرفین توافق نمودند شرایط واگذاری سهام طبق مفاد این قرارداد و ضمائم آن اجرا گردد.",
+      "entities": []
+    }
+  ]
+}

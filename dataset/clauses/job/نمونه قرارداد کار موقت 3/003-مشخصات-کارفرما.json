@@ -1,0 +1,29 @@
+{
+  "title": "مشخصات کارفرما - نمونه قرارداد کار موقت 3",
+  "content": "کارفرما: شرکت {{company_name}} فرزند {{employer_father_name}} شماره شناسنامه {{employer_birth_certificate}} صادره از {{employer_issue_place}} نشانی {{employer_address}}",
+  "keywords": [
+    "مشخصات کارفرما",
+    "نمونه قرارداد کار موقت 3",
+    "بند قرارداد",
+    "قرارداد کار",
+    "employer",
+    "طرفین قرارداد",
+    "مشخصات هویتی",
+    "اطلاعات تماس",
+    "کد ملی",
+    "نشانی طرفین",
+    "company_name",
+    "شرکت",
+    "فرزند",
+    "employer_father_name",
+    "شماره شناسنامه",
+    "employer_birth_certificate",
+    "صادره از",
+    "employer_issue_place",
+    "نشانی",
+    "employer_address",
+    "شناسنامه",
+    "صادره",
+    "کارفرما"
+  ]
+}

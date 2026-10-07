@@ -1,0 +1,27 @@
+{
+  "title": "کارفرما - قرارداد استخدام پرستار کودک",
+  "content": "کارفرما: آقا/خانم {{employer_name}} فرزند {{employer_father}} کد ملی {{employer_national_id}} نشانی {{employer_address}} تلفن {{employer_phone}}",
+  "keywords": [
+    "کارفرما",
+    "قرارداد استخدام پرستار کودک",
+    "بند قرارداد",
+    "قرارداد کار",
+    "طرفین قرارداد",
+    "مشخصات هویتی",
+    "اطلاعات تماس",
+    "کد ملی",
+    "نشانی طرفین",
+    "employer_name",
+    "آقا خانم",
+    "فرزند",
+    "employer_father",
+    "employer_national_id",
+    "نشانی",
+    "employer_address",
+    "تلفن",
+    "employer_phone",
+    "آقا",
+    "خانم",
+    "ملی"
+  ]
+}

@@ -1,0 +1,78 @@
+[
+  {
+    "clause_id": 0,
+    "clause_type": "title",
+    "text": "قرارداد کار نگهبان ساختمان",
+    "entities": []
+  },
+
+  {
+    "clause_id": 1,
+    "clause_type": "legal_basis",
+    "text": "ماده ۱۰ قانون کار جمهوری اسلامی ایران",
+    "entities": []
+  },
+
+  {
+    "clause_id": 2,
+    "clause_type": "employer",
+    "text": "مالک/مدیریت ساختمان [building_name] نماینده [representative] نشانی [address] تلفن [phone]",
+    "entities": [
+      { "slot": "building_name", "before_token": "ساختمان", "after_token": "نماینده" },
+      { "slot": "representative", "before_token": "نماینده", "after_token": "نشانی" },
+      { "slot": "address", "before_token": "نشانی", "after_token": "تلفن" },
+      { "slot": "phone", "before_token": "تلفن", "after_token": "" }
+    ]
+  },
+
+  {
+    "clause_id": 3,
+    "clause_type": "employee",
+    "text": "نگهبان: [guard_name] فرزند [father_name] شماره ملی [national_id] شماره شناسنامه [certificate_id] متولد [birth_date] نشانی [home_address]",
+    "entities": [
+      { "slot": "guard_name", "before_token": "نگهبان:", "after_token": "فرزند" },
+      { "slot": "father_name", "before_token": "فرزند", "after_token": "شماره ملی" },
+      { "slot": "national_id", "before_token": "شماره ملی", "after_token": "شماره شناسنامه" },
+      { "slot": "certificate_id", "before_token": "شماره شناسنامه", "after_token": "متولد" },
+      { "slot": "birth_date", "before_token": "متولد", "after_token": "نشانی" },
+      { "slot": "home_address", "before_token": "نشانی", "after_token": "" }
+    ]
+  },
+
+  {
+    "clause_id": 4,
+    "clause_type": "job_duties",
+    "text": "کنترل ورود و خروج، حفاظت از اموال، ثبت گزارش، اطلاع‌رسانی موارد مشکوک",
+    "entities": []
+  },
+
+  {
+    "clause_id": 5,
+    "clause_type": "work_shift",
+    "text": "شیفت کاری ۲۴ ساعته یا چرخشی مطابق برنامه مدیریت ساختمان",
+    "entities": []
+  },
+
+  {
+    "clause_id": 6,
+    "clause_type": "salary",
+    "text": "حقوق ماهانه [salary] ریال",
+    "entities": [
+      { "slot": "salary", "before_token": "حقوق", "after_token": "ریال" }
+    ]
+  },
+
+  {
+    "clause_id": 7,
+    "clause_type": "responsibilities",
+    "text": "حفظ امانت، عدم ترک محل، رعایت مقررات ساختمان",
+    "entities": []
+  },
+
+  {
+    "clause_id": 8,
+    "clause_type": "final_clause",
+    "text": "این قرارداد در دو نسخه با اعتبار یکسان تنظیم و امضا می‌گردد",
+    "entities": []
+  }
+]

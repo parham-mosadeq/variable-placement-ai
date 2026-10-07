@@ -1,0 +1,115 @@
+[
+  {
+    "clause_id": 0,
+    "clause_type": "slogan",
+    "text": "بسمه خدا",
+    "entities": []
+  },
+
+  {
+    "clause_id": 1,
+    "clause_type": "contract_title",
+    "text": "قرارداد استخدام پرستار کودک",
+    "entities": []
+  },
+
+  {
+    "clause_id": 2,
+    "clause_type": "preamble",
+    "text": "این قرارداد مطابق ماده ۱۰ قانون مدنی بین کارفرما و پرستار کودک منعقد می‌گردد.",
+    "entities": []
+  },
+
+  {
+    "clause_id": 3,
+    "clause_type": "employer",
+    "text": "کارفرما: [employer_name] فرزند [employer_father] کد ملی [employer_national_id] نشانی [employer_address] تلفن [employer_phone]",
+    "entities": [
+      {"slot": "employer_name", "before_token": "کارفرما:", "after_token": "فرزند"},
+      {"slot": "employer_father", "before_token": "فرزند", "after_token": "کد ملی"},
+      {"slot": "employer_national_id", "before_token": "کد ملی", "after_token": "نشانی"},
+      {"slot": "employer_address", "before_token": "نشانی", "after_token": "تلفن"},
+      {"slot": "employer_phone", "before_token": "تلفن", "after_token": ""}
+    ]
+  },
+
+  {
+    "clause_id": 4,
+    "clause_type": "nanny",
+    "text": "پرستار: [nanny_name] فرزند [nanny_father] شماره شناسنامه [nanny_certificate_id] کد ملی [nanny_national_id] متولد [nanny_birthdate] نشانی [nanny_address] تحصیلات [education_level] وضعیت تأهل [marital_status]",
+    "entities": [
+      {"slot": "nanny_name", "before_token": "پرستار:", "after_token": "فرزند"},
+      {"slot": "nanny_father", "before_token": "فرزند", "after_token": "شماره شناسنامه"},
+      {"slot": "nanny_certificate_id", "before_token": "شماره شناسنامه", "after_token": "کد ملی"},
+      {"slot": "nanny_national_id", "before_token": "کد ملی", "after_token": "متولد"},
+      {"slot": "nanny_birthdate", "before_token": "متولد", "after_token": "نشانی"},
+      {"slot": "nanny_address", "before_token": "نشانی", "after_token": "تحصیلات"},
+      {"slot": "education_level", "before_token": "تحصیلات", "after_token": "وضعیت تأهل"},
+      {"slot": "marital_status", "before_token": "وضعیت تأهل", "after_token": ""}
+    ]
+  },
+
+  {
+    "clause_id": 5,
+    "clause_type": "job_description",
+    "text": "مراقبت کامل از کودک شامل تغذیه، نگهداری، آموزش ابتدایی و حفظ ایمنی",
+    "entities": []
+  },
+
+  {
+    "clause_id": 6,
+    "clause_type": "contract_term",
+    "text": "از تاریخ [start_date] لغایت [end_date] به مدت [duration] ماه",
+    "entities": [
+      {"slot": "start_date", "before_token": "از تاریخ", "after_token": "لغایت"},
+      {"slot": "end_date", "before_token": "لغایت", "after_token": "به مدت"},
+      {"slot": "duration", "before_token": "به مدت", "after_token": "ماه"}
+    ]
+  },
+
+  {
+    "clause_id": 7,
+    "clause_type": "work_location",
+    "text": "محل انجام کار در نشانی [work_address]",
+    "entities": [
+      {"slot": "work_address", "before_token": "نشانی", "after_token": ""}
+    ]
+  },
+
+  {
+    "clause_id": 8,
+    "clause_type": "salary",
+    "text": "حقوق ماهانه [salary] ریال پرداخت می‌گردد",
+    "entities": [
+      {"slot": "salary", "before_token": "حقوق ماهانه", "after_token": "ریال"}
+    ]
+  },
+
+  {
+    "clause_id": 9,
+    "clause_type": "leave_policy",
+    "text": "مرخصی با هماهنگی کارفرما قابل استفاده است",
+    "entities": []
+  },
+
+  {
+    "clause_id": 10,
+    "clause_type": "confidentiality",
+    "text": "پرستار موظف به حفظ محرمانگی اطلاعات خانوادگی کارفرما است",
+    "entities": []
+  },
+
+  {
+    "clause_id": 11,
+    "clause_type": "termination",
+    "text": "در صورت عدم انجام تعهدات، قرارداد قابل فسخ با اعلام قبلی می‌باشد",
+    "entities": []
+  },
+
+  {
+    "clause_id": 12,
+    "clause_type": "final_clause",
+    "text": "این قرارداد در دو نسخه با اعتبار یکسان تنظیم و امضا شده است",
+    "entities": []
+  }
+]

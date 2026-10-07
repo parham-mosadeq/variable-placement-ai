@@ -1,0 +1,63 @@
+[
+  {
+    "clause_id": 0,
+    "clause_type": "عنوان",
+    "text": "قرارداد استخدام بازاریاب فروش بیمه",
+    "entities": []
+  },
+  {
+    "clause_id": 1,
+    "clause_type": "مقدمه",
+    "text": "این قرارداد مطابق قانون کار جمهوری اسلامی ایران بین کارفرما و بازاریاب منعقد می‌گردد.",
+    "entities": []
+  },
+  {
+    "clause_id": 2,
+    "clause_type": "کارفرما",
+    "text": "کارفرما: [employer_name] شماره ثبت [registration_number] شناسه ملی [national_id] به نمایندگی [employer_representative] در سمت [employer_position]",
+    "entities": [
+      { "slot": "employer_name", "before_token": "کارفرما:", "after_token": "شماره ثبت" },
+      { "slot": "registration_number", "before_token": "شماره ثبت", "after_token": "شناسه ملی" },
+      { "slot": "national_id", "before_token": "شناسه ملی", "after_token": "به نمایندگی" },
+      { "slot": "employer_representative", "before_token": "به نمایندگی", "after_token": "در سمت" },
+      { "slot": "employer_position", "before_token": "در سمت", "after_token": "" }
+    ]
+  },
+  {
+    "clause_id": 3,
+    "clause_type": "بازاریاب",
+    "text": "بازاریاب: [marketer_name] فرزند [father_name] شماره شناسنامه [birth_certificate_id] کد ملی [national_id_marketer] متولد [birth_date] نشانی [address] تلفن [phone] ایمیل [email]",
+    "entities": [
+      { "slot": "marketer_name", "before_token": "بازاریاب:", "after_token": "فرزند" },
+      { "slot": "father_name", "before_token": "فرزند", "after_token": "شماره شناسنامه" },
+      { "slot": "birth_certificate_id", "before_token": "شماره شناسنامه", "after_token": "کد ملی" },
+      { "slot": "national_id_marketer", "before_token": "کد ملی", "after_token": "متولد" },
+      { "slot": "birth_date", "before_token": "متولد", "after_token": "نشانی" },
+      { "slot": "address", "before_token": "نشانی", "after_token": "تلفن" },
+      { "slot": "phone", "before_token": "تلفن", "after_token": "ایمیل" },
+      { "slot": "email", "before_token": "ایمیل", "after_token": "" }
+    ]
+  },
+  {
+    "clause_id": 4,
+    "clause_type": "موضوع قرارداد",
+    "text": "اشتغال بازاریاب در حوزه بازاریابی و فروش بیمه شامل تبلیغات و تهیه مقدمات فروش بیمه. بازاریاب مجاز به صدور یا امضای بیمه‌نامه نمی‌باشد.",
+    "entities": []
+  },
+  {
+    "clause_id": 5,
+    "clause_type": "پیوست‌ها",
+    "text": "پیوست‌ها شامل روزنامه رسمی، شرح وظایف، مدارک هویتی، تضمین تعهدات و وظایف اختصاصی می‌باشد.",
+    "entities": []
+  },
+  {
+    "clause_id": 6,
+    "clause_type": "مدت قرارداد",
+    "text": "از تاریخ [start_date] لغایت [end_date] به مدت [duration] ماه",
+    "entities": [
+      { "slot": "start_date", "before_token": "از تاریخ", "after_token": "لغایت" },
+      { "slot": "end_date", "before_token": "لغایت", "after_token": "به مدت" },
+      { "slot": "duration", "before_token": "به مدت", "after_token": "ماه" }
+    ]
+  }
+]
