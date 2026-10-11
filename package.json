@@ -1,0 +1,14 @@
+{
+  "name": "contract-variable-extractor",
+  "version": "1.0.0",
+  "description": "Extract variables and clause structure from Persian contract text (dataset based)",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "contract-extract": "./src/cli.js"
+  },
+  "scripts": {
+    "test": "node test/verify.js",
+    "extract": "node src/cli.js"
+  }
+}
