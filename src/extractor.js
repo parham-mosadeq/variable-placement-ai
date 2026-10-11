@@ -8,7 +8,10 @@ import { slotHintForPlaceholder } from './context.js';
 const BRACKET_RE = /\[([^\[\]]+)\]/g;   // [variable_name]
 const BRACE_RE = /\{\{([^{}]+)\}\}/g;   // {{variable_name}} (clauses dataset style)
 
-const SLOT_RE = /\.{3,}/g;             // "..........." placeholder in base forms
+// Placeholder fills seen in Persian contracts:
+//   dots .........  ellipsis char … (U+2026)  dashes/octothorpe ----
+//   underscores ____  stars ****  tildes ~~~  (>=3 chars in a row)
+const SLOT_RE = new RegExp('(?:\\.{3,}|\u2026+|[-_~*]{3,})', 'g');
 
 import fs from 'node:fs';
 import path from 'node:path';
@@ -22,17 +25,20 @@ export function extractVariablesFromText(text) {
 
   collectMatches(text, BRACKET_RE, 'bracket');
   collectMatches(text, BRACE_RE, 'brace');
-  // dotted placeholders (base-data style "..............")
+  // inline placeholder fills: dots, ellipsis …, dashes, underscores, etc.
   let m;
   SLOT_RE.lastIndex = 0;
   while ((m = SLOT_RE.exec(text)) !== null) {
     variables.push({
       name: slotHintForPlaceholder(text, m.index),
-      kind: 'dotted_placeholder',
+      kind: m[0].includes('.') || m[0].includes('\u2026')
+        ? 'dotted_placeholder'
+        : 'dashed_placeholder',
       start: m.index,
       end: m.index + m[0].length,
       raw: m[0],
     });
+    if (SLOT_RE.lastIndex === m.index) SLOT_RE.lastIndex++;
   }
 
   variables.sort((a, b) => a.start - b.start);

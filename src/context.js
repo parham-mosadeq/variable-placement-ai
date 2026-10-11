@@ -74,11 +74,35 @@ const KEYWORD_SLOTS = [
   // other
   ['شرح وظایف یا مسئولیت', 'duties'],
   ['وظایف زیر', 'duties'],
+  ['از جمله وظایف زیر', 'duties'],
+  // consecutive filler lines reusing the previous label
+  ['مثلاً', 'work_examples'],
+  ['شامل', 'scope_items'],
   ['کار و وظایف', 'duties'],
   ['شرح کامل وظایف', 'duties'],
   ['انجام دهد', 'duties'],
   ['امضاء و تاریخ', 'signature_date'],
   ['امضای', 'signature'],
+  // table header separator lines: reuse the nearest real header above them
+  ['مبلغ (ریال)', 'amount_rial'],
+  ['-------------------------', 'amount_rial'],
+  ['------------------------------', 'amount_rial'],
+  ['حقوق و مزایا', 'salary_table'],
+  ['پیش‌پرداخت', 'advance_payment'],
+  ['پرداخت مرحله‌ای', 'installment_payment'],
+  ['پرداخت مرحله‌ای/براساس پیشرفت پروژه', 'progress_payment'],
+  ['تسویه نهایی پس از تأیید و تحویل کامل کار', 'final_settlement'],
+  ['عدم رفع نقص ظرف مدت', 'fault_notice_period'],
+  ['شامل موارد زیر', 'scope_items'],
+  ['مثلاً تولید، بسته‌بندی، تایپ', 'work_examples'],
+  ['(مثلاً', 'work_examples'],
+  ['امضاي', 'signature'],
+  ['امضاي کارفرما', 'employer_signature'],
+  ['امضاي کارگر', 'worker_signature'],
+  ['نماینده کارفرما', 'employer_representative'],
+  ['آقاي / خانم / شرکت', 'company_or_name'],
+  ['آقاي / خانم', 'full_name'],
+  ['آقاي/خانم', 'full_name'],
   ['امضاء کارفرما', 'employer_signature'],
   ['امضاء سرایدار', 'worker_signature'],
   ['امضاء کارگر', 'worker_signature'],
@@ -111,6 +135,9 @@ const KEYWORD_SLOTS = [
   ['موسسه', 'institute_name'],
   // subject / job
   ['اشتغال کارمند به عنوان', 'job_title'],
+  ['انجام کار به عنوان', 'job_title'],
+  ['میزان تحصیلات', 'education'],
+  ['متولد', 'birth_date'],
   ['اشتغال فروشنده در', 'job_title'],
   ['اشتغال راننده جهت رانندگی خودرو', 'vehicle_type'],
   ['با پلاک', 'vehicle_plate_number'],
@@ -175,8 +202,18 @@ const KEYWORD_SLOTS = [
   ['تاریخ انعقاد قرارداد', 'contract_date'],
   ['تاریخ انعقاد', 'contract_date'],
   ['ساعت کار', 'work_hours'],
+  ['امضاء دریافت‌کننده', 'receiver_signature'],
+  ['امضاء افشاءکننده', 'discloser_signature'],
   ['عبارت است از', 'contract_subject'],
-  ['اختلافات ناشی از این قرارداد در مراجع صالح شهر', 'dispute_city'],
+  ['شغل یا حرفه', 'job_title'],
+  ['اشتغال می یابد', 'job_title'],
+  ['حرفه یا حجم کار', 'job_title'],
+  ['حق سنوات', 'seniority_severance'],
+  ['مطابق قانون به', 'seniority_duration'],
+  ['ماه', 'duration'],
+  ['سال', 'duration_years'],
+  ['درتاریخ', 'contract_date'],
+  ['نزد بانک', 'bank_name'],
 ];
 
 /**
@@ -189,7 +226,12 @@ const KEYWORD_SLOTS = [
 const WINDOW_CHARS = 60;
 
 export function slotHintForPlaceholder(text, start) {
-  const window = text.slice(Math.max(0, start - WINDOW_CHARS), start);
+  let window = text.slice(Math.max(0, start - WINDOW_CHARS), start);
+  // If the window is only filler (dots/ellipsis/newlines) — a block of blank
+  // filler lines — look further back for the last real label.
+  if (/^[.\u2026\s]+$/.test(window)) {
+    window = text.slice(Math.max(0, start - 160), start);
+  }
   // Pick the keyword occurring closest to the blank (largest lastIndexOf in the window).  // Ties broken by LONGER keyword first so "عبارت است از ترجمه" beats "عبارت است از".
   let best = null, bestIdx = -1, bestLen = 0;
   for (const [keyword, slot] of KEYWORD_SLOTS) {
