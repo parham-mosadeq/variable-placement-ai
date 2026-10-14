@@ -2,7 +2,25 @@
  * Context helpers: infer a slot name for implicit gaps (dotted placeholders).
  */
 
-/** Map from a preceding keyword phrase to a canonical slot name. */
+import { readFileSync } from 'node:fs';
+
+/**
+ * GENERATED map, mined from the dataset itself (npm run build-map).
+ * These entries are dataset ground truth and take PRIORITY over the
+ * hand-curated list below.
+ */
+const GENERATED_SLOTS = (() => {
+  try {
+    return JSON.parse(
+      readFileSync(new URL('./keyword-slots.generated.json', import.meta.url), 'utf8'),
+    );
+  } catch {
+    return []; // generated file missing → hand map only
+  }
+})();
+
+/** Hand-curated map from a preceding keyword phrase to a canonical slot name.
+ *  Fallback for ambiguous labels the generator drops (see dominant-slot rule). */
 const KEYWORD_SLOTS = [
   // parties / identity
   ['آقا / خانم', 'full_name'],
@@ -216,6 +234,21 @@ const KEYWORD_SLOTS = [
   ['نزد بانک', 'bank_name'],
 ];
 
+/** Best keyword match for `window` in one ordered [keyword, slot] list. */
+function bestIn(list, window) {
+  let best = null, bestIdx = -1, bestLen = 0;
+  for (const [keyword, slot] of list) {
+    const idx = window.lastIndexOf(keyword);
+    if (idx === -1) continue;
+    if (idx > bestIdx || (idx === bestIdx && keyword.length > bestLen)) {
+      bestIdx = idx;
+      bestLen = keyword.length;
+      best = slot;
+    }
+  }
+  return best;
+}
+
 /**
  * Given a dotted_placeholder match inside `text`, return the Persian slot hint
  * found in the words immediately before the blank.
@@ -233,15 +266,6 @@ export function slotHintForPlaceholder(text, start) {
     window = text.slice(Math.max(0, start - 160), start);
   }
   // Pick the keyword occurring closest to the blank (largest lastIndexOf in the window).  // Ties broken by LONGER keyword first so "عبارت است از ترجمه" beats "عبارت است از".
-  let best = null, bestIdx = -1, bestLen = 0;
-  for (const [keyword, slot] of KEYWORD_SLOTS) {
-    const idx = window.lastIndexOf(keyword);
-    if (idx === -1) continue;
-    if (idx > bestIdx || (idx === bestIdx && keyword.length > bestLen)) {
-      bestIdx = idx;
-      bestLen = keyword.length;
-      best = slot;
-    }
-  }
-  return best;
+  // Generated (dataset-mined) entries are checked first; hand map is fallback.
+  return bestIn(GENERATED_SLOTS, window) ?? bestIn(KEYWORD_SLOTS, window);
 }

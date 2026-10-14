@@ -9,6 +9,7 @@
   },
   "scripts": {
     "test": "node test/verify.js",
-    "extract": "node src/cli.js"
+    "extract": "node src/cli.js",
+    "build-map": "node src/build-keyword-map.js"
   }
 }

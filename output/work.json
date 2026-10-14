@@ -1,0 +1,215 @@
+{
+  "variables": [
+    {
+      "name": "employer_name",
+      "kind": "dotted_placeholder",
+      "start": 39,
+      "end": 69,
+      "raw": ".............................."
+    },
+    {
+      "name": "father_name",
+      "kind": "dotted_placeholder",
+      "start": 78,
+      "end": 108,
+      "raw": ".............................."
+    },
+    {
+      "name": "national_id",
+      "kind": "dotted_placeholder",
+      "start": 118,
+      "end": 148,
+      "raw": ".............................."
+    },
+    {
+      "name": "employer_phone",
+      "kind": "dotted_placeholder",
+      "start": 163,
+      "end": 193,
+      "raw": ".............................."
+    },
+    {
+      "name": "weekly_hours",
+      "kind": "dotted_placeholder",
+      "start": 226,
+      "end": 256,
+      "raw": ".............................."
+    },
+    {
+      "name": "father_name",
+      "kind": "dotted_placeholder",
+      "start": 265,
+      "end": 295,
+      "raw": ".............................."
+    },
+    {
+      "name": "national_id",
+      "kind": "dotted_placeholder",
+      "start": 305,
+      "end": 335,
+      "raw": ".............................."
+    },
+    {
+      "name": "employee_birthdate",
+      "kind": "dotted_placeholder",
+      "start": 349,
+      "end": 379,
+      "raw": ".............................."
+    },
+    {
+      "name": "employer_phone",
+      "kind": "dotted_placeholder",
+      "start": 394,
+      "end": 424,
+      "raw": ".............................."
+    },
+    {
+      "name": "weekly_hours",
+      "kind": "dotted_placeholder",
+      "start": 470,
+      "end": 500,
+      "raw": ".............................."
+    },
+    {
+      "name": "weekly_hours",
+      "kind": "dotted_placeholder",
+      "start": 604,
+      "end": 634,
+      "raw": ".............................."
+    },
+    {
+      "name": "duration",
+      "kind": "dotted_placeholder",
+      "start": 759,
+      "end": 789,
+      "raw": ".............................."
+    },
+    {
+      "name": "end_date",
+      "kind": "dotted_placeholder",
+      "start": 804,
+      "end": 834,
+      "raw": ".............................."
+    },
+    {
+      "name": "probation_period",
+      "kind": "dotted_placeholder",
+      "start": 849,
+      "end": 859,
+      "raw": ".........."
+    },
+    {
+      "name": "work_location",
+      "kind": "dotted_placeholder",
+      "start": 1190,
+      "end": 1196,
+      "raw": "......"
+    },
+    {
+      "name": "work_location",
+      "kind": "dotted_placeholder",
+      "start": 1205,
+      "end": 1211,
+      "raw": "......"
+    },
+    {
+      "name": "seniority_allowance",
+      "kind": "dotted_placeholder",
+      "start": 1402,
+      "end": 1432,
+      "raw": ".............................."
+    },
+    {
+      "name": "seniority",
+      "kind": "dotted_placeholder",
+      "start": 1442,
+      "end": 1472,
+      "raw": ".............................."
+    },
+    {
+      "name": "salary",
+      "kind": "dotted_placeholder",
+      "start": 1492,
+      "end": 1522,
+      "raw": ".............................."
+    },
+    {
+      "name": "housing_allowance",
+      "kind": "dotted_placeholder",
+      "start": 1529,
+      "end": 1559,
+      "raw": ".............................."
+    },
+    {
+      "name": "food_allowance",
+      "kind": "dotted_placeholder",
+      "start": 1568,
+      "end": 1598,
+      "raw": ".............................."
+    },
+    {
+      "name": "child_allowance",
+      "kind": "dotted_placeholder",
+      "start": 1608,
+      "end": 1616,
+      "raw": "........"
+    },
+    {
+      "name": "child_allowance",
+      "kind": "dotted_placeholder",
+      "start": 1623,
+      "end": 1653,
+      "raw": ".............................."
+    },
+    {
+      "name": "contract_type",
+      "kind": "dotted_placeholder",
+      "start": 1678,
+      "end": 1708,
+      "raw": ".............................."
+    },
+    {
+      "name": "salary",
+      "kind": "dotted_placeholder",
+      "start": 1721,
+      "end": 1751,
+      "raw": ".............................."
+    },
+    {
+      "name": "unit",
+      "kind": "dotted_placeholder",
+      "start": 1797,
+      "end": 1807,
+      "raw": ".........."
+    },
+    {
+      "name": "employer_name",
+      "kind": "dotted_placeholder",
+      "start": 2684,
+      "end": 2714,
+      "raw": ".............................."
+    },
+    {
+      "name": "confidentiality_period",
+      "kind": "dotted_placeholder",
+      "start": 2731,
+      "end": 2761,
+      "raw": ".............................."
+    },
+    {
+      "name": "weekly_hours",
+      "kind": "dotted_placeholder",
+      "start": 2790,
+      "end": 2820,
+      "raw": ".............................."
+    },
+    {
+      "name": "confidentiality_period",
+      "kind": "dotted_placeholder",
+      "start": 2837,
+      "end": 2867,
+      "raw": ".............................."
+    }
+  ],
+  "count": 30
+}
