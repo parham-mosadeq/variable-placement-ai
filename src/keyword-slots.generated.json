@@ -1,2126 +1,6687 @@
-[
- [
-  "کارفرما/ نماینده قانونی کارفرما آقای/خانم/شرکت",
-  "employer_name"
- ],
- [
-  "هزنه اقلام مصرفی خانوار (بن کارگری)ماهیانه",
-  "grocery_allowance"
- ],
- [
-  "غیرمستقیم، امکان پیگیری قضایی، وجه التزام",
-  "penalty_amount"
- ],
- [
-  "اقلام مصرفی خانوار (بن کارگری) ماهیانه",
-  "grocery_allowance"
- ],
- [
-  "اقلام مصرفی خانوار (بن کارگری)ماهیانه",
-  "grocery_allowance"
- ],
- [
-  "نماینده قانونی کارفرما آقای/خانم/شرکت",
-  "employer_name"
- ],
- [
-  "توافق نمودند قرارداد همکاری از تاریخ",
-  "extension_start_date"
- ],
- [
-  "آدرس محل کارفرما و اشتغال مدیر فروش",
-  "work_address"
- ],
- [
-  "پرداخت میشود: الف) مزد مبنا ماهیانه",
-  "base_salary"
- ],
- [
-  "محرمانگی، متخلف موظف به پرداخت مبلغ",
-  "penalty_amount"
- ],
- [
-  "آدرس محل کارفرما و اشتغال فروشنده:",
-  "work_address"
- ],
- [
-  "از اشتغال راننده جهت رانندگی خودرو",
-  "vehicle_type"
- ],
- [
-  "ریال بوده و فوق‌العاده مدیریت مبلغ",
-  "management_allowance"
- ],
- [
-  "طرفین قرارداد کارفرما: آقا / خانم:",
-  "employer_name"
- ],
- [
-  "براساس توافق با کارفرما در روزهای",
-  "work_days"
- ],
- [
-  "یک طرف به نمایندگی جناب آقای/خانم",
-  "employer_representative"
- ],
- [
-  "مابین کارفرما و فروشنده در تاریخ",
-  "contract_date"
- ],
- [
-  "مصرفی خانوار (بن کارگری) ماهیانه",
-  "grocery_allowance"
- ],
- [
-  "اشتغال راننده جهت رانندگی خودرو",
-  "vehicle_type"
- ],
- [
-  "روزهای شنبه تا چهارشنبه از ساعت",
-  "morning_start"
- ],
- [
-  "که کارگر به آن اشتغال می‌‌یابد:",
-  "job_title"
- ],
- [
-  "مابین کارفرما و نگهبان در تاریخ",
-  "contract_date"
- ],
- [
-  "محل کارفرما و اشتغال مدیر فروش:",
-  "work_address"
- ],
- [
-  "مصرفی خانوار (بن کارگری)ماهیانه",
-  "grocery_allowance"
- ],
- [
-  "از این قرارداد، مراجع صالح شهر",
-  "jurisdiction_city"
- ],
- [
-  "امکان پیگیری قضایی، وجه التزام",
-  "penalty_amount"
- ],
- [
-  "طرف به نمایندگی جناب آقای/خانم",
-  "employer_representative"
- ],
- [
-  "کارگر (یا کارمند): آقا / خانم:",
-  "employee_name"
- ],
- [
-  "نظر به اتمام مدت قرارداد شماره",
-  "original_contract_number"
- ],
- [
-  "نمودند قرارداد همکاری از تاریخ",
-  "extension_start_date"
- ],
- [
-  "همچنین روزهای پنج شنبه از ساعت",
-  "thursday_start"
- ],
- [
-  "آدرس و تلفن محل کار (کارگاه):",
-  "work_location"
- ],
- [
-  "است از اشتغال کارمند به عنوان",
-  "job_title"
- ],
- [
-  "است. (۲) این قرارداد از تاریخ",
-  "contract_start_date"
- ],
- [
-  "بوده و فوق‌العاده مدیریت مبلغ",
-  "management_allowance"
- ],
- [
-  "تمام‌وقت یا پاره‌وقت از تاریخ",
-  "start_date"
- ],
- [
-  "حقوق و مزایا شامل مزد ماهیانه",
-  "base_salary"
- ],
- [
-  "قانونی کارفرما آقای/خانم/شرکت",
-  "employer_name"
- ],
- [
-  "کار: این قرارداد کار از تاریخ",
-  "contract_start_date"
- ],
- [
-  "محل کارفرما و اشتغال فروشنده:",
-  "work_address"
- ],
- [
-  "مدت قرارداد : مدت این قرارداد",
-  "contract_duration"
- ],
- [
-  "مزد ثابت / مبنا روزانه/ ساعتی",
-  "base_salary"
- ],
- [
-  "(۱) نوع قرارداد حاضر به صورت",
-  "contract_type"
- ],
- [
-  "/ ماهانه کارگر به حساب شماره",
-  "bank_account_number"
- ],
- [
-  "قرارداد : انجام خدمت در قسمت",
-  "work_department"
- ],
- [
-  "قرارداد کارفرما: آقا / خانم:",
-  "employer_name"
- ],
- [
-  "کارفرما و مدیر فروش در تاریخ",
-  "contract_date"
- ],
- [
-  "کارگر به آن اشتغال می‌‌یابد:",
-  "job_title"
- ],
- [
-  "میشود: الف) مزد مبنا ماهیانه",
-  "base_salary"
- ],
- [
-  "السعی : 4-1) حقوق ماهیانه :",
-  "base_salary"
- ],
- [
-  "این قرارداد، مراجع صالح شهر",
-  "jurisdiction_city"
- ],
- [
-  "کارفرما و اشتغال مدیر فروش:",
-  "work_address"
- ],
- [
-  "محل انجام قرارداد و کارگاه:",
-  "workplace_address"
- ],
- [
-  "میشود از یک طرف؛ و آقا/خانم",
-  "employee_name"
- ],
- [
-  "از اشتغال مدیر فروش در محل",
-  "work_location"
- ],
- [
-  "به اتمام مدت قرارداد شماره",
-  "original_contract_number"
- ],
- [
-  "به نمایندگی جناب آقای/خانم",
-  "employer_representative"
- ],
- [
-  "تبصره ۱ ماده ۵۱ قانون کار،",
-  "weekly_hours"
- ],
- [
-  "توافق با کارفرما در روزهای",
-  "work_days"
- ],
- [
-  "خانوار (بن کارگری) ماهیانه",
-  "grocery_allowance"
- ],
- [
-  "ریال 4-3) خواربار و مسکن :",
-  "housing_allowance"
- ],
- [
-  "ریال 4-4) کمک عائله مندی :",
-  "child_allowance"
- ],
- [
-  "ریال. د) پایه سنوات روزانه",
-  "seniority_allowance"
- ],
- [
-  "کارفرما و فروشنده در تاریخ",
-  "contract_date"
- ],
- [
-  "ماهانه کارگر به حساب شماره",
-  "bank_account_number"
- ],
- [
-  "هریک از طرفین موظفند حداقل",
-  "notice_period"
- ],
- [
-  "از اشتغال کارمند به عنوان",
-  "job_title"
- ],
- [
-  "است. این قرارداد از تاریخ",
-  "start_date"
- ],
- [
-  "پرداخت حقوق به حساب شماره",
-  "bank_account"
- ],
- [
-  "تبصره ۱ ماده ۵۱ قانون کار",
-  "weekly_hours"
- ],
- [
-  "ثابت / مبنا روزانه/ ساعتی",
-  "base_salary"
- ],
- [
-  "خانوار (بن کارگری)ماهیانه",
-  "grocery_allowance"
- ],
- [
-  "ریال 4-2) حق جذب ماهانه :",
-  "attraction_allowance"
- ],
- [
-  "ریال. پ) حق اولاد ماهیانه",
-  "child_allowance"
- ],
- [
-  "ریال. ج) حق اولاد ماهیانه",
-  "child_allowance"
- ],
- [
-  "شماره شناسنامه/شماره ثبت:",
-  "employer_id"
- ],
- [
-  "قرارداد : مدت این قرارداد",
-  "contract_duration"
- ],
- [
-  "کارفرما و اشتغال فروشنده:",
-  "work_address"
- ],
- [
-  "کارفرما و نگهبان در تاریخ",
-  "contract_date"
- ],
- [
-  "متخلف موظف به پرداخت مبلغ",
-  "penalty_amount"
- ],
- [
-  "(۲) این قرارداد از تاریخ",
-  "contract_start_date"
- ],
- [
-  "(یا کارمند): آقا / خانم:",
-  "employee_name"
- ],
- [
-  "| حقوق ماهانه (30 روز) |",
-  "monthly_salary"
- ],
- [
-  "5) تاریخ انعقاد قرارداد:",
-  "contract_date"
- ],
- [
-  "این قرارداد کار از تاریخ",
-  "contract_start_date"
- ],
- [
-  "پیگیری قضایی، وجه التزام",
-  "penalty_amount"
- ],
- [
-  "جابه جایی محل کار در شهر",
-  "city"
- ],
- [
-  "راننده جهت رانندگی خودرو",
-  "vehicle_type"
- ],
- [
-  "ریال. ب) حق مسکن ماهیانه",
-  "housing_allowance"
- ],
- [
-  "شنبه تا چهارشنبه از ساعت",
-  "morning_start"
- ],
- [
-  "نوع قرارداد حاضر به صورت",
-  "contract_type"
- ],
- [
-  "و تلفن محل کار (کارگاه):",
-  "work_location"
- ],
- [
-  "و فوق‌العاده مدیریت مبلغ",
-  "management_allowance"
- ],
- [
-  "و مزایا شامل مزد ماهیانه",
-  "base_salary"
- ],
- [
-  "اتمام مدت قرارداد شماره",
-  "original_contract_number"
- ],
- [
-  "است که شروع آن از تاریخ",
-  "contract_start_date"
- ],
- [
-  "اشتغال مدیر فروش در محل",
-  "work_location"
- ],
- [
-  "انجام قرارداد و کارگاه:",
-  "workplace_address"
- ],
- [
-  "انجام کار ، واقع در محل",
-  "work_location_name"
- ],
- [
-  "بین شرکت /آقای / خانم :",
-  "employer_name"
- ],
- [
-  "تبصره و 3 نسخه در تاریخ",
-  "contract_signing_date"
- ],
- [
-  "روزهای پنج شنبه از ساعت",
-  "thursday_start"
- ],
- [
-  "قرارداد همکاری از تاریخ",
-  "extension_start_date"
- ],
- [
-  "قرارداد، مراجع صالح شهر",
-  "jurisdiction_city"
- ],
- [
-  "نمایندگی جناب آقای/خانم",
-  "employer_representative"
- ],
- [
-  "اشتغال کارمند به عنوان",
-  "job_title"
- ],
- [
-  "به آن اشتغال می‌‌یابد:",
-  "job_title"
- ],
- [
-  "تدریس سرفصل‌های آموزشی",
-  "subjects_table"
- ],
- [
-  "تعهد محرمانگی از تاریخ",
-  "effective_date"
- ],
- [
-  "تلفن محل کار (کارگاه):",
-  "work_location"
- ],
- [
-  "حقوق ماهانه (30 روز) |",
-  "monthly_salary"
- ],
- [
-  "ریال ۴-۵) سایر مزایا :",
-  "other_benefits"
- ],
- [
-  "فوق‌العاده مدیریت مبلغ",
-  "management_allowance"
- ],
- [
-  "کارفرما آقای/خانم/شرکت",
-  "employer_name"
- ],
- [
-  "ماه و تعهد محرمانگی تا",
-  "n_years"
- ],
- [
-  "محل انجام کار در نشانی",
-  "work_address"
- ],
- [
-  "مزایا شامل مزد ماهیانه",
-  "base_salary"
- ],
- [
-  ": 4-1) حقوق ماهیانه :",
-  "base_salary"
- ],
- [
-  "4-3) خواربار و مسکن :",
-  "housing_allowance"
- ],
- [
-  "4-4) کمک عائله مندی :",
-  "child_allowance"
- ],
- [
-  "از طرفین موظفند حداقل",
-  "notice_period"
- ],
- [
-  "از یک طرف؛ و آقا/خانم",
-  "employee_name"
- ],
- [
-  "الف) مزد مبنا ماهیانه",
-  "base_salary"
- ],
- [
-  "تاریخ انعقاد قرارداد:",
-  "contract_date"
- ],
- [
-  "ریال که به شماره کارت",
-  "bank_card"
- ],
- [
-  "می باشد و آقای / خانم",
-  "employee_name"
- ],
- [
-  ": انجام خدمت در قسمت",
-  "work_department"
- ],
- [
-  "/ مبنا روزانه/ ساعتی",
-  "base_salary"
- ],
- [
-  "۱ ماده ۵۱ قانون کار،",
-  "weekly_hours"
- ],
- [
-  "4-2) حق جذب ماهانه :",
-  "attraction_allowance"
- ],
- [
-  "این الحاقیه در تاریخ",
-  "contract_date"
- ],
- [
-  "این قرارداد از تاریخ",
-  "contract_start_date"
- ],
- [
-  "این قرارداد بین شرکت",
-  "company_name"
- ],
- [
-  "این قرارداد تا تاریخ",
-  "termination_date"
- ],
- [
-  "این قرارداد در تاریخ",
-  "contract_date"
- ],
- [
-  "با کارفرما در روزهای",
-  "work_days"
- ],
- [
-  "حقوق ماهانه (30 روز)",
-  "monthly_salary"
- ],
- [
-  "د) پایه سنوات روزانه",
-  "seniority_allowance"
- ],
- [
-  "دارای شناسنامه شماره",
-  "employer_id"
- ],
- [
-  "ریال. و) سایر مزایا:",
-  "other_benefits"
- ],
- [
-  "شود. و آقای / خانم :",
-  "employee_name"
- ],
- [
-  "طرف اول؛ و آقای/خانم",
-  "employee_name"
- ],
- [
-  "قرارداد حاضر به صورت",
-  "contract_type"
- ],
- [
-  "قرارداد کار از تاریخ",
-  "contract_start_date"
- ],
- [
-  "کارفرما: آقا / خانم:",
-  "employer_name"
- ],
- [
-  "کارمند): آقا / خانم:",
-  "employee_name"
- ],
- [
-  "کد ملی یا کد اقتصادی",
-  "economic_or_national_code"
- ],
- [
-  "مدت قرارداد از تاریخ",
-  "start_date"
- ],
- [
-  "و مدیر فروش در تاریخ",
-  "contract_date"
- ],
- [
-  "یا پاره‌وقت از تاریخ",
-  "start_date"
- ],
- [
-  "(بن کارگری) ماهیانه",
-  "grocery_allowance"
- ],
- [
-  "۱ ماده ۵۱ قانون کار",
-  "weekly_hours"
- ],
- [
-  "4-1) حقوق ماهیانه :",
-  "base_salary"
- ],
- [
-  "آن اشتغال می‌‌یابد:",
-  "job_title"
- ],
- [
-  "پ) حق اولاد ماهیانه",
-  "child_allowance"
- ],
- [
-  "تا چهارشنبه از ساعت",
-  "morning_start"
- ],
- [
-  "ج) حق اولاد ماهیانه",
-  "child_allowance"
- ],
- [
-  "جایی محل کار در شهر",
-  "city"
- ],
- [
-  "حق‌الزحمه وکیل مبلغ",
-  "fee"
- ],
- [
-  "ریال. ث) پایه سنوات",
-  "seniority_allowance"
- ],
- [
-  "شرکت /آقای / خانم :",
-  "employer_name"
- ],
- [
-  "شروع شده و در تاریخ",
-  "contract_end_date"
- ],
- [
-  "شناسنامه/شماره ثبت:",
-  "employer_id"
- ],
- [
-  "طرف اول؛ و آقا/خانم",
-  "employee_name"
- ],
- [
-  "کارفرما: آقا / خانم",
-  "employer_name"
- ],
- [
-  "کارگر به حساب شماره",
-  "bank_account_number"
- ],
- [
-  "که شروع آن از تاریخ",
-  "contract_start_date"
- ],
- [
-  "مالک/مدیریت ساختمان",
-  "building_name"
- ],
- [
-  "موظف به پرداخت مبلغ",
-  "penalty_amount"
- ],
- [
-  "نوع قرارداد به صورت",
-  "contract_type"
- ],
- [
-  "و اشتغال مدیر فروش:",
-  "work_address"
- ],
- [
-  "(بن کارگری)ماهیانه",
-  "grocery_allowance"
- ],
- [
-  "انجام خدمت در قسمت",
-  "work_department"
- ],
- [
-  "انجام کار در نشانی",
-  "work_address"
- ],
- [
-  "ب) حق مسکن ماهیانه",
-  "housing_allowance"
- ],
- [
-  "باشد و آقای / خانم",
-  "employee_name"
- ],
- [
-  "حقوق به حساب شماره",
-  "bank_account"
- ],
- [
-  "طرفین موظفند حداقل",
-  "notice_period"
- ],
- [
-  "کار و وظایف کارگر:",
-  "job_title"
- ],
- [
-  "کارمند: آقا / خانم",
-  "employee_name"
- ],
- [
-  "ماده ۵۱ قانون کار،",
-  "weekly_hours"
- ],
- [
-  "مبنا روزانه/ ساعتی",
-  "base_salary"
- ],
- [
-  "مدیر فروش در تاریخ",
-  "contract_date"
- ],
- [
-  "نوع و میزان مهرات:",
-  "employee_skill"
- ],
- [
-  "و تعهد محرمانگی تا",
-  "n_years"
- ],
- [
-  "و فروشنده در تاریخ",
-  "contract_date"
- ],
- [
-  "یک طرف؛ و آقا/خانم",
-  "employee_name"
- ],
- [
-  ": مدت این قرارداد",
-  "contract_duration"
- ],
- [
-  "۴-۵) سایر مزایا :",
-  "other_benefits"
- ],
- [
-  "4) محل انجام کار:",
-  "work_location"
- ],
- [
-  "اشتغال مدیر فروش:",
-  "work_address"
- ],
- [
-  "بن کارگری ماهیانه",
-  "grocery_allowance"
- ],
- [
-  "به شماره شناسنامه",
-  "employee_certificate_id"
- ],
- [
-  "پاره‌وقت از تاریخ",
-  "start_date"
- ],
- [
-  "پایه سنوات روزانه",
-  "seniority_allowance"
- ],
- [
-  "جهت رانندگی خودرو",
-  "vehicle_type"
- ],
- [
-  "حق‌الزحمه ماهیانه",
-  "salary"
- ],
- [
-  "حقوق ماهیانه مبلغ",
-  "monthly_salary"
- ],
- [
-  "شرکت / آقا / خانم",
-  "employer_name"
- ],
- [
-  "قرارداد و کارگاه:",
-  "workplace_address"
- ],
- [
-  "قضایی، وجه التزام",
-  "penalty_amount"
- ],
- [
-  "کار ، واقع در محل",
-  "work_location_name"
- ],
- [
-  "کارفرما در روزهای",
-  "work_days"
- ],
- [
-  "کارفرما: آقا/خانم",
-  "employer_name"
- ],
- [
-  "ماده ۵۱ قانون کار",
-  "weekly_hours"
- ],
- [
-  "ماهانه (30 روز) |",
-  "monthly_salary"
- ],
- [
-  "مجموع ساعات تدریس",
-  "total_hours"
- ],
- [
-  "محرمانگی از تاریخ",
-  "effective_date"
- ],
- [
-  "محل کار (کارگاه):",
-  "work_location"
- ],
- [
-  "مدت قرارداد شماره",
-  "original_contract_number"
- ],
- [
-  "ملی یا کد اقتصادی",
-  "economic_or_national_code"
- ],
- [
-  "و 3 نسخه در تاریخ",
-  "contract_signing_date"
- ],
- [
-  "و اشتغال فروشنده:",
-  "work_address"
- ],
- [
-  "و کارگر آقای/خانم",
-  "employee_name"
- ],
- [
-  "و نگهبان در تاریخ",
-  "contract_date"
- ],
- [
-  "| | پایه سنوات |",
-  "seniority_allowance"
- ],
- [
-  "| | مزد روزانه |",
-  "daily_wage"
- ],
- [
-  "اشتغال می‌‌یابد:",
-  "job_title"
- ],
- [
-  "الحاقیه در تاریخ",
-  "contract_date"
- ],
- [
-  "اول؛ و آقای/خانم",
-  "employee_name"
- ],
- [
-  "پرستار: آقا/خانم",
-  "nanny_name"
- ],
- [
-  "پنج شنبه از ساعت",
-  "thursday_start"
- ],
- [
-  "تعهد محرمانگی تا",
-  "n_years"
- ],
- [
-  "چهارشنبه از ساعت",
-  "morning_start"
- ],
- [
-  "حق اولاد ماهیانه",
-  "child_allowance"
- ],
- [
-  "خواربار و مسکن :",
-  "housing_allowance"
- ],
- [
-  "ریال، سایر مزایا",
-  "other_allowances"
- ],
- [
-  "سرفصل‌های آموزشی",
-  "subjects_table"
- ],
- [
-  "شامل مزد ماهیانه",
-  "base_salary"
- ],
- [
-  "شروع آن از تاریخ",
-  "contract_start_date"
- ],
- [
-  "فروشنده در تاریخ",
-  "contract_date"
- ],
- [
-  "قرارداد بین شرکت",
-  "company_name"
- ],
- [
-  "قرارداد تا تاریخ",
-  "termination_date"
- ],
- [
-  "قرارداد در تاریخ",
-  "contract_date"
- ],
- [
-  "کارمند: آقا/خانم",
-  "secretary_name"
- ],
- [
-  "کمک عائله مندی :",
-  "child_allowance"
- ],
- [
-  "که به شماره کارت",
-  "bank_card"
- ],
- [
-  "محل کار (کارگاه)",
-  "work_location"
- ],
- [
-  "مدت دوره آزمایشی",
-  "probation_period"
- ],
- [
-  "مدیر فروش در محل",
-  "work_location"
- ],
- [
-  "مزد مبنا ماهیانه",
-  "base_salary"
- ],
- [
-  "و پایان آن تاریخ",
-  "contract_end_date"
- ],
- [
-  "و شماره شناسنامه",
-  "birth_certificate_number"
- ],
- [
-  "| | بن کارگری |",
-  "grocery_allowance"
- ],
- [
-  "3 نسخه در تاریخ",
-  "contract_signing_date"
- ],
- [
-  "6) مدت قرارداد:",
-  "contract_duration"
- ],
- [
-  "اشتغال فروشنده:",
-  "work_address"
- ],
- [
-  "انعقاد قرارداد:",
-  "contract_date"
- ],
- [
-  "اول؛ و آقا/خانم",
-  "employee_name"
- ],
- [
-  "حق جذب ماهانه :",
-  "attraction_allowance"
- ],
- [
-  "حق مسکن ماهیانه",
-  "housing_allowance"
- ],
- [
-  "دارای شماره ملی",
-  "national_id"
- ],
- [
-  "ریال به ازای هر",
-  "unit"
- ],
- [
-  "ریال، بن کارگری",
-  "food_allowance"
- ],
- [
-  "شرکت آقا / خانم",
-  "employer_name"
- ],
- [
-  "طرف؛ و آقا/خانم",
-  "employee_name"
- ],
- [
-  "قرارداد به صورت",
-  "contract_type"
- ],
- [
-  "کارگر آقای/خانم",
-  "employee_name"
- ],
- [
-  "کارگری) ماهیانه",
-  "grocery_allowance"
- ],
- [
-  "کارمند به عنوان",
-  "job_title"
- ],
- [
-  "مدت این قرارداد",
-  "contract_duration"
- ],
- [
-  "نگهبان در تاریخ",
-  "contract_date"
- ],
- [
-  "و آقای / خانم :",
-  "employee_name"
- ],
- [
-  "و پست الکترونیک",
-  "employee_email"
- ],
- [
-  "همکاری از تاریخ",
-  "extension_start_date"
- ],
- [
-  "/آقای / خانم :",
-  "employer_name"
- ],
- [
-  "| | حق اولاد |",
-  "child_allowance"
- ],
- [
-  "| پایه سنوات |",
-  "seniority_allowance"
- ],
- [
-  "| مزد روزانه |",
-  "daily_wage"
- ],
- [
-  "5) خانم / آقای",
-  "employee_name"
- ],
- [
-  "7) خانم / آقای",
-  "employee_name"
- ],
- [
-  "آقای/خانم/شرکت",
-  "employer_name"
- ],
- [
-  "به پرداخت مبلغ",
-  "penalty_amount"
- ],
- [
-  "پایان آن تاریخ",
-  "contract_end_date"
- ],
- [
-  "جناب آقای/خانم",
-  "employer_representative"
- ],
- [
-  "حقوق ماهیانه :",
-  "base_salary"
- ],
- [
-  "خواربار و مسکن",
-  "housing_food_allowance"
- ],
- [
-  "ریال، حق اولاد",
-  "child_allowance"
- ],
- [
-  "شده و در تاریخ",
-  "contract_end_date"
- ],
- [
-  "کارگری)ماهیانه",
-  "grocery_allowance"
- ],
- [
-  "کمک عائله‌مندی",
-  "family_allowance"
- ],
- [
-  "محل انجام کار:",
-  "work_location"
- ],
- [
-  "محل کار در شهر",
-  "city"
- ],
- [
-  "مراجع صالح شهر",
-  "jurisdiction_city"
- ],
- [
-  "و میزان مهرات:",
-  "employee_skill"
- ],
- [
-  "و وظایف کارگر:",
-  "job_title"
- ],
- [
-  "و) سایر مزایا:",
-  "other_benefits"
- ],
- [
-  "، واقع در محل",
-  "work_location_name"
- ],
- [
-  "| | حق مسکن |",
-  "housing_allowance"
- ],
- [
-  "| بن کارگری |",
-  "grocery_allowance"
- ],
- [
-  "۵۱ قانون کار،",
-  "weekly_hours"
- ],
- [
-  "آغاز شده و تا",
-  "confidentiality_period"
- ],
- [
-  "آقای / خانم :",
-  "employee_name"
- ],
- [
-  "اولاد ماهیانه",
-  "child_allowance"
- ],
- [
-  "به حساب شماره",
-  "bank_account_number"
- ],
- [
-  "به شماره کارت",
-  "bank_card"
- ],
- [
-  "ث) پایه سنوات",
-  "seniority_allowance"
- ],
- [
-  "رانندگی خودرو",
-  "vehicle_type"
- ],
- [
-  "روزانه/ ساعتی",
-  "base_salary"
- ],
- [
-  "ریال و جمع کل",
-  "total_salary"
- ],
- [
-  "ریال، حق مسکن",
-  "housing_allowance"
- ],
- [
-  "فروش در تاریخ",
-  "contract_date"
- ],
- [
-  "قرارداد شماره",
-  "original_contract_number"
- ],
- [
-  "کار (کارگاه):",
-  "work_location"
- ],
- [
-  "کارفرما: شرکت",
-  "company_name"
- ],
- [
-  "میزان تحصیلات",
-  "education_level"
- ],
- [
-  "نسخه در تاریخ",
-  "contract_signing_date"
- ],
- [
-  "و آقای / خانم",
-  "employee_name"
- ],
- [
-  "یا کد اقتصادی",
-  "economic_or_national_code"
- ],
- [
-  "/ آقا / خانم",
-  "employer_name"
- ],
- [
-  "| حق اولاد |",
-  "child_allowance"
- ],
- [
-  "۵۱ قانون کار",
-  "weekly_hours"
- ],
- [
-  "7) ساعت کار:",
-  "working_hours"
- ],
- [
-  "برنامه‌نویس:",
-  "developer_name"
- ],
- [
-  "به شماره ثبت",
-  "registration_number"
- ],
- [
-  "پایه سنوات |",
-  "seniority_allowance"
- ],
- [
-  "پروانه وکالت",
-  "license_number"
- ],
- [
-  "جذب ماهانه :",
-  "attraction_allowance"
- ],
- [
-  "حاضر به صورت",
-  "contract_type"
- ],
- [
-  "حقوق ماهیانه",
-  "base_salary"
- ],
- [
-  "خدمت در قسمت",
-  "work_department"
- ],
- [
-  "دارای کد ملی",
-  "national_code"
- ],
- [
-  "دوره آزمایشی",
-  "probation_period"
- ],
- [
-  "سایر مزایا :",
-  "other_benefits"
- ],
- [
-  "سنوات روزانه",
-  "seniority_allowance"
- ],
- [
-  "شنبه از ساعت",
-  "thursday_start"
- ],
- [
-  "عائله مندی :",
-  "child_allowance"
- ],
- [
-  "کار از تاریخ",
-  "contract_start_date"
- ],
- [
-  "کار در نشانی",
-  "work_address"
- ],
- [
-  "ماه از تاریخ",
-  "start_date"
- ],
- [
-  "ماهیانه مبلغ",
-  "monthly_salary"
- ],
- [
-  "مبنا ماهیانه",
-  "base_salary"
- ],
- [
-  "مدت قرارداد:",
-  "contract_duration"
- ],
- [
-  "مزد روزانه |",
-  "daily_wage"
- ],
- [
-  "مسکن ماهیانه",
-  "housing_allowance"
- ],
- [
-  "مشاور حقوقی:",
-  "lawyer_name"
- ],
- [
-  "موظفند حداقل",
-  "notice_period"
- ],
- [
-  "میزان مهرات:",
-  "employee_skill"
- ],
- [
-  "و تلفن همراه",
-  "employee_phone"
- ],
- [
-  "و شماره تماس",
-  "company_phone"
- ],
- [
-  "وظایف کارگر:",
-  "job_title"
- ],
- [
-  "| حق مسکن |",
-  "housing_allowance"
- ],
- [
-  "آقای / خانم",
-  "employee_name"
- ],
- [
-  "آن از تاریخ",
-  "contract_start_date"
- ],
- [
-  "این قرارداد",
-  "contract_duration"
- ],
- [
-  "بن کارگری |",
-  "grocery_allowance"
- ],
- [
-  "پرداخت مبلغ",
-  "penalty_amount"
- ],
- [
-  "تاریخ تولد:",
-  "employee_birthdate"
- ],
- [
-  "حقوق ماهانه",
-  "salary"
- ],
- [
-  "خانم / آقای",
-  "employee_name"
- ],
- [
-  "ساعات تدریس",
-  "total_hours"
- ],
- [
-  "سایر مزایا:",
-  "other_benefits"
- ],
- [
-  "فروش در محل",
-  "work_location"
- ],
- [
-  "مجموع ساعات",
-  "total_hours"
- ],
- [
-  "محرمانگی تا",
-  "n_years"
- ],
- [
-  "مدت قرارداد",
-  "duration"
- ],
- [
-  "مدیریت مبلغ",
-  "management_allowance"
- ],
- [
-  "مزد ماهیانه",
-  "base_salary"
- ],
- [
-  "میزان مهارت",
-  "skill_level"
- ],
- [
-  "نوع قرارداد",
-  "contract_type"
- ],
- [
-  "و خانم/آقای",
-  "secretary_name"
- ],
- [
-  "و شماره ملی",
-  "employee_national_id"
- ],
- [
-  "واقع در محل",
-  "work_location_name"
- ],
- [
-  "(30 روز) |",
-  "monthly_salary"
- ],
- [
-  "انجام کار:",
-  "work_location"
- ],
- [
-  "به ازای هر",
-  "unit"
- ],
- [
-  "پایه سنوات",
-  "seniority_allowance"
- ],
- [
-  "تلفن همراه",
-  "employee_phone"
- ],
- [
-  "حساب شماره",
-  "bank_account"
- ],
- [
-  "حق التدریس",
-  "fee_per_hour"
- ],
- [
-  "حق اولاد |",
-  "child_allowance"
- ],
- [
-  "شماره ثبت:",
-  "employer_id"
- ],
- [
-  "شماره کارت",
-  "bank_card"
- ],
- [
-  "عائله‌مندی",
-  "family_allowance"
- ],
- [
-  "قانون کار،",
-  "weekly_hours"
- ],
- [
-  "کار در شهر",
-  "city"
- ],
- [
-  "کد اقتصادی",
-  "economic_code"
- ],
- [
-  "مدیر فروش:",
-  "work_address"
- ],
- [
-  "مزد روزانه",
-  "daily_wage"
- ],
- [
-  "و آقا/خانم",
-  "employee_name"
- ],
- [
-  "و در تاریخ",
-  "contract_end_date"
- ],
- [
-  "و معتبر تا",
-  "duration"
- ],
- [
-  "وجه التزام",
-  "penalty_amount"
- ],
- [
-  "وضعیت تأهل",
-  "marital_status"
- ],
- [
-  "(کارگاه):",
-  "work_location"
- ],
- [
-  "| | جمع |",
-  "total_salary"
- ],
- [
-  "با زیربنا",
-  "area"
- ],
- [
-  "با کاربری",
-  "usage"
- ],
- [
-  "بازاریاب:",
-  "marketer_name"
- ],
- [
-  "حق مسکن |",
-  "housing_allowance"
- ],
- [
-  "حق‌الزحمه",
-  "fee"
- ],
- [
-  "خانم/آقای",
-  "secretary_name"
- ],
- [
-  "در روزهای",
-  "work_days"
- ],
- [
-  "ساعات کار",
-  "working_hours"
- ],
- [
-  "ساعت کار:",
-  "working_hours"
- ],
- [
-  "شماره ثبت",
-  "registration_number"
- ],
- [
-  "قانون کار",
-  "weekly_hours"
- ],
- [
-  "ماهیانه :",
-  "base_salary"
- ],
- [
-  "مدیرعامل:",
-  "ceo_name"
- ],
- [
-  "می‌‌یابد:",
-  "job_title"
- ],
- [
-  "و دورنگار",
-  "employer_fax"
- ],
- [
-  "و کارگاه:",
-  "workplace_address"
- ],
- [
-  "وکیل مبلغ",
-  "fee"
- ],
- [
-  "/ خانم :",
-  "employer_name"
- ],
- [
-  "آقا خانم",
-  "employee_name"
- ],
- [
-  "آن تاریخ",
-  "contract_end_date"
- ],
- [
-  "از تاریخ",
-  "start_date"
- ],
- [
-  "به عنوان",
-  "job_title"
- ],
- [
-  "بین شرکت",
-  "company_name"
- ],
- [
-  "تا تاریخ",
-  "termination_date"
- ],
- [
-  "حسابدار:",
-  "accountant_name"
- ],
- [
-  "حق اولاد",
-  "child_allowance"
- ],
- [
-  "در تاریخ",
-  "contract_date"
- ],
- [
-  "در نشانی",
-  "work_address"
- ],
- [
-  "روزانه |",
-  "daily_wage"
- ],
- [
-  "ساعت کار",
-  "weekly_hours"
- ],
- [
-  "شده و تا",
-  "confidentiality_period"
- ],
- [
-  "صالح شهر",
-  "jurisdiction_city"
- ],
- [
-  "فروشنده:",
-  "work_address"
- ],
- [
-  "قرارداد:",
-  "contract_date"
- ],
- [
-  "کارآموز:",
-  "trainee_name"
- ],
- [
-  "کارفرما:",
-  "employer_name"
- ],
- [
-  "کارگری |",
-  "grocery_allowance"
- ],
- [
-  "ماهانه :",
-  "attraction_allowance"
- ],
- [
-  "معتبر تا",
-  "duration"
- ],
- [
-  "نزد بانک",
-  "bank_name"
- ],
- [
-  "و جمع کل",
-  "total_salary"
- ],
- [
-  "و مسکن :",
-  "housing_allowance"
- ],
- [
-  "| جمع |",
-  "total_salary"
- ],
- [
-  "آزمایشی",
-  "probation_period"
- ],
- [
-  "ازای هر",
-  "unit"
- ],
- [
-  "اقتصادی",
-  "economic_code"
- ],
- [
-  "التدریس",
-  "fee_per_hour"
- ],
- [
-  "اولاد |",
-  "child_allowance"
- ],
- [
-  "با پلاک",
-  "vehicle_plate_number"
- ],
- [
-  "به صورت",
-  "contract_type"
- ],
- [
-  "پرستار:",
-  "nanny_name"
- ],
- [
-  "تحصیلات",
-  "education_level"
- ],
- [
-  "حق مسکن",
-  "housing_allowance"
- ],
- [
-  "در قسمت",
-  "work_department"
- ],
- [
-  "دورنگار",
-  "employer_fax"
- ],
- [
-  "ساختمان",
-  "building_name"
- ],
- [
-  "سنوات |",
-  "seniority_allowance"
- ],
- [
-  "قرارداد",
-  "contract_duration"
- ],
- [
-  "کارگاه:",
-  "workplace_address"
- ],
- [
-  "کارمند:",
-  "employee_name"
- ],
- [
-  "کد پستی",
-  "postal_code"
- ],
- [
-  "مزایا :",
-  "other_benefits"
- ],
- [
-  "نگهبان:",
-  "guard_name"
- ],
- [
-  "و فرزند",
-  "employer_father"
- ],
- [
-  "/ آقای",
-  "employee_name"
- ],
- [
-  "آموزشی",
-  "subjects_table"
- ],
- [
-  "التزام",
-  "penalty_amount"
- ],
- [
-  "به حجم",
-  "word_count"
- ],
- [
-  "به مدت",
-  "duration"
- ],
- [
-  "جمع کل",
-  "total_salary"
- ],
- [
-  "حق جذب",
-  "attraction_allowance"
- ],
- [
-  "حقوقی:",
-  "lawyer_name"
- ],
- [
-  "در بخش",
-  "department"
- ],
- [
-  "در شهر",
-  "city"
- ],
- [
-  "در محل",
-  "work_location"
- ],
- [
-  "روز) |",
-  "monthly_salary"
- ],
- [
-  "روزانه",
-  "seniority_allowance"
- ],
- [
-  "روزهای",
-  "work_days"
- ],
- [
-  "زیربنا",
-  "area"
- ],
- [
-  "کاربری",
-  "usage"
- ],
- [
-  "کارگری",
-  "food_allowance"
- ],
- [
-  "ماهانه",
-  "salary"
- ],
- [
-  "مترجم:",
-  "translator_name"
- ],
- [
-  "مزایا:",
-  "other_benefits"
- ],
- [
-  "مسکن :",
-  "housing_allowance"
- ],
- [
-  "مسکن |",
-  "housing_allowance"
- ],
- [
-  "مشاور:",
-  "consultant_name"
- ],
- [
-  "مندی :",
-  "child_allowance"
- ],
- [
-  "مهرات:",
-  "employee_skill"
- ],
- [
-  "نشانی:",
-  "employer_address"
- ],
- [
-  "و تلفن",
-  "employer_phone"
- ],
- [
-  "و مسکن",
-  "housing_food_allowance"
- ],
- [
-  "اولاد",
-  "child_allowance"
- ],
- [
-  "ایمیل",
-  "email"
- ],
- [
-  "پروژه",
-  "project_type"
- ],
- [
-  "تدریس",
-  "total_hours"
- ],
- [
-  "تولد:",
-  "employee_birthdate"
- ],
- [
-  "جمع |",
-  "total_salary"
- ],
- [
-  "حداقل",
-  "notice_period"
- ],
- [
-  "خودرو",
-  "vehicle_type"
- ],
- [
-  "ساعتی",
-  "base_salary"
- ],
- [
-  "سنوات",
-  "seniority"
- ],
- [
-  "عنوان",
-  "job_title"
- ],
- [
-  "فروش:",
-  "work_address"
- ],
- [
-  "لغایت",
-  "end_date"
- ],
- [
-  "مدرس:",
-  "teacher_name"
- ],
- [
-  "مربی:",
-  "trainer_name"
- ],
- [
-  "مزایا",
-  "other_allowances"
- ],
- [
-  "موکل:",
-  "client_name"
- ],
- [
-  "مهارت",
-  "skill_level"
- ],
- [
-  "وکالت",
-  "license_number"
- ],
- [
-  "وکیل:",
-  "lawyer_name"
- ],
- [
-  "همراه",
-  "employee_phone"
- ],
- [
-  "آقای",
-  "employee_name"
- ],
- [
-  "بانک",
-  "bank_name"
- ],
- [
-  "پستی",
-  "postal_code"
- ],
- [
-  "پلاک",
-  "vehicle_plate_number"
- ],
- [
-  "تأهل",
-  "marital_status"
- ],
- [
-  "ثبت:",
-  "employer_id"
- ],
- [
-  "حقوق",
-  "salary"
- ],
- [
-  "رشته",
-  "field"
- ],
- [
-  "شامل",
-  "document_type"
- ],
- [
-  "شرکت",
-  "company_name"
- ],
- [
-  "شعبه",
-  "bank_branch"
- ],
- [
-  "صورت",
-  "contract_type"
- ],
- [
-  "قسمت",
-  "work_department"
- ],
- [
-  "کار،",
-  "weekly_hours"
- ],
- [
-  "کار:",
-  "work_location"
- ],
- [
-  "کارت",
-  "bank_card"
- ],
- [
-  "مسکن",
-  "housing_allowance"
- ],
- [
-  "مورخ",
-  "original_contract_date"
- ],
- [
-  "و تا",
-  "confidentiality_period"
- ],
- [
-  "بخش",
-  "department"
- ],
- [
-  "ثبت",
-  "registration_number"
- ],
- [
-  "جذب",
-  "attraction_allowance"
- ],
- [
-  "جمع",
-  "total_salary"
- ],
- [
-  "حجم",
-  "word_count"
- ],
- [
-  "سمت",
-  "position"
- ],
- [
-  "شهر",
-  "city"
- ],
- [
-  "کار",
-  "weekly_hours"
- ],
- [
-  "کسر",
-  "deduction_percent"
- ],
- [
-  "محل",
-  "work_location"
- ],
- [
-  "مدت",
-  "duration"
- ],
- [
-  "کل",
-  "total_salary"
- ],
- [
-  "هر",
-  "unit"
+{
+ "keywords": [
+  [
+   "کارفرما/ نماینده قانونی کارفرما آقای/خانم/شرکت",
+   "employer_name"
+  ],
+  [
+   "هزنه اقلام مصرفی خانوار (بن کارگری)ماهیانه",
+   "grocery_allowance"
+  ],
+  [
+   "غیرمستقیم، امکان پیگیری قضایی، وجه التزام",
+   "penalty_amount"
+  ],
+  [
+   "اقلام مصرفی خانوار (بن کارگری) ماهیانه",
+   "grocery_allowance"
+  ],
+  [
+   "اقلام مصرفی خانوار (بن کارگری)ماهیانه",
+   "grocery_allowance"
+  ],
+  [
+   "نماینده قانونی کارفرما آقای/خانم/شرکت",
+   "employer_name"
+  ],
+  [
+   "توافق نمودند قرارداد همکاری از تاریخ",
+   "extension_start_date"
+  ],
+  [
+   "پرداخت میشود: الف) مزد مبنا ماهیانه",
+   "base_salary"
+  ],
+  [
+   "محرمانگی، متخلف موظف به پرداخت مبلغ",
+   "penalty_amount"
+  ],
+  [
+   "آدرس محل کارفرما و اشتغال فروشنده:",
+   "work_address"
+  ],
+  [
+   "از اشتغال راننده جهت رانندگی خودرو",
+   "vehicle_type"
+  ],
+  [
+   "ریال بوده و فوق‌العاده مدیریت مبلغ",
+   "management_allowance"
+  ],
+  [
+   "طرفین قرارداد کارفرما: آقا / خانم:",
+   "employer_name"
+  ],
+  [
+   "براساس توافق با کارفرما در روزهای",
+   "work_days"
+  ],
+  [
+   "یک طرف به نمایندگی جناب آقای/خانم",
+   "employer_representative"
+  ],
+  [
+   "مابین کارفرما و فروشنده در تاریخ",
+   "contract_date"
+  ],
+  [
+   "مصرفی خانوار (بن کارگری) ماهیانه",
+   "grocery_allowance"
+  ],
+  [
+   "اشتغال راننده جهت رانندگی خودرو",
+   "vehicle_type"
+  ],
+  [
+   "روزهای شنبه تا چهارشنبه از ساعت",
+   "morning_start"
+  ],
+  [
+   "که کارگر به آن اشتغال می‌‌یابد:",
+   "job_title"
+  ],
+  [
+   "مابین کارفرما و نگهبان در تاریخ",
+   "contract_date"
+  ],
+  [
+   "محل کارفرما و اشتغال مدیر فروش:",
+   "work_address"
+  ],
+  [
+   "مصرفی خانوار (بن کارگری)ماهیانه",
+   "grocery_allowance"
+  ],
+  [
+   "از این قرارداد، مراجع صالح شهر",
+   "jurisdiction_city"
+  ],
+  [
+   "امکان پیگیری قضایی، وجه التزام",
+   "penalty_amount"
+  ],
+  [
+   "طرف به نمایندگی جناب آقای/خانم",
+   "employer_representative"
+  ],
+  [
+   "کارگر (یا کارمند): آقا / خانم:",
+   "employee_name"
+  ],
+  [
+   "نظر به اتمام مدت قرارداد شماره",
+   "original_contract_number"
+  ],
+  [
+   "نمودند قرارداد همکاری از تاریخ",
+   "extension_start_date"
+  ],
+  [
+   "همچنین روزهای پنج شنبه از ساعت",
+   "thursday_start"
+  ],
+  [
+   "آدرس و تلفن محل کار (کارگاه):",
+   "work_location"
+  ],
+  [
+   "است از اشتغال کارمند به عنوان",
+   "job_title"
+  ],
+  [
+   "است. (۲) این قرارداد از تاریخ",
+   "contract_start_date"
+  ],
+  [
+   "بوده و فوق‌العاده مدیریت مبلغ",
+   "management_allowance"
+  ],
+  [
+   "تمام‌وقت یا پاره‌وقت از تاریخ",
+   "start_date"
+  ],
+  [
+   "حقوق و مزایا شامل مزد ماهیانه",
+   "base_salary"
+  ],
+  [
+   "قانونی کارفرما آقای/خانم/شرکت",
+   "employer_name"
+  ],
+  [
+   "کار: این قرارداد کار از تاریخ",
+   "contract_start_date"
+  ],
+  [
+   "محل کارفرما و اشتغال فروشنده:",
+   "work_address"
+  ],
+  [
+   "مدت قرارداد : مدت این قرارداد",
+   "contract_duration"
+  ],
+  [
+   "مزد ثابت / مبنا روزانه/ ساعتی",
+   "base_salary"
+  ],
+  [
+   "(۱) نوع قرارداد حاضر به صورت",
+   "contract_type"
+  ],
+  [
+   "/ ماهانه کارگر به حساب شماره",
+   "bank_account_number"
+  ],
+  [
+   "قرارداد : انجام خدمت در قسمت",
+   "work_department"
+  ],
+  [
+   "قرارداد کارفرما: آقا / خانم:",
+   "employer_name"
+  ],
+  [
+   "کارفرما و مدیر فروش در تاریخ",
+   "contract_date"
+  ],
+  [
+   "کارگر به آن اشتغال می‌‌یابد:",
+   "job_title"
+  ],
+  [
+   "میشود: الف) مزد مبنا ماهیانه",
+   "base_salary"
+  ],
+  [
+   "السعی : 4-1) حقوق ماهیانه :",
+   "base_salary"
+  ],
+  [
+   "این قرارداد، مراجع صالح شهر",
+   "jurisdiction_city"
+  ],
+  [
+   "کارفرما و اشتغال مدیر فروش:",
+   "work_address"
+  ],
+  [
+   "محل انجام قرارداد و کارگاه:",
+   "workplace_address"
+  ],
+  [
+   "میشود از یک طرف؛ و آقا/خانم",
+   "employee_name"
+  ],
+  [
+   "از اشتغال مدیر فروش در محل",
+   "work_location"
+  ],
+  [
+   "به اتمام مدت قرارداد شماره",
+   "original_contract_number"
+  ],
+  [
+   "به نمایندگی جناب آقای/خانم",
+   "employer_representative"
+  ],
+  [
+   "تبصره ۱ ماده ۵۱ قانون کار،",
+   "weekly_hours"
+  ],
+  [
+   "توافق با کارفرما در روزهای",
+   "work_days"
+  ],
+  [
+   "خانوار (بن کارگری) ماهیانه",
+   "grocery_allowance"
+  ],
+  [
+   "ریال 4-3) خواربار و مسکن :",
+   "housing_allowance"
+  ],
+  [
+   "ریال 4-4) کمک عائله مندی :",
+   "child_allowance"
+  ],
+  [
+   "ریال. د) پایه سنوات روزانه",
+   "seniority_allowance"
+  ],
+  [
+   "کارفرما و فروشنده در تاریخ",
+   "contract_date"
+  ],
+  [
+   "ماهانه کارگر به حساب شماره",
+   "bank_account_number"
+  ],
+  [
+   "هریک از طرفین موظفند حداقل",
+   "notice_period"
+  ],
+  [
+   "از اشتغال کارمند به عنوان",
+   "job_title"
+  ],
+  [
+   "است. این قرارداد از تاریخ",
+   "start_date"
+  ],
+  [
+   "پرداخت حقوق به حساب شماره",
+   "bank_account"
+  ],
+  [
+   "تبصره ۱ ماده ۵۱ قانون کار",
+   "weekly_hours"
+  ],
+  [
+   "ثابت / مبنا روزانه/ ساعتی",
+   "base_salary"
+  ],
+  [
+   "خانوار (بن کارگری)ماهیانه",
+   "grocery_allowance"
+  ],
+  [
+   "ریال 4-2) حق جذب ماهانه :",
+   "attraction_allowance"
+  ],
+  [
+   "ریال. پ) حق اولاد ماهیانه",
+   "child_allowance"
+  ],
+  [
+   "ریال. ج) حق اولاد ماهیانه",
+   "child_allowance"
+  ],
+  [
+   "شماره شناسنامه/شماره ثبت:",
+   "employer_id"
+  ],
+  [
+   "قرارداد : مدت این قرارداد",
+   "contract_duration"
+  ],
+  [
+   "کارفرما و اشتغال فروشنده:",
+   "work_address"
+  ],
+  [
+   "کارفرما و نگهبان در تاریخ",
+   "contract_date"
+  ],
+  [
+   "متخلف موظف به پرداخت مبلغ",
+   "penalty_amount"
+  ],
+  [
+   "(۲) این قرارداد از تاریخ",
+   "contract_start_date"
+  ],
+  [
+   "(یا کارمند): آقا / خانم:",
+   "employee_name"
+  ],
+  [
+   "| حقوق ماهانه (30 روز) |",
+   "monthly_salary"
+  ],
+  [
+   "5) تاریخ انعقاد قرارداد:",
+   "contract_date"
+  ],
+  [
+   "این قرارداد کار از تاریخ",
+   "contract_start_date"
+  ],
+  [
+   "پیگیری قضایی، وجه التزام",
+   "penalty_amount"
+  ],
+  [
+   "جابه جایی محل کار در شهر",
+   "city"
+  ],
+  [
+   "راننده جهت رانندگی خودرو",
+   "vehicle_type"
+  ],
+  [
+   "ریال. ب) حق مسکن ماهیانه",
+   "housing_allowance"
+  ],
+  [
+   "شنبه تا چهارشنبه از ساعت",
+   "morning_start"
+  ],
+  [
+   "نوع قرارداد حاضر به صورت",
+   "contract_type"
+  ],
+  [
+   "و تلفن محل کار (کارگاه):",
+   "work_location"
+  ],
+  [
+   "و فوق‌العاده مدیریت مبلغ",
+   "management_allowance"
+  ],
+  [
+   "و مزایا شامل مزد ماهیانه",
+   "base_salary"
+  ],
+  [
+   "اتمام مدت قرارداد شماره",
+   "original_contract_number"
+  ],
+  [
+   "است که شروع آن از تاریخ",
+   "contract_start_date"
+  ],
+  [
+   "اشتغال مدیر فروش در محل",
+   "work_location"
+  ],
+  [
+   "انجام قرارداد و کارگاه:",
+   "workplace_address"
+  ],
+  [
+   "انجام کار ، واقع در محل",
+   "work_location_name"
+  ],
+  [
+   "بین شرکت /آقای / خانم :",
+   "employer_name"
+  ],
+  [
+   "تبصره و 3 نسخه در تاریخ",
+   "contract_signing_date"
+  ],
+  [
+   "روزهای پنج شنبه از ساعت",
+   "thursday_start"
+  ],
+  [
+   "قرارداد همکاری از تاریخ",
+   "extension_start_date"
+  ],
+  [
+   "قرارداد، مراجع صالح شهر",
+   "jurisdiction_city"
+  ],
+  [
+   "نمایندگی جناب آقای/خانم",
+   "employer_representative"
+  ],
+  [
+   "اشتغال کارمند به عنوان",
+   "job_title"
+  ],
+  [
+   "به آن اشتغال می‌‌یابد:",
+   "job_title"
+  ],
+  [
+   "تدریس سرفصل‌های آموزشی",
+   "subjects_table"
+  ],
+  [
+   "تعهد محرمانگی از تاریخ",
+   "effective_date"
+  ],
+  [
+   "تلفن محل کار (کارگاه):",
+   "work_location"
+  ],
+  [
+   "حقوق ماهانه (30 روز) |",
+   "monthly_salary"
+  ],
+  [
+   "ریال ۴-۵) سایر مزایا :",
+   "other_benefits"
+  ],
+  [
+   "فوق‌العاده مدیریت مبلغ",
+   "management_allowance"
+  ],
+  [
+   "کارفرما آقای/خانم/شرکت",
+   "employer_name"
+  ],
+  [
+   "ماه و تعهد محرمانگی تا",
+   "n_years"
+  ],
+  [
+   "محل انجام کار در نشانی",
+   "work_address"
+  ],
+  [
+   "مزایا شامل مزد ماهیانه",
+   "base_salary"
+  ],
+  [
+   ": 4-1) حقوق ماهیانه :",
+   "base_salary"
+  ],
+  [
+   "4-3) خواربار و مسکن :",
+   "housing_allowance"
+  ],
+  [
+   "4-4) کمک عائله مندی :",
+   "child_allowance"
+  ],
+  [
+   "از طرفین موظفند حداقل",
+   "notice_period"
+  ],
+  [
+   "از یک طرف؛ و آقا/خانم",
+   "employee_name"
+  ],
+  [
+   "الف) مزد مبنا ماهیانه",
+   "base_salary"
+  ],
+  [
+   "تاریخ انعقاد قرارداد:",
+   "contract_date"
+  ],
+  [
+   "ریال که به شماره کارت",
+   "bank_card"
+  ],
+  [
+   "می باشد و آقای / خانم",
+   "employee_name"
+  ],
+  [
+   "--- | | مزد روزانه |",
+   "daily_wage"
+  ],
+  [
+   ": انجام خدمت در قسمت",
+   "work_department"
+  ],
+  [
+   "/ مبنا روزانه/ ساعتی",
+   "base_salary"
+  ],
+  [
+   "۱ ماده ۵۱ قانون کار،",
+   "weekly_hours"
+  ],
+  [
+   "4-2) حق جذب ماهانه :",
+   "attraction_allowance"
+  ],
+  [
+   "این الحاقیه در تاریخ",
+   "contract_date"
+  ],
+  [
+   "این قرارداد از تاریخ",
+   "contract_start_date"
+  ],
+  [
+   "این قرارداد بین شرکت",
+   "company_name"
+  ],
+  [
+   "این قرارداد تا تاریخ",
+   "termination_date"
+  ],
+  [
+   "این قرارداد در تاریخ",
+   "contract_date"
+  ],
+  [
+   "با کارفرما در روزهای",
+   "work_days"
+  ],
+  [
+   "د) پایه سنوات روزانه",
+   "seniority_allowance"
+  ],
+  [
+   "دارای شناسنامه شماره",
+   "employer_id"
+  ],
+  [
+   "ریال. و) سایر مزایا:",
+   "other_benefits"
+  ],
+  [
+   "شود. و آقای / خانم :",
+   "employee_name"
+  ],
+  [
+   "طرف اول؛ و آقای/خانم",
+   "employee_name"
+  ],
+  [
+   "قرارداد حاضر به صورت",
+   "contract_type"
+  ],
+  [
+   "قرارداد کار از تاریخ",
+   "contract_start_date"
+  ],
+  [
+   "کارفرما: آقا / خانم:",
+   "employer_name"
+  ],
+  [
+   "کارمند): آقا / خانم:",
+   "employee_name"
+  ],
+  [
+   "کد ملی یا کد اقتصادی",
+   "economic_or_national_code"
+  ],
+  [
+   "مدت قرارداد از تاریخ",
+   "start_date"
+  ],
+  [
+   "و مدیر فروش در تاریخ",
+   "contract_date"
+  ],
+  [
+   "یا پاره‌وقت از تاریخ",
+   "start_date"
+  ],
+  [
+   "(بن کارگری) ماهیانه",
+   "grocery_allowance"
+  ],
+  [
+   "۱ ماده ۵۱ قانون کار",
+   "weekly_hours"
+  ],
+  [
+   "4-1) حقوق ماهیانه :",
+   "base_salary"
+  ],
+  [
+   "آن اشتغال می‌‌یابد:",
+   "job_title"
+  ],
+  [
+   "پ) حق اولاد ماهیانه",
+   "child_allowance"
+  ],
+  [
+   "تا چهارشنبه از ساعت",
+   "morning_start"
+  ],
+  [
+   "ج) حق اولاد ماهیانه",
+   "child_allowance"
+  ],
+  [
+   "جایی محل کار در شهر",
+   "city"
+  ],
+  [
+   "حق‌الزحمه وکیل مبلغ",
+   "fee"
+  ],
+  [
+   "ریال. ث) پایه سنوات",
+   "seniority_allowance"
+  ],
+  [
+   "شرکت /آقای / خانم :",
+   "employer_name"
+  ],
+  [
+   "شروع شده و در تاریخ",
+   "contract_end_date"
+  ],
+  [
+   "شناسنامه/شماره ثبت:",
+   "employer_id"
+  ],
+  [
+   "طرف اول؛ و آقا/خانم",
+   "employee_name"
+  ],
+  [
+   "کارفرما: آقا / خانم",
+   "employer_name"
+  ],
+  [
+   "کارگر به حساب شماره",
+   "bank_account_number"
+  ],
+  [
+   "که شروع آن از تاریخ",
+   "contract_start_date"
+  ],
+  [
+   "مالک/مدیریت ساختمان",
+   "building_name"
+  ],
+  [
+   "موظف به پرداخت مبلغ",
+   "penalty_amount"
+  ],
+  [
+   "نوع قرارداد به صورت",
+   "contract_type"
+  ],
+  [
+   "و اشتغال مدیر فروش:",
+   "work_address"
+  ],
+  [
+   "(بن کارگری)ماهیانه",
+   "grocery_allowance"
+  ],
+  [
+   "انجام خدمت در قسمت",
+   "work_department"
+  ],
+  [
+   "انجام کار در نشانی",
+   "work_address"
+  ],
+  [
+   "ب) حق مسکن ماهیانه",
+   "housing_allowance"
+  ],
+  [
+   "باشد و آقای / خانم",
+   "employee_name"
+  ],
+  [
+   "حقوق به حساب شماره",
+   "bank_account"
+  ],
+  [
+   "طرفین موظفند حداقل",
+   "notice_period"
+  ],
+  [
+   "کار و وظایف کارگر:",
+   "job_title"
+  ],
+  [
+   "کارمند: آقا / خانم",
+   "employee_name"
+  ],
+  [
+   "ماده ۵۱ قانون کار،",
+   "weekly_hours"
+  ],
+  [
+   "مبنا روزانه/ ساعتی",
+   "base_salary"
+  ],
+  [
+   "مدیر فروش در تاریخ",
+   "contract_date"
+  ],
+  [
+   "نوع و میزان مهرات:",
+   "employee_skill"
+  ],
+  [
+   "و تعهد محرمانگی تا",
+   "n_years"
+  ],
+  [
+   "و فروشنده در تاریخ",
+   "contract_date"
+  ],
+  [
+   "یک طرف؛ و آقا/خانم",
+   "employee_name"
+  ],
+  [
+   ": مدت این قرارداد",
+   "contract_duration"
+  ],
+  [
+   "۴-۵) سایر مزایا :",
+   "other_benefits"
+  ],
+  [
+   "4) محل انجام کار:",
+   "work_location"
+  ],
+  [
+   "اشتغال مدیر فروش:",
+   "work_address"
+  ],
+  [
+   "به شماره شناسنامه",
+   "employee_certificate_id"
+  ],
+  [
+   "پاره‌وقت از تاریخ",
+   "start_date"
+  ],
+  [
+   "پایه سنوات روزانه",
+   "seniority_allowance"
+  ],
+  [
+   "جهت رانندگی خودرو",
+   "vehicle_type"
+  ],
+  [
+   "حق‌الزحمه ماهیانه",
+   "salary"
+  ],
+  [
+   "حقوق ماهیانه مبلغ",
+   "monthly_salary"
+  ],
+  [
+   "شرکت / آقا / خانم",
+   "employer_name"
+  ],
+  [
+   "قرارداد و کارگاه:",
+   "workplace_address"
+  ],
+  [
+   "قضایی، وجه التزام",
+   "penalty_amount"
+  ],
+  [
+   "کار ، واقع در محل",
+   "work_location_name"
+  ],
+  [
+   "کارفرما در روزهای",
+   "work_days"
+  ],
+  [
+   "کارفرما: آقا/خانم",
+   "employer_name"
+  ],
+  [
+   "ماده ۵۱ قانون کار",
+   "weekly_hours"
+  ],
+  [
+   "ماهانه (30 روز) |",
+   "monthly_salary"
+  ],
+  [
+   "مجموع ساعات تدریس",
+   "total_hours"
+  ],
+  [
+   "محرمانگی از تاریخ",
+   "effective_date"
+  ],
+  [
+   "محل کار (کارگاه):",
+   "work_location"
+  ],
+  [
+   "مدت قرارداد شماره",
+   "original_contract_number"
+  ],
+  [
+   "ملی یا کد اقتصادی",
+   "economic_or_national_code"
+  ],
+  [
+   "و 3 نسخه در تاریخ",
+   "contract_signing_date"
+  ],
+  [
+   "و اشتغال فروشنده:",
+   "work_address"
+  ],
+  [
+   "و کارگر آقای/خانم",
+   "employee_name"
+  ],
+  [
+   "و نگهبان در تاریخ",
+   "contract_date"
+  ],
+  [
+   "| | پایه سنوات |",
+   "seniority_allowance"
+  ],
+  [
+   "| | مزد روزانه |",
+   "daily_wage"
+  ],
+  [
+   "اشتغال می‌‌یابد:",
+   "job_title"
+  ],
+  [
+   "الحاقیه در تاریخ",
+   "contract_date"
+  ],
+  [
+   "اول؛ و آقای/خانم",
+   "employee_name"
+  ],
+  [
+   "پرستار: آقا/خانم",
+   "nanny_name"
+  ],
+  [
+   "پنج شنبه از ساعت",
+   "thursday_start"
+  ],
+  [
+   "تعهد محرمانگی تا",
+   "n_years"
+  ],
+  [
+   "چهارشنبه از ساعت",
+   "morning_start"
+  ],
+  [
+   "حق اولاد ماهیانه",
+   "child_allowance"
+  ],
+  [
+   "خواربار و مسکن :",
+   "housing_allowance"
+  ],
+  [
+   "ریال، سایر مزایا",
+   "other_allowances"
+  ],
+  [
+   "سرفصل‌های آموزشی",
+   "subjects_table"
+  ],
+  [
+   "شامل مزد ماهیانه",
+   "base_salary"
+  ],
+  [
+   "شروع آن از تاریخ",
+   "contract_start_date"
+  ],
+  [
+   "فروشنده در تاریخ",
+   "contract_date"
+  ],
+  [
+   "قرارداد بین شرکت",
+   "company_name"
+  ],
+  [
+   "قرارداد تا تاریخ",
+   "termination_date"
+  ],
+  [
+   "قرارداد در تاریخ",
+   "contract_date"
+  ],
+  [
+   "کارمند: آقا/خانم",
+   "secretary_name"
+  ],
+  [
+   "کمک عائله مندی :",
+   "child_allowance"
+  ],
+  [
+   "که به شماره کارت",
+   "bank_card"
+  ],
+  [
+   "مدت دوره آزمایشی",
+   "probation_period"
+  ],
+  [
+   "مدیر فروش در محل",
+   "work_location"
+  ],
+  [
+   "مزد مبنا ماهیانه",
+   "base_salary"
+  ],
+  [
+   "و پایان آن تاریخ",
+   "contract_end_date"
+  ],
+  [
+   "و شماره شناسنامه",
+   "birth_certificate_number"
+  ],
+  [
+   "| | بن کارگری |",
+   "grocery_allowance"
+  ],
+  [
+   "3 نسخه در تاریخ",
+   "contract_signing_date"
+  ],
+  [
+   "6) مدت قرارداد:",
+   "contract_duration"
+  ],
+  [
+   "اشتغال فروشنده:",
+   "work_address"
+  ],
+  [
+   "انعقاد قرارداد:",
+   "contract_date"
+  ],
+  [
+   "اول؛ و آقا/خانم",
+   "employee_name"
+  ],
+  [
+   "حق جذب ماهانه :",
+   "attraction_allowance"
+  ],
+  [
+   "حق مسکن ماهیانه",
+   "housing_allowance"
+  ],
+  [
+   "دارای شماره ملی",
+   "national_id"
+  ],
+  [
+   "ریال به ازای هر",
+   "unit"
+  ],
+  [
+   "ریال، بن کارگری",
+   "food_allowance"
+  ],
+  [
+   "شرکت آقا / خانم",
+   "employer_name"
+  ],
+  [
+   "طرف؛ و آقا/خانم",
+   "employee_name"
+  ],
+  [
+   "قرارداد به صورت",
+   "contract_type"
+  ],
+  [
+   "کارگر آقای/خانم",
+   "employee_name"
+  ],
+  [
+   "کارگری) ماهیانه",
+   "grocery_allowance"
+  ],
+  [
+   "کارمند به عنوان",
+   "job_title"
+  ],
+  [
+   "مدت این قرارداد",
+   "contract_duration"
+  ],
+  [
+   "نگهبان در تاریخ",
+   "contract_date"
+  ],
+  [
+   "و آقای / خانم :",
+   "employee_name"
+  ],
+  [
+   "و پست الکترونیک",
+   "employee_email"
+  ],
+  [
+   "همکاری از تاریخ",
+   "extension_start_date"
+  ],
+  [
+   "/آقای / خانم :",
+   "employer_name"
+  ],
+  [
+   "| | حق اولاد |",
+   "child_allowance"
+  ],
+  [
+   "| پایه سنوات |",
+   "seniority_allowance"
+  ],
+  [
+   "| مزد روزانه |",
+   "daily_wage"
+  ],
+  [
+   "5) خانم / آقای",
+   "employee_name"
+  ],
+  [
+   "7) خانم / آقای",
+   "employee_name"
+  ],
+  [
+   "آقای/خانم/شرکت",
+   "employer_name"
+  ],
+  [
+   "به پرداخت مبلغ",
+   "penalty_amount"
+  ],
+  [
+   "پایان آن تاریخ",
+   "contract_end_date"
+  ],
+  [
+   "جناب آقای/خانم",
+   "employer_representative"
+  ],
+  [
+   "حقوق ماهیانه :",
+   "base_salary"
+  ],
+  [
+   "خواربار و مسکن",
+   "housing_food_allowance"
+  ],
+  [
+   "ریال، حق اولاد",
+   "child_allowance"
+  ],
+  [
+   "شده و در تاریخ",
+   "contract_end_date"
+  ],
+  [
+   "شناسنامه شماره",
+   "employer_id"
+  ],
+  [
+   "کارگری)ماهیانه",
+   "grocery_allowance"
+  ],
+  [
+   "کمک عائله‌مندی",
+   "family_allowance"
+  ],
+  [
+   "محل انجام کار:",
+   "work_location"
+  ],
+  [
+   "محل کار در شهر",
+   "city"
+  ],
+  [
+   "مراجع صالح شهر",
+   "jurisdiction_city"
+  ],
+  [
+   "و میزان مهرات:",
+   "employee_skill"
+  ],
+  [
+   "و وظایف کارگر:",
+   "job_title"
+  ],
+  [
+   "و) سایر مزایا:",
+   "other_benefits"
+  ],
+  [
+   "، واقع در محل",
+   "work_location_name"
+  ],
+  [
+   "| | حق مسکن |",
+   "housing_allowance"
+  ],
+  [
+   "| بن کارگری |",
+   "grocery_allowance"
+  ],
+  [
+   "۵۱ قانون کار،",
+   "weekly_hours"
+  ],
+  [
+   "آغاز شده و تا",
+   "confidentiality_period"
+  ],
+  [
+   "آقای / خانم :",
+   "employee_name"
+  ],
+  [
+   "اولاد ماهیانه",
+   "child_allowance"
+  ],
+  [
+   "به حساب شماره",
+   "bank_account"
+  ],
+  [
+   "به شماره کارت",
+   "bank_card"
+  ],
+  [
+   "ث) پایه سنوات",
+   "seniority_allowance"
+  ],
+  [
+   "رانندگی خودرو",
+   "vehicle_type"
+  ],
+  [
+   "روزانه/ ساعتی",
+   "base_salary"
+  ],
+  [
+   "ریال و جمع کل",
+   "total_salary"
+  ],
+  [
+   "ریال، حق مسکن",
+   "housing_allowance"
+  ],
+  [
+   "فروش در تاریخ",
+   "contract_date"
+  ],
+  [
+   "قرارداد شماره",
+   "original_contract_number"
+  ],
+  [
+   "کار (کارگاه):",
+   "work_location"
+  ],
+  [
+   "کارفرما: شرکت",
+   "company_name"
+  ],
+  [
+   "میزان تحصیلات",
+   "education_level"
+  ],
+  [
+   "نسخه در تاریخ",
+   "contract_signing_date"
+  ],
+  [
+   "و آقای / خانم",
+   "employee_name"
+  ],
+  [
+   "یا کد اقتصادی",
+   "economic_or_national_code"
+  ],
+  [
+   "/ آقا / خانم",
+   "employer_name"
+  ],
+  [
+   "| حق اولاد |",
+   "child_allowance"
+  ],
+  [
+   "۵۱ قانون کار",
+   "weekly_hours"
+  ],
+  [
+   "7) ساعت کار:",
+   "working_hours"
+  ],
+  [
+   "برنامه‌نویس:",
+   "developer_name"
+  ],
+  [
+   "به شماره ثبت",
+   "registration_number"
+  ],
+  [
+   "پایه سنوات |",
+   "seniority_allowance"
+  ],
+  [
+   "پروانه وکالت",
+   "license_number"
+  ],
+  [
+   "جذب ماهانه :",
+   "attraction_allowance"
+  ],
+  [
+   "حاضر به صورت",
+   "contract_type"
+  ],
+  [
+   "حقوق ماهیانه",
+   "base_salary"
+  ],
+  [
+   "خدمت در قسمت",
+   "work_department"
+  ],
+  [
+   "دارای کد ملی",
+   "national_code"
+  ],
+  [
+   "دوره آزمایشی",
+   "probation_period"
+  ],
+  [
+   "سایر مزایا :",
+   "other_benefits"
+  ],
+  [
+   "سنوات روزانه",
+   "seniority_allowance"
+  ],
+  [
+   "شنبه از ساعت",
+   "thursday_start"
+  ],
+  [
+   "عائله مندی :",
+   "child_allowance"
+  ],
+  [
+   "کار از تاریخ",
+   "contract_start_date"
+  ],
+  [
+   "کار در نشانی",
+   "work_address"
+  ],
+  [
+   "ماه از تاریخ",
+   "start_date"
+  ],
+  [
+   "ماهیانه مبلغ",
+   "monthly_salary"
+  ],
+  [
+   "مبنا ماهیانه",
+   "base_salary"
+  ],
+  [
+   "مدت قرارداد:",
+   "contract_duration"
+  ],
+  [
+   "مزد روزانه |",
+   "daily_wage"
+  ],
+  [
+   "مسکن ماهیانه",
+   "housing_allowance"
+  ],
+  [
+   "مشاور حقوقی:",
+   "lawyer_name"
+  ],
+  [
+   "موظفند حداقل",
+   "notice_period"
+  ],
+  [
+   "میزان مهرات:",
+   "employee_skill"
+  ],
+  [
+   "نشانی و تلفن",
+   "employer_contact"
+  ],
+  [
+   "و تلفن همراه",
+   "employee_phone"
+  ],
+  [
+   "و شماره تماس",
+   "company_phone"
+  ],
+  [
+   "وظایف کارگر:",
+   "job_title"
+  ],
+  [
+   "| حق مسکن |",
+   "housing_allowance"
+  ],
+  [
+   "آقای / خانم",
+   "employee_name"
+  ],
+  [
+   "آن از تاریخ",
+   "contract_start_date"
+  ],
+  [
+   "این قرارداد",
+   "contract_duration"
+  ],
+  [
+   "بن کارگری |",
+   "grocery_allowance"
+  ],
+  [
+   "پرداخت مبلغ",
+   "penalty_amount"
+  ],
+  [
+   "تاریخ تولد:",
+   "employee_birthdate"
+  ],
+  [
+   "حقوق ماهانه",
+   "salary"
+  ],
+  [
+   "خانم / آقای",
+   "employee_name"
+  ],
+  [
+   "ساعات تدریس",
+   "total_hours"
+  ],
+  [
+   "سایر مزایا:",
+   "other_benefits"
+  ],
+  [
+   "فروش در محل",
+   "work_location"
+  ],
+  [
+   "محرمانگی تا",
+   "n_years"
+  ],
+  [
+   "مدت قرارداد",
+   "duration"
+  ],
+  [
+   "مدیریت مبلغ",
+   "management_allowance"
+  ],
+  [
+   "مزد ماهیانه",
+   "base_salary"
+  ],
+  [
+   "میزان مهارت",
+   "skill_level"
+  ],
+  [
+   "و خانم/آقای",
+   "secretary_name"
+  ],
+  [
+   "و شماره ملی",
+   "employee_national_id"
+  ],
+  [
+   "واقع در محل",
+   "work_location_name"
+  ],
+  [
+   "(30 روز) |",
+   "monthly_salary"
+  ],
+  [
+   "آقا / خانم",
+   "employer_name"
+  ],
+  [
+   "انجام کار:",
+   "work_location"
+  ],
+  [
+   "به ازای هر",
+   "unit"
+  ],
+  [
+   "پایه سنوات",
+   "seniority"
+  ],
+  [
+   "تلفن همراه",
+   "employee_phone"
+  ],
+  [
+   "حساب شماره",
+   "bank_account"
+  ],
+  [
+   "حق التدریس",
+   "fee_per_hour"
+  ],
+  [
+   "حق اولاد |",
+   "child_allowance"
+  ],
+  [
+   "سایر مزایا",
+   "other_allowances"
+  ],
+  [
+   "شماره کارت",
+   "bank_card"
+  ],
+  [
+   "عائله‌مندی",
+   "family_allowance"
+  ],
+  [
+   "قانون کار،",
+   "weekly_hours"
+  ],
+  [
+   "کار در شهر",
+   "city"
+  ],
+  [
+   "کد اقتصادی",
+   "economic_code"
+  ],
+  [
+   "مدیر فروش:",
+   "work_address"
+  ],
+  [
+   "و آقا/خانم",
+   "employee_name"
+  ],
+  [
+   "و در تاریخ",
+   "contract_end_date"
+  ],
+  [
+   "و معتبر تا",
+   "duration"
+  ],
+  [
+   "وجه التزام",
+   "penalty_amount"
+  ],
+  [
+   "وضعیت تأهل",
+   "marital_status"
+  ],
+  [
+   "(کارگاه):",
+   "work_location"
+  ],
+  [
+   "| | جمع |",
+   "total_salary"
+  ],
+  [
+   "با زیربنا",
+   "area"
+  ],
+  [
+   "با کاربری",
+   "usage"
+  ],
+  [
+   "بازاریاب:",
+   "marketer_name"
+  ],
+  [
+   "بن کارگری",
+   "food_allowance"
+  ],
+  [
+   "به نشانی:",
+   "employer_address"
+  ],
+  [
+   "حق مسکن |",
+   "housing_allowance"
+  ],
+  [
+   "حق‌الزحمه",
+   "fee"
+  ],
+  [
+   "خانم/آقای",
+   "secretary_name"
+  ],
+  [
+   "در روزهای",
+   "work_days"
+  ],
+  [
+   "ساعات کار",
+   "working_hours"
+  ],
+  [
+   "ساعت کار:",
+   "working_hours"
+  ],
+  [
+   "شماره ثبت",
+   "registration_number"
+  ],
+  [
+   "قانون کار",
+   "weekly_hours"
+  ],
+  [
+   "ماهیانه :",
+   "base_salary"
+  ],
+  [
+   "مدیرعامل:",
+   "ceo_name"
+  ],
+  [
+   "می‌‌یابد:",
+   "job_title"
+  ],
+  [
+   "و دورنگار",
+   "employer_fax"
+  ],
+  [
+   "و کارگاه:",
+   "workplace_address"
+  ],
+  [
+   "وکیل مبلغ",
+   "fee"
+  ],
+  [
+   "/ خانم :",
+   "employer_name"
+  ],
+  [
+   "آن تاریخ",
+   "contract_end_date"
+  ],
+  [
+   "از تاریخ",
+   "start_date"
+  ],
+  [
+   "به عنوان",
+   "job_title"
+  ],
+  [
+   "بین شرکت",
+   "company_name"
+  ],
+  [
+   "تا تاریخ",
+   "termination_date"
+  ],
+  [
+   "حسابدار:",
+   "accountant_name"
+  ],
+  [
+   "حق اولاد",
+   "child_allowance"
+  ],
+  [
+   "در تاریخ",
+   "contract_date"
+  ],
+  [
+   "در نشانی",
+   "work_address"
+  ],
+  [
+   "روزانه |",
+   "daily_wage"
+  ],
+  [
+   "ساعت کار",
+   "weekly_hours"
+  ],
+  [
+   "شده و تا",
+   "confidentiality_period"
+  ],
+  [
+   "صالح شهر",
+   "jurisdiction_city"
+  ],
+  [
+   "فروشنده:",
+   "work_address"
+  ],
+  [
+   "قرارداد:",
+   "contract_date"
+  ],
+  [
+   "کارآموز:",
+   "trainee_name"
+  ],
+  [
+   "کارفرما:",
+   "employer_name"
+  ],
+  [
+   "کارگری |",
+   "grocery_allowance"
+  ],
+  [
+   "ماهانه :",
+   "attraction_allowance"
+  ],
+  [
+   "معتبر تا",
+   "duration"
+  ],
+  [
+   "نزد بانک",
+   "bank_name"
+  ],
+  [
+   "و جمع کل",
+   "total_salary"
+  ],
+  [
+   "و مسکن :",
+   "housing_allowance"
+  ],
+  [
+   "| جمع |",
+   "total_salary"
+  ],
+  [
+   "آزمایشی",
+   "probation_period"
+  ],
+  [
+   "ازای هر",
+   "unit"
+  ],
+  [
+   "اقتصادی",
+   "economic_code"
+  ],
+  [
+   "التدریس",
+   "fee_per_hour"
+  ],
+  [
+   "اولاد |",
+   "child_allowance"
+  ],
+  [
+   "با پلاک",
+   "vehicle_plate_number"
+  ],
+  [
+   "به صورت",
+   "contract_type"
+  ],
+  [
+   "پرستار:",
+   "nanny_name"
+  ],
+  [
+   "تحصیلات",
+   "education_level"
+  ],
+  [
+   "حق مسکن",
+   "housing_allowance"
+  ],
+  [
+   "در قسمت",
+   "work_department"
+  ],
+  [
+   "دورنگار",
+   "employer_fax"
+  ],
+  [
+   "ساختمان",
+   "building_name"
+  ],
+  [
+   "سنوات |",
+   "seniority_allowance"
+  ],
+  [
+   "قرارداد",
+   "contract_duration"
+  ],
+  [
+   "کارگاه:",
+   "workplace_address"
+  ],
+  [
+   "کارمند:",
+   "employee_name"
+  ],
+  [
+   "کد پستی",
+   "postal_code"
+  ],
+  [
+   "مزایا :",
+   "other_benefits"
+  ],
+  [
+   "نگهبان:",
+   "guard_name"
+  ],
+  [
+   "و فرزند",
+   "employer_father"
+  ],
+  [
+   "/ آقای",
+   "employee_name"
+  ],
+  [
+   "آموزشی",
+   "subjects_table"
+  ],
+  [
+   "التزام",
+   "penalty_amount"
+  ],
+  [
+   "به حجم",
+   "word_count"
+  ],
+  [
+   "به مدت",
+   "duration"
+  ],
+  [
+   "جمع کل",
+   "total_salary"
+  ],
+  [
+   "حق جذب",
+   "attraction_allowance"
+  ],
+  [
+   "حقوقی:",
+   "lawyer_name"
+  ],
+  [
+   "خانم :",
+   "employer_name"
+  ],
+  [
+   "در بخش",
+   "department"
+  ],
+  [
+   "در شهر",
+   "city"
+  ],
+  [
+   "در محل",
+   "work_location"
+  ],
+  [
+   "روز) |",
+   "monthly_salary"
+  ],
+  [
+   "روزانه",
+   "seniority_allowance"
+  ],
+  [
+   "روزهای",
+   "work_days"
+  ],
+  [
+   "زیربنا",
+   "area"
+  ],
+  [
+   "کاربری",
+   "usage"
+  ],
+  [
+   "کارگر:",
+   "job_title"
+  ],
+  [
+   "کارگری",
+   "food_allowance"
+  ],
+  [
+   "ماهانه",
+   "salary"
+  ],
+  [
+   "مترجم:",
+   "translator_name"
+  ],
+  [
+   "مزایا:",
+   "other_benefits"
+  ],
+  [
+   "مسکن :",
+   "housing_allowance"
+  ],
+  [
+   "مسکن |",
+   "housing_allowance"
+  ],
+  [
+   "مشاور:",
+   "consultant_name"
+  ],
+  [
+   "مندی :",
+   "child_allowance"
+  ],
+  [
+   "مهرات:",
+   "employee_skill"
+  ],
+  [
+   "نشانی:",
+   "employer_address"
+  ],
+  [
+   "و تلفن",
+   "employer_phone"
+  ],
+  [
+   "و مسکن",
+   "housing_food_allowance"
+  ],
+  [
+   "اولاد",
+   "child_allowance"
+  ],
+  [
+   "ایمیل",
+   "email"
+  ],
+  [
+   "پروژه",
+   "project_type"
+  ],
+  [
+   "تدریس",
+   "total_hours"
+  ],
+  [
+   "تولد:",
+   "employee_birthdate"
+  ],
+  [
+   "جمع |",
+   "total_salary"
+  ],
+  [
+   "حداقل",
+   "notice_period"
+  ],
+  [
+   "خودرو",
+   "vehicle_type"
+  ],
+  [
+   "ساعتی",
+   "base_salary"
+  ],
+  [
+   "سنوات",
+   "seniority"
+  ],
+  [
+   "عنوان",
+   "job_title"
+  ],
+  [
+   "فروش:",
+   "work_address"
+  ],
+  [
+   "لغایت",
+   "end_date"
+  ],
+  [
+   "مدرس:",
+   "teacher_name"
+  ],
+  [
+   "مربی:",
+   "trainer_name"
+  ],
+  [
+   "مزایا",
+   "other_allowances"
+  ],
+  [
+   "موکل:",
+   "client_name"
+  ],
+  [
+   "مهارت",
+   "skill_level"
+  ],
+  [
+   "وکالت",
+   "license_number"
+  ],
+  [
+   "وکیل:",
+   "lawyer_name"
+  ],
+  [
+   "همراه",
+   "employee_phone"
+  ],
+  [
+   "آقای",
+   "employee_name"
+  ],
+  [
+   "بانک",
+   "bank_name"
+  ],
+  [
+   "پستی",
+   "postal_code"
+  ],
+  [
+   "پلاک",
+   "vehicle_plate_number"
+  ],
+  [
+   "تأهل",
+   "marital_status"
+  ],
+  [
+   "ثبت:",
+   "employer_id"
+  ],
+  [
+   "رشته",
+   "field"
+  ],
+  [
+   "ساکن",
+   "employer_address"
+  ],
+  [
+   "شامل",
+   "document_type"
+  ],
+  [
+   "شرکت",
+   "company_name"
+  ],
+  [
+   "شعبه",
+   "bank_branch"
+  ],
+  [
+   "صورت",
+   "contract_type"
+  ],
+  [
+   "قسمت",
+   "work_department"
+  ],
+  [
+   "کار،",
+   "weekly_hours"
+  ],
+  [
+   "کار:",
+   "work_location"
+  ],
+  [
+   "کارت",
+   "bank_card"
+  ],
+  [
+   "مسکن",
+   "housing_allowance"
+  ],
+  [
+   "مورخ",
+   "original_contract_date"
+  ],
+  [
+   "و تا",
+   "confidentiality_period"
+  ],
+  [
+   "بخش",
+   "department"
+  ],
+  [
+   "ثبت",
+   "registration_number"
+  ],
+  [
+   "جذب",
+   "attraction_allowance"
+  ],
+  [
+   "حجم",
+   "word_count"
+  ],
+  [
+   "شهر",
+   "city"
+  ],
+  [
+   "کار",
+   "weekly_hours"
+  ],
+  [
+   "کسر",
+   "deduction_percent"
+  ],
+  [
+   "محل",
+   "work_location"
+  ],
+  [
+   "مدت",
+   "duration"
+  ],
+  [
+   "کل",
+   "total_salary"
+  ],
+  [
+   "هر",
+   "unit"
+  ]
+ ],
+ "pairs": [
+  [
+   "اشتغال مدیر فروش در محل",
+   "و",
+   "work_location"
+  ],
+  [
+   "نمایندگی جناب آقای/خانم",
+   "و",
+   "employer_representative"
+  ],
+  [
+   "نمایندگی جناب آقای/خانم",
+   "متولد",
+   "employer_representative"
+  ],
+  [
+   "کارفرما آقای/خانم/شرکت",
+   "EOL",
+   "employer_name"
+  ],
+  [
+   "کارفرما آقای/خانم/شرکت",
+   "فرزند",
+   "employer_name"
+  ],
+  [
+   "کارفرما آقای/خانم/شرکت",
+   "فرزند [employer_father]",
+   "employer_name"
+  ],
+  [
+   "تاریخ انعقاد قرارداد:",
+   "EOL",
+   "contract_date"
+  ],
+  [
+   "حقوق ماهانه (30 روز)",
+   "EOL",
+   "monthly_salary"
+  ],
+  [
+   "کد ملی یا کد اقتصادی",
+   "نماینده",
+   "economic_or_national_code"
+  ],
+  [
+   "مالک/مدیریت ساختمان",
+   "EOL",
+   "building_name"
+  ],
+  [
+   "مالک/مدیریت ساختمان",
+   "نماینده",
+   "building_name"
+  ],
+  [
+   "مالک/مدیریت ساختمان",
+   "نماینده [representative]",
+   "building_name"
+  ],
+  [
+   "(بن کارگری)ماهیانه",
+   "ریال",
+   "grocery_allowance"
+  ],
+  [
+   "(بن کارگری)ماهیانه",
+   "EOL",
+   "grocery_allowance"
+  ],
+  [
+   "(بن کارگری)ماهیانه",
+   "ریال.",
+   "grocery_allowance"
+  ],
+  [
+   "(بن کارگری)ماهیانه",
+   "ریال. و)",
+   "grocery_allowance"
+  ],
+  [
+   "انجام خدمت در قسمت",
+   "شرکت",
+   "work_department"
+  ],
+  [
+   "شناسنامه/شماره ثبت",
+   "EOL",
+   "employer_id"
+  ],
+  [
+   "شناسنامه/شماره ثبت",
+   "به",
+   "employer_id"
+  ],
+  [
+   "شناسنامه/شماره ثبت",
+   "به نشانی",
+   "employer_id"
+  ],
+  [
+   "کار و وظایف کارگر:",
+   "EOL",
+   "job_title"
+  ],
+  [
+   "نوع و میزان مهرات:",
+   "به",
+   "employee_skill"
+  ],
+  [
+   "اشتغال فروشنده در",
+   "و",
+   "work_location"
+  ],
+  [
+   "بن کارگری ماهیانه",
+   "ریال",
+   "grocery_allowance"
+  ],
+  [
+   "پایه سنوات روزانه",
+   "ریال",
+   "seniority_allowance"
+  ],
+  [
+   "حق‌الزحمه ماهیانه",
+   "EOL",
+   "salary"
+  ],
+  [
+   "حق‌الزحمه ماهیانه",
+   "ریال",
+   "salary"
+  ],
+  [
+   "شرکت / آقا / خانم",
+   "به",
+   "employer_name"
+  ],
+  [
+   "اشتغال می‌‌یابد:",
+   "EOL",
+   "job_title"
+  ],
+  [
+   "اشتغال نگهبان در",
+   "و",
+   "work_location"
+  ],
+  [
+   "حق اولاد ماهیانه",
+   "ریال",
+   "child_allowance"
+  ],
+  [
+   "خواربار و مسکن :",
+   "ریال",
+   "housing_allowance"
+  ],
+  [
+   "سرفصل‌های آموزشی",
+   "EOL",
+   "subjects_table"
+  ],
+  [
+   "شروع آن از تاریخ",
+   "و",
+   "contract_start_date"
+  ],
+  [
+   "کارفرما آقا/خانم",
+   "EOL",
+   "employer_name"
+  ],
+  [
+   "کارفرما آقا/خانم",
+   "فرزند",
+   "employer_name"
+  ],
+  [
+   "کارفرما آقا/خانم",
+   "فرزند [employer_father]",
+   "employer_name"
+  ],
+  [
+   "کمک عائله مندی :",
+   "ریال",
+   "child_allowance"
+  ],
+  [
+   "محل کار (کارگاه)",
+   "EOL",
+   "work_location"
+  ],
+  [
+   "مزد مبنا ماهیانه",
+   "ریال",
+   "base_salary"
+  ],
+  [
+   "اشتغال فروشنده:",
+   "تبصره",
+   "work_address"
+  ],
+  [
+   "اشتغال می‌‌یابد",
+   "EOL",
+   "job_title"
+  ],
+  [
+   "پرستار آقا/خانم",
+   "EOL",
+   "nanny_name"
+  ],
+  [
+   "پرستار آقا/خانم",
+   "فرزند",
+   "nanny_name"
+  ],
+  [
+   "پرستار آقا/خانم",
+   "فرزند [nanny_father]",
+   "nanny_name"
+  ],
+  [
+   "حق جذب ماهانه :",
+   "ریال",
+   "attraction_allowance"
+  ],
+  [
+   "حق مسکن ماهیانه",
+   "ریال",
+   "housing_allowance"
+  ],
+  [
+   "شرکت آقا / خانم",
+   "به",
+   "employer_name"
+  ],
+  [
+   "کارگر آقای/خانم",
+   "EOL",
+   "employee_name"
+  ],
+  [
+   "کارگر آقای/خانم",
+   "فرزند",
+   "employee_name"
+  ],
+  [
+   "کارگر آقای/خانم",
+   "فرزند [employee_father]",
+   "employee_name"
+  ],
+  [
+   "کارگری) ماهیانه",
+   "EOL",
+   "grocery_allowance"
+  ],
+  [
+   "کارگری) ماهیانه",
+   "ریال.",
+   "grocery_allowance"
+  ],
+  [
+   "کارگری) ماهیانه",
+   "ریال. ث)",
+   "grocery_allowance"
+  ],
+  [
+   "کارمند آقا/خانم",
+   "EOL",
+   "secretary_name"
+  ],
+  [
+   "کارمند آقا/خانم",
+   "فرزند",
+   "secretary_name"
+  ],
+  [
+   "کارمند آقا/خانم",
+   "فرزند [father_name]",
+   "secretary_name"
+  ],
+  [
+   "مدت این قرارداد",
+   "ماه",
+   "contract_duration"
+  ],
+  [
+   "آقای/خانم/شرکت",
+   "فرزند",
+   "employer_name"
+  ],
+  [
+   "اشتغال فروشنده",
+   "EOL",
+   "work_address"
+  ],
+  [
+   "اشتغال فروشنده",
+   ".",
+   "work_address"
+  ],
+  [
+   "اشتغال فروشنده",
+   ". تبصره",
+   "work_address"
+  ],
+  [
+   "انعقاد قرارداد",
+   "EOL",
+   "contract_date"
+  ],
+  [
+   "پایان آن تاریخ",
+   "می",
+   "contract_end_date"
+  ],
+  [
+   "جناب آقای/خانم",
+   "EOL",
+   "employer_representative"
+  ],
+  [
+   "جناب آقای/خانم",
+   "و",
+   "employer_representative"
+  ],
+  [
+   "جناب آقای/خانم",
+   "و تلفن",
+   "employer_representative"
+  ],
+  [
+   "جناب آقای/خانم",
+   "متولد",
+   "employer_representative"
+  ],
+  [
+   "جناب آقای/خانم",
+   "متولد [employer_representative",
+   "employer_representative"
+  ],
+  [
+   "حقوق ماهیانه :",
+   "ریال",
+   "base_salary"
+  ],
+  [
+   "خواربار و مسکن",
+   "کمک",
+   "housing_food_allowance"
+  ],
+  [
+   "شماره شناسنامه",
+   "کدملی",
+   "employee_certificate_id"
+  ],
+  [
+   "شماره شناسنامه",
+   "کدملی [employee_national_id]",
+   "employee_certificate_id"
+  ],
+  [
+   "شماره شناسنامه",
+   "منعقد",
+   "birth_certificate_number"
+  ],
+  [
+   "شماره شناسنامه",
+   "منعقد گردید.",
+   "birth_certificate_number"
+  ],
+  [
+   "شماره شناسنامه",
+   "نشانی",
+   "certificate_id"
+  ],
+  [
+   "شماره شناسنامه",
+   "نشانی [address]",
+   "certificate_id"
+  ],
+  [
+   "شماره شناسنامه",
+   "و شناسه",
+   "employer_id"
+  ],
+  [
+   "شماره شناسنامه",
+   "و شماره",
+   "employee_certificate_id"
+  ],
+  [
+   "شماره شناسنامه",
+   "متولد",
+   "certificate_id"
+  ],
+  [
+   "شماره شناسنامه",
+   "متولد [birth_date]",
+   "certificate_id"
+  ],
+  [
+   "شماره شناسنامه",
+   "نشانی [lawyer_address]",
+   "lawyer_id_number"
+  ],
+  [
+   "شناسنامه شماره",
+   "EOL",
+   "employer_id"
+  ],
+  [
+   "شناسنامه شماره",
+   "صادره از",
+   "employer_id"
+  ],
+  [
+   "کارگری)ماهیانه",
+   "ریال.",
+   "grocery_allowance"
+  ],
+  [
+   "کمک عائله‌مندی",
+   "سایر",
+   "family_allowance"
+  ],
+  [
+   "کمک عائله‌مندی",
+   "EOL",
+   "family_allowance"
+  ],
+  [
+   "کمک عائله‌مندی",
+   "سایر مزایا",
+   "family_allowance"
+  ],
+  [
+   "محل انجام کار:",
+   "EOL",
+   "work_location"
+  ],
+  [
+   "اولاد ماهیانه",
+   "EOL",
+   "child_allowance"
+  ],
+  [
+   "اولاد ماهیانه",
+   "ریال.",
+   "child_allowance"
+  ],
+  [
+   "اولاد ماهیانه",
+   "ریال. ت)",
+   "child_allowance"
+  ],
+  [
+   "اولاد ماهیانه",
+   "ریال. د)",
+   "child_allowance"
+  ],
+  [
+   "به حساب شماره",
+   "نزد",
+   "bank_account_number"
+  ],
+  [
+   "پست الکترونیک",
+   "در",
+   "employer_representative_email"
+  ],
+  [
+   "پست الکترونیک",
+   "که",
+   "employee_email"
+  ],
+  [
+   "پست الکترونیک",
+   "در سمت",
+   "employer_representative_email"
+  ],
+  [
+   "پست الکترونیک",
+   "که از",
+   "employee_email"
+  ],
+  [
+   "رانندگی خودرو",
+   "EOL",
+   "vehicle_type"
+  ],
+  [
+   "رانندگی خودرو",
+   "با",
+   "vehicle_type"
+  ],
+  [
+   "رانندگی خودرو",
+   "با پلاک",
+   "vehicle_type"
+  ],
+  [
+   "روزانه/ ساعتی",
+   "EOL",
+   "base_salary"
+  ],
+  [
+   "روزانه/ ساعتی",
+   "ریال.",
+   "base_salary"
+  ],
+  [
+   "روزانه/ ساعتی",
+   "ریال. ب)",
+   "base_salary"
+  ],
+  [
+   "قرارداد شماره",
+   "مورخ",
+   "original_contract_number"
+  ],
+  [
+   "قرارداد شماره",
+   "EOL",
+   "original_contract_number"
+  ],
+  [
+   "قرارداد شماره",
+   "مورخ [original_contract_date]",
+   "original_contract_number"
+  ],
+  [
+   "میزان تحصیلات",
+   "EOL",
+   "education_level"
+  ],
+  [
+   "میزان تحصیلات",
+   "وضعیت",
+   "education_level"
+  ],
+  [
+   "میزان تحصیلات",
+   "وضعیت تأهل",
+   "education_level"
+  ],
+  [
+   "میزان تحصیلات",
+   "نوع",
+   "employee_education"
+  ],
+  [
+   "میزان تحصیلات",
+   "نوع و",
+   "employee_education"
+  ],
+  [
+   "آدرس و تلفن:",
+   "کارگر",
+   "employer_address"
+  ],
+  [
+   "آدرس و تلفن:",
+   "محل",
+   "employee_address"
+  ],
+  [
+   "برنامه‌نویس:",
+   "فرزند",
+   "developer_name"
+  ],
+  [
+   "پروانه وکالت",
+   "EOL",
+   "license_number"
+  ],
+  [
+   "حقوق ماهیانه",
+   "حق",
+   "base_salary"
+  ],
+  [
+   "حقوق ماهیانه",
+   "EOL",
+   "base_salary"
+  ],
+  [
+   "حقوق ماهیانه",
+   "حق جذب",
+   "base_salary"
+  ],
+  [
+   "دوره آزمایشی",
+   "EOL",
+   "probation_period"
+  ],
+  [
+   "دوره آزمایشی",
+   "ماه",
+   "probation_period"
+  ],
+  [
+   "دوره آزمایشی",
+   "ماه تعیین",
+   "probation_period"
+  ],
+  [
+   "سایر مزایا :",
+   "ریال",
+   "other_benefits"
+  ],
+  [
+   "سنوات روزانه",
+   "EOL",
+   "seniority_allowance"
+  ],
+  [
+   "سنوات روزانه",
+   "ریال.",
+   "seniority_allowance"
+  ],
+  [
+   "سنوات روزانه",
+   "ریال. ه)",
+   "seniority_allowance"
+  ],
+  [
+   "کار (کارگاه)",
+   "EOL",
+   "work_location"
+  ],
+  [
+   "کارفرما شرکت",
+   "EOL",
+   "company_name"
+  ],
+  [
+   "کارفرما شرکت",
+   "فرزند",
+   "company_name"
+  ],
+  [
+   "کارفرما شرکت",
+   "فرزند [employer_father_name]",
+   "company_name"
+  ],
+  [
+   "ماهیانه مبلغ",
+   "EOL",
+   "monthly_salary"
+  ],
+  [
+   "ماهیانه مبلغ",
+   "ریال",
+   "monthly_salary"
+  ],
+  [
+   "ماهیانه مبلغ",
+   "ریال بوده",
+   "monthly_salary"
+  ],
+  [
+   "مبنا ماهیانه",
+   "EOL",
+   "base_salary"
+  ],
+  [
+   "مبنا ماهیانه",
+   "ریال.",
+   "base_salary"
+  ],
+  [
+   "مبنا ماهیانه",
+   "ریال. ب)",
+   "base_salary"
+  ],
+  [
+   "مدت قرارداد:",
+   "EOL",
+   "contract_duration"
+  ],
+  [
+   "مسکن ماهیانه",
+   "EOL",
+   "housing_allowance"
+  ],
+  [
+   "مسکن ماهیانه",
+   "ریال.",
+   "housing_allowance"
+  ],
+  [
+   "مسکن ماهیانه",
+   "ریال. پ)",
+   "housing_allowance"
+  ],
+  [
+   "مسکن ماهیانه",
+   "ریال. ج)",
+   "housing_allowance"
+  ],
+  [
+   "مشاور حقوقی:",
+   "فرزند",
+   "lawyer_name"
+  ],
+  [
+   "موظفند حداقل",
+   "EOL",
+   "notice_period"
+  ],
+  [
+   "موظفند حداقل",
+   "روز",
+   "notice_period"
+  ],
+  [
+   "موظفند حداقل",
+   "روز قبل",
+   "notice_period"
+  ],
+  [
+   "نشانی و تلفن",
+   "به",
+   "employer_contact"
+  ],
+  [
+   "نشانی و تلفن",
+   "میزان",
+   "employee_contact"
+  ],
+  [
+   "و شماره تماس",
+   "EOL",
+   "company_phone"
+  ],
+  [
+   "آقای / خانم",
+   "متعهد",
+   "employee_name"
+  ],
+  [
+   "این قرارداد",
+   "EOL",
+   "contract_duration"
+  ],
+  [
+   "این قرارداد",
+   "ماه",
+   "contract_duration"
+  ],
+  [
+   "این قرارداد",
+   "ماه است",
+   "contract_duration"
+  ],
+  [
+   "برنامه‌نویس",
+   "EOL",
+   "developer_name"
+  ],
+  [
+   "برنامه‌نویس",
+   "فرزند",
+   "developer_name"
+  ],
+  [
+   "برنامه‌نویس",
+   "فرزند [father_name]",
+   "developer_name"
+  ],
+  [
+   "به نمایندگی",
+   "و",
+   "representative_name"
+  ],
+  [
+   "به نمایندگی",
+   "و آقای/خانم",
+   "representative_name"
+  ],
+  [
+   "پرداخت مبلغ",
+   "EOL",
+   "penalty_amount"
+  ],
+  [
+   "پرداخت مبلغ",
+   "ریال",
+   "penalty_amount"
+  ],
+  [
+   "پرداخت مبلغ",
+   "ریال به",
+   "penalty_amount"
+  ],
+  [
+   "پنج‌شنبه از",
+   "تا",
+   "thursday_start"
+  ],
+  [
+   "پنج‌شنبه از",
+   "EOL",
+   "thursday_start"
+  ],
+  [
+   "پنج‌شنبه از",
+   "تا [thursday_end]",
+   "thursday_start"
+  ],
+  [
+   "تاریخ تولد:",
+   "آدرس",
+   "employee_birthdate"
+  ],
+  [
+   "چهارشنبه از",
+   "EOL",
+   "start_time"
+  ],
+  [
+   "چهارشنبه از",
+   "تا",
+   "start_time"
+  ],
+  [
+   "چهارشنبه از",
+   "تا [end_time]",
+   "start_time"
+  ],
+  [
+   "حقوق ماهانه",
+   "ریال",
+   "salary"
+  ],
+  [
+   "حقوق ماهانه",
+   "EOL",
+   "salary"
+  ],
+  [
+   "حقوق ماهانه",
+   "ریال پرداخت",
+   "salary"
+  ],
+  [
+   "حقوق ماهانه",
+   "ریال که",
+   "salary"
+  ],
+  [
+   "خانم / آقای",
+   "طی",
+   "employee_name"
+  ],
+  [
+   "خانم / آقای",
+   "با",
+   "employee_name"
+  ],
+  [
+   "ساعات تدریس",
+   "EOL",
+   "total_hours"
+  ],
+  [
+   "ساعات تدریس",
+   "ساعت",
+   "total_hours"
+  ],
+  [
+   "سایر مزایا:",
+   "ریال",
+   "other_benefits"
+  ],
+  [
+   "مجموع ساعات",
+   "ساعت",
+   "total_hours"
+  ],
+  [
+   "محرمانگی تا",
+   "EOL",
+   "n_years"
+  ],
+  [
+   "محرمانگی تا",
+   "سال",
+   "n_years"
+  ],
+  [
+   "محرمانگی تا",
+   "سال پس",
+   "n_years"
+  ],
+  [
+   "مدت قرارداد",
+   "EOL",
+   "contract_duration"
+  ],
+  [
+   "مدت قرارداد",
+   "ماه",
+   "duration"
+  ],
+  [
+   "مدت قرارداد",
+   "ماه از",
+   "duration"
+  ],
+  [
+   "مدیریت مبلغ",
+   "EOL",
+   "management_allowance"
+  ],
+  [
+   "مدیریت مبلغ",
+   "ریال",
+   "management_allowance"
+  ],
+  [
+   "مدیریت مبلغ",
+   "ریال پرداخت",
+   "management_allowance"
+  ],
+  [
+   "مزد ماهیانه",
+   "ریال",
+   "base_salary"
+  ],
+  [
+   "مزد ماهیانه",
+   "EOL",
+   "base_salary"
+  ],
+  [
+   "مزد ماهیانه",
+   "ریال،",
+   "base_salary"
+  ],
+  [
+   "مزد ماهیانه",
+   "ریال، حق",
+   "base_salary"
+  ],
+  [
+   "مزد ماهیانه",
+   "حق",
+   "base_salary"
+  ],
+  [
+   "مزد ماهیانه",
+   "حق مسکن",
+   "base_salary"
+  ],
+  [
+   "مشاور حقوقی",
+   "EOL",
+   "lawyer_name"
+  ],
+  [
+   "مشاور حقوقی",
+   "فرزند",
+   "lawyer_name"
+  ],
+  [
+   "مشاور حقوقی",
+   "فرزند [father_name]",
+   "lawyer_name"
+  ],
+  [
+   "میزان مهارت",
+   "EOL",
+   "skill_level"
+  ],
+  [
+   "میزان مهرات",
+   "EOL",
+   "employee_skill"
+  ],
+  [
+   "میزان مهرات",
+   "به",
+   "employee_skill"
+  ],
+  [
+   "میزان مهرات",
+   "به نشانی",
+   "employee_skill"
+  ],
+  [
+   "نوع قرارداد",
+   "دائم□",
+   "contract_type"
+  ],
+  [
+   "و آقای/خانم",
+   "منعقد",
+   "employee_name"
+  ],
+  [
+   "و آقای/خانم",
+   "منعقد گردید.",
+   "employee_name"
+  ],
+  [
+   "و آقای/خانم",
+   "فرزند [employee_father]",
+   "employee_name"
+  ],
+  [
+   "و خانم/آقای",
+   "EOL",
+   "secretary_name"
+  ],
+  [
+   "و خانم/آقای",
+   "منعقد",
+   "secretary_name"
+  ],
+  [
+   "و خانم/آقای",
+   "منعقد گردید.",
+   "secretary_name"
+  ],
+  [
+   "واقع در محل",
+   "به",
+   "work_location_name"
+  ],
+  [
+   "وظایف کارگر",
+   "EOL",
+   "job_title"
+  ],
+  [
+   "آقا / خانم",
+   "فرزند",
+   "employee_name"
+  ],
+  [
+   "به ازای هر",
+   "EOL",
+   "unit"
+  ],
+  [
+   "پایه سنوات",
+   "EOL",
+   "seniority_allowance"
+  ],
+  [
+   "پایه سنوات",
+   "ریال",
+   "seniority_allowance"
+  ],
+  [
+   "پایه سنوات",
+   "ریال.",
+   "seniority_allowance"
+  ],
+  [
+   "تاریخ تولد",
+   "EOL",
+   "employee_birthdate"
+  ],
+  [
+   "تاریخ تولد",
+   "آدرس",
+   "employee_birthdate"
+  ],
+  [
+   "تاریخ تولد",
+   "آدرس و",
+   "employee_birthdate"
+  ],
+  [
+   "تلفن همراه",
+   "و",
+   "employee_phone"
+  ],
+  [
+   "تلفن همراه",
+   "EOL",
+   "employee_phone"
+  ],
+  [
+   "تلفن همراه",
+   "و پست",
+   "employee_phone"
+  ],
+  [
+   "حساب شماره",
+   "EOL",
+   "bank_account"
+  ],
+  [
+   "حساب شماره",
+   "نزد",
+   "bank_account"
+  ],
+  [
+   "حساب شماره",
+   "نزد بانک",
+   "bank_account"
+  ],
+  [
+   "حق التدریس",
+   "ریال",
+   "fee_per_hour"
+  ],
+  [
+   "حق التدریس",
+   "EOL",
+   "fee_per_hour"
+  ],
+  [
+   "حق التدریس",
+   "ریال به",
+   "fee_per_hour"
+  ],
+  [
+   "سایر مزایا",
+   "و",
+   "other_allowances"
+  ],
+  [
+   "سایر مزایا",
+   "EOL",
+   "other_benefits"
+  ],
+  [
+   "سایر مزایا",
+   "ریال",
+   "other_allowances"
+  ],
+  [
+   "سایر مزایا",
+   "ریال و",
+   "other_allowances"
+  ],
+  [
+   "سایر مزایا",
+   "ریال.",
+   "other_benefits"
+  ],
+  [
+   "شماره تماس",
+   "نشانی [recipient_address]",
+   "recipient_phone"
+  ],
+  [
+   "شماره تماس",
+   "نشانی [janitor_address]",
+   "janitor_phone"
+  ],
+  [
+   "شماره تماس",
+   "نشانی [seller_address]",
+   "seller_phone"
+  ],
+  [
+   "شماره ثبت:",
+   "به",
+   "employer_id"
+  ],
+  [
+   "شماره کارت",
+   "نزد",
+   "bank_card"
+  ],
+  [
+   "شماره کارت",
+   "EOL",
+   "bank_card"
+  ],
+  [
+   "شماره کارت",
+   "نزد بانک",
+   "bank_card"
+  ],
+  [
+   "عائله‌مندی",
+   "سایر",
+   "family_allowance"
+  ],
+  [
+   "فروشنده در",
+   "EOL",
+   "work_location"
+  ],
+  [
+   "فروشنده در",
+   "و",
+   "work_location"
+  ],
+  [
+   "فروشنده در",
+   "و انجام",
+   "work_location"
+  ],
+  [
+   "قانون کار،",
+   "ساعت",
+   "weekly_hours"
+  ],
+  [
+   "قانون کار،",
+   "EOL",
+   "weekly_hours"
+  ],
+  [
+   "قانون کار،",
+   "ساعت در",
+   "weekly_hours"
+  ],
+  [
+   "قرارداد از",
+   "EOL",
+   "start_date"
+  ],
+  [
+   "قرارداد از",
+   "به",
+   "start_date"
+  ],
+  [
+   "قرارداد از",
+   "به مدت",
+   "start_date"
+  ],
+  [
+   "کد اقتصادی",
+   "EOL",
+   "economic_code"
+  ],
+  [
+   "کد اقتصادی",
+   "نشانی",
+   "economic_code"
+  ],
+  [
+   "کد اقتصادی",
+   "نشانی [company_address]",
+   "economic_code"
+  ],
+  [
+   "کد اقتصادی",
+   "نماینده",
+   "economic_code"
+  ],
+  [
+   "کد اقتصادی",
+   "نماینده [representative]",
+   "economic_code"
+  ],
+  [
+   "کد اقتصادی",
+   "نماینده [employer_representati",
+   "economic_code"
+  ],
+  [
+   "کد اقتصادی",
+   "نماینده [representative_name]",
+   "economic_code"
+  ],
+  [
+   "مزد روزانه",
+   "EOL",
+   "daily_wage"
+  ],
+  [
+   "و آقا/خانم",
+   "EOL",
+   "employee_name"
+  ],
+  [
+   "و آقا/خانم",
+   "متولد",
+   "employee_name"
+  ],
+  [
+   "و آقا/خانم",
+   "متولد [employee_birthdate]",
+   "employee_name"
+  ],
+  [
+   "و آقا/خانم",
+   "فرزند",
+   "employee_name"
+  ],
+  [
+   "و آقا/خانم",
+   "فرزند [employee_father]",
+   "employee_name"
+  ],
+  [
+   "وجه التزام",
+   "EOL",
+   "penalty_amount"
+  ],
+  [
+   "وضعیت تأهل",
+   "EOL",
+   "marital_status"
+  ],
+  [
+   "آقای/خانم",
+   "منعقد",
+   "employee_name"
+  ],
+  [
+   "آقای/خانم",
+   "و",
+   "employer_representative"
+  ],
+  [
+   "آقای/خانم",
+   "متولد",
+   "employer_representative"
+  ],
+  [
+   "الکترونیک",
+   "در",
+   "employer_representative_email"
+  ],
+  [
+   "الکترونیک",
+   "که",
+   "employee_email"
+  ],
+  [
+   "الکترونیک",
+   "EOL",
+   "email"
+  ],
+  [
+   "انجام کار",
+   "EOL",
+   "work_location"
+  ],
+  [
+   "با زیربنا",
+   "EOL",
+   "area"
+  ],
+  [
+   "با زیربنا",
+   "مترمربع",
+   "area"
+  ],
+  [
+   "با کاربری",
+   "EOL",
+   "usage"
+  ],
+  [
+   "با کاربری",
+   "در",
+   "usage"
+  ],
+  [
+   "با کاربری",
+   "در [project_address]",
+   "usage"
+  ],
+  [
+   "بازاریاب:",
+   "فرزند",
+   "marketer_name"
+  ],
+  [
+   "بن کارگری",
+   "EOL",
+   "grocery_allowance"
+  ],
+  [
+   "بن کارگری",
+   "ریال",
+   "food_allowance"
+  ],
+  [
+   "بن کارگری",
+   "ریال،",
+   "food_allowance"
+  ],
+  [
+   "بن کارگری",
+   "ریال، حق",
+   "food_allowance"
+  ],
+  [
+   "بن کارگری",
+   "پایه",
+   "food_allowance"
+  ],
+  [
+   "بن کارگری",
+   "پایه سنوات",
+   "food_allowance"
+  ],
+  [
+   "به نشانی:",
+   "و",
+   "employer_address"
+  ],
+  [
+   "به نشانی:",
+   "منعقد",
+   "employee_address"
+  ],
+  [
+   "حق‌الزحمه",
+   "ریال",
+   "fee"
+  ],
+  [
+   "حق‌الزحمه",
+   "EOL",
+   "fee"
+  ],
+  [
+   "حق‌الزحمه",
+   "ریال به",
+   "fee"
+  ],
+  [
+   "خانم/آقای",
+   "منعقد",
+   "secretary_name"
+  ],
+  [
+   "در روزهای",
+   "از",
+   "work_days"
+  ],
+  [
+   "در روزهای",
+   "EOL",
+   "work_days"
+  ],
+  [
+   "در روزهای",
+   "از ساعت",
+   "work_days"
+  ],
+  [
+   "ساعات کار",
+   "EOL",
+   "working_hours"
+  ],
+  [
+   "ساعات کار",
+   "ساعت",
+   "working_hours"
+  ],
+  [
+   "ساعات کار",
+   "ساعت در",
+   "working_hours"
+  ],
+  [
+   "ساعت کار:",
+   "میزان",
+   "working_hours"
+  ],
+  [
+   "شماره ثبت",
+   "شناسه",
+   "registration_number"
+  ],
+  [
+   "شماره ثبت",
+   "EOL",
+   "registration_number"
+  ],
+  [
+   "شماره ثبت",
+   "شناسه ملی",
+   "registration_number"
+  ],
+  [
+   "شماره ثبت",
+   "و",
+   "registration_number"
+  ],
+  [
+   "شماره ثبت",
+   "و شناسه",
+   "registration_number"
+  ],
+  [
+   "شماره ثبت",
+   "شماره",
+   "employer_registration_number"
+  ],
+  [
+   "شماره ثبت",
+   "شماره شناسنامه",
+   "employer_registration_number"
+  ],
+  [
+   "شماره ملی",
+   "منعقد",
+   "national_id"
+  ],
+  [
+   "شماره ملی",
+   "منعقد گردید.",
+   "national_id"
+  ],
+  [
+   "شماره ملی",
+   "نشانی [address]",
+   "national_id"
+  ],
+  [
+   "شماره ملی",
+   "شماره",
+   "national_id"
+  ],
+  [
+   "شماره ملی",
+   "شماره شناسنامه",
+   "national_id"
+  ],
+  [
+   "شماره ملی",
+   "شماره تماس",
+   "recipient_national_id"
+  ],
+  [
+   "شماره ملی",
+   "نشانی [developer_address]",
+   "developer_national_id"
+  ],
+  [
+   "شماره ملی",
+   "به",
+   "employee_national_id"
+  ],
+  [
+   "شماره ملی",
+   "به نشانی",
+   "employee_national_id"
+  ],
+  [
+   "شماره ملی",
+   "تلفن [phone]",
+   "national_id"
+  ],
+  [
+   "شماره ملی",
+   "تلفن [client_phone]",
+   "client_national_id"
+  ],
+  [
+   "شماره ملی",
+   "تلفن [consultant_phone]",
+   "consultant_national_id"
+  ],
+  [
+   "شماره ملی",
+   "متولد",
+   "national_id"
+  ],
+  [
+   "شماره ملی",
+   "متولد [birth_date]",
+   "national_id"
+  ],
+  [
+   "شماره ملی",
+   "میزان",
+   "employee_national_id"
+  ],
+  [
+   "شماره ملی",
+   "میزان تحصیلات",
+   "employee_national_id"
+  ],
+  [
+   "شناسه ملی",
+   "نشانی و",
+   "employer_national_id_company"
+  ],
+  [
+   "شناسه ملی",
+   "به",
+   "national_id"
+  ],
+  [
+   "شناسه ملی",
+   "به نمایندگی",
+   "national_id"
+  ],
+  [
+   "شناسه ملی",
+   "کد اقتصادی",
+   "company_national_id"
+  ],
+  [
+   "شناسه ملی",
+   "نشانی [company_address]",
+   "company_national_id"
+  ],
+  [
+   "شناسه ملی",
+   "نماینده [representative_name]",
+   "national_id"
+  ],
+  [
+   "شناسه ملی",
+   "کد ملی",
+   "employer_national_id"
+  ],
+  [
+   "شناسه ملی",
+   "کد پستی",
+   "company_national_id"
+  ],
+  [
+   "شناسه ملی",
+   "نماینده [representative]",
+   "company_national_id"
+  ],
+  [
+   "قانون کار",
+   "ساعت",
+   "weekly_hours"
+  ],
+  [
+   "قانون کار",
+   "EOL",
+   "weekly_hours"
+  ],
+  [
+   "قانون کار",
+   "ساعت در",
+   "weekly_hours"
+  ],
+  [
+   "مدیر فروش",
+   "EOL",
+   "work_address"
+  ],
+  [
+   "مدیر فروش",
+   ".",
+   "work_address"
+  ],
+  [
+   "مدیر فروش",
+   ". تبصره",
+   "work_address"
+  ],
+  [
+   "مدیرعامل:",
+   "فرزند",
+   "ceo_name"
+  ],
+  [
+   "نگهبان در",
+   "EOL",
+   "work_location"
+  ],
+  [
+   "نگهبان در",
+   "و",
+   "work_location"
+  ],
+  [
+   "نگهبان در",
+   "و انجام",
+   "work_location"
+  ],
+  [
+   "و دورنگار",
+   "EOL",
+   "employer_fax"
+  ],
+  [
+   "و دورنگار",
+   "متولد",
+   "employer_fax"
+  ],
+  [
+   "و دورنگار",
+   "متولد [employer_representative",
+   "employer_fax"
+  ],
+  [
+   "و دورنگار",
+   "طرف",
+   "employer_fax"
+  ],
+  [
+   "و دورنگار",
+   "طرف اول؛",
+   "employer_fax"
+  ],
+  [
+   "و دورنگار",
+   "پست",
+   "employer_fax"
+  ],
+  [
+   "و دورنگار",
+   "پست الکترونیک",
+   "employer_fax"
+  ],
+  [
+   "وکیل مبلغ",
+   "EOL",
+   "fee"
+  ],
+  [
+   "وکیل مبلغ",
+   "ریال",
+   "fee"
+  ],
+  [
+   "وکیل مبلغ",
+   "ریال می‌باشد",
+   "fee"
+  ],
+  [
+   "(کارگاه)",
+   "EOL",
+   "work_location"
+  ],
+  [
+   "آقا خانم",
+   "متولد",
+   "employee_name"
+  ],
+  [
+   "آقا خانم",
+   "فرزند",
+   "employee_name"
+  ],
+  [
+   "آقا/خانم",
+   "متولد",
+   "employee_name"
+  ],
+  [
+   "آن تاریخ",
+   "EOL",
+   "contract_end_date"
+  ],
+  [
+   "آن تاریخ",
+   "می",
+   "contract_end_date"
+  ],
+  [
+   "آن تاریخ",
+   "می باشد",
+   "contract_end_date"
+  ],
+  [
+   "از تاریخ",
+   "شروع",
+   "contract_start_date"
+  ],
+  [
+   "از تاریخ",
+   "EOL",
+   "start_date"
+  ],
+  [
+   "از تاریخ",
+   "شروع شده",
+   "contract_start_date"
+  ],
+  [
+   "از تاریخ",
+   "لغایت",
+   "start_date"
+  ],
+  [
+   "از تاریخ",
+   "لغایت [end_date]",
+   "start_date"
+  ],
+  [
+   "از تاریخ",
+   "لغایت [extension_end_date]",
+   "extension_start_date"
+  ],
+  [
+   "از تاریخ",
+   "و",
+   "contract_date"
+  ],
+  [
+   "از تاریخ",
+   "و معتبر",
+   "contract_date"
+  ],
+  [
+   "از تاریخ",
+   "آغاز",
+   "effective_date"
+  ],
+  [
+   "از تاریخ",
+   "آغاز شده",
+   "effective_date"
+  ],
+  [
+   "از تاریخ",
+   "لغایت [contract_end_date]",
+   "contract_start_date"
+  ],
+  [
+   "از تاریخ",
+   "و پایان",
+   "contract_start_date"
+  ],
+  [
+   "بازاریاب",
+   "EOL",
+   "marketer_name"
+  ],
+  [
+   "بازاریاب",
+   "فرزند",
+   "marketer_name"
+  ],
+  [
+   "بازاریاب",
+   "فرزند [father_name]",
+   "marketer_name"
+  ],
+  [
+   "به عنوان",
+   "در",
+   "job_title"
+  ],
+  [
+   "به عنوان",
+   "EOL",
+   "job_title"
+  ],
+  [
+   "به عنوان",
+   "در بخش",
+   "job_title"
+  ],
+  [
+   "به نشانی",
+   "و شماره",
+   "company_address"
+  ],
+  [
+   "به نشانی",
+   "و تلفن",
+   "employer_address"
+  ],
+  [
+   "به نشانی",
+   "و کارگر",
+   "employer_address"
+  ],
+  [
+   "به نشانی",
+   "منعقد",
+   "employee_address"
+  ],
+  [
+   "به نشانی",
+   "منعقد می",
+   "employee_address"
+  ],
+  [
+   "به نشانی",
+   "می",
+   "work_location_address"
+  ],
+  [
+   "به نشانی",
+   "می باشد.",
+   "work_location_address"
+  ],
+  [
+   "بین شرکت",
+   "EOL",
+   "company_name"
+  ],
+  [
+   "بین شرکت",
+   "و",
+   "company_name"
+  ],
+  [
+   "بین شرکت",
+   "و خانم/آقای",
+   "company_name"
+  ],
+  [
+   "بین شرکت",
+   "به",
+   "company_name"
+  ],
+  [
+   "بین شرکت",
+   "به نمایندگی",
+   "company_name"
+  ],
+  [
+   "بین شرکت",
+   "به شماره",
+   "company_name"
+  ],
+  [
+   "تا تاریخ",
+   "EOL",
+   "termination_date"
+  ],
+  [
+   "تا تاریخ",
+   "معتبر",
+   "termination_date"
+  ],
+  [
+   "تا تاریخ",
+   "معتبر است.",
+   "termination_date"
+  ],
+  [
+   "ترجمه از",
+   "EOL",
+   "source_language"
+  ],
+  [
+   "ترجمه از",
+   "به",
+   "source_language"
+  ],
+  [
+   "ترجمه از",
+   "به [target_language]",
+   "source_language"
+  ],
+  [
+   "حسابدار:",
+   "شماره",
+   "accountant_name"
+  ],
+  [
+   "حق اولاد",
+   "EOL",
+   "child_allowance"
+  ],
+  [
+   "حق اولاد",
+   "ریال",
+   "child_allowance"
+  ],
+  [
+   "حق اولاد",
+   "ریال،",
+   "child_allowance"
+  ],
+  [
+   "حق اولاد",
+   "ریال، سایر",
+   "child_allowance"
+  ],
+  [
+   "حق اولاد",
+   "بن",
+   "child_allowance"
+  ],
+  [
+   "حق اولاد",
+   "بن کارگری",
+   "child_allowance"
+  ],
+  [
+   "در تاریخ",
+   "به",
+   "contract_end_date"
+  ],
+  [
+   "در تاریخ",
+   "EOL",
+   "contract_date"
+  ],
+  [
+   "در تاریخ",
+   "به اتمام",
+   "contract_end_date"
+  ],
+  [
+   "در تاریخ",
+   "بین",
+   "contract_date"
+  ],
+  [
+   "در تاریخ",
+   "بین شرکت",
+   "contract_date"
+  ],
+  [
+   "در تاریخ",
+   "در",
+   "contract_date"
+  ],
+  [
+   "در تاریخ",
+   "در شهر",
+   "contract_date"
+  ],
+  [
+   "در تاریخ",
+   "منعقد",
+   "contract_date"
+  ],
+  [
+   "در تاریخ",
+   "منعقد گردید.",
+   "contract_date"
+  ],
+  [
+   "در تاریخ",
+   "و",
+   "contract_date"
+  ],
+  [
+   "در تاریخ",
+   "و در",
+   "contract_date"
+  ],
+  [
+   "در تاریخ",
+   "به شرح",
+   "contract_date"
+  ],
+  [
+   "در تاریخ",
+   "تنظیم",
+   "contract_signing_date"
+  ],
+  [
+   "در تاریخ",
+   "تنظیم و",
+   "contract_signing_date"
+  ],
+  [
+   "در نشانی",
+   "EOL",
+   "work_address"
+  ],
+  [
+   "در نشانی",
+   "می‌باشد",
+   "work_address"
+  ],
+  [
+   "روزانه |",
+   "EOL",
+   "daily_wage"
+  ],
+  [
+   "روزانه |",
+   "|",
+   "daily_wage"
+  ],
+  [
+   "روزانه |",
+   "| |",
+   "daily_wage"
+  ],
+  [
+   "ساعت کار",
+   "ساعت",
+   "weekly_hours"
+  ],
+  [
+   "ساعت کار",
+   "EOL",
+   "weekly_hours"
+  ],
+  [
+   "ساعت کار",
+   "ساعت در",
+   "weekly_hours"
+  ],
+  [
+   "ساعت کار",
+   "میزان",
+   "working_hours"
+  ],
+  [
+   "ساعت کار",
+   "میزان ساعت",
+   "working_hours"
+  ],
+  [
+   "شناسنامه",
+   "کدملی",
+   "employee_certificate_id"
+  ],
+  [
+   "شناسنامه",
+   "منعقد",
+   "birth_certificate_number"
+  ],
+  [
+   "شناسنامه",
+   "نشانی",
+   "certificate_id"
+  ],
+  [
+   "شناسنامه",
+   "متولد",
+   "certificate_id"
+  ],
+  [
+   "صادره از",
+   "نشانی [address]",
+   "issue_place"
+  ],
+  [
+   "صادره از",
+   "نشانی [client_address]",
+   "issue_place"
+  ],
+  [
+   "صادره از",
+   "ساکن [employer_address]",
+   "employer_issued_at"
+  ],
+  [
+   "صادره از",
+   "ساکن [employee_address]",
+   "employee_issued_at"
+  ],
+  [
+   "صادره از",
+   "نشانی [employer_address]",
+   "employer_issue_place"
+  ],
+  [
+   "صادره از",
+   "نشانی [worker_address]",
+   "worker_issue_place"
+  ],
+  [
+   "صالح شهر",
+   "EOL",
+   "jurisdiction_city"
+  ],
+  [
+   "صالح شهر",
+   "خواهد",
+   "jurisdiction_city"
+  ],
+  [
+   "صالح شهر",
+   "خواهد بود.",
+   "jurisdiction_city"
+  ],
+  [
+   "کارآموز:",
+   "فرزند",
+   "trainee_name"
+  ],
+  [
+   "کارفرما:",
+   "فرزند",
+   "employer_name"
+  ],
+  [
+   "کارفرما:",
+   "شماره",
+   "employer_name"
+  ],
+  [
+   "کارگری |",
+   "EOL",
+   "grocery_allowance"
+  ],
+  [
+   "کارگری |",
+   "|",
+   "grocery_allowance"
+  ],
+  [
+   "کارگری |",
+   "| |",
+   "grocery_allowance"
+  ],
+  [
+   "مدیرعامل",
+   "EOL",
+   "ceo_name"
+  ],
+  [
+   "مدیرعامل",
+   "فرزند",
+   "ceo_name"
+  ],
+  [
+   "مدیرعامل",
+   "فرزند [father_name]",
+   "ceo_name"
+  ],
+  [
+   "معتبر تا",
+   "EOL",
+   "duration"
+  ],
+  [
+   "معتبر تا",
+   "سال",
+   "duration"
+  ],
+  [
+   "معتبر تا",
+   "سال پس",
+   "duration"
+  ],
+  [
+   "می‌‌یابد",
+   "EOL",
+   "job_title"
+  ],
+  [
+   "نزد بانک",
+   "EOL",
+   "bank_name"
+  ],
+  [
+   "نزد بانک",
+   "شعبه",
+   "bank_name"
+  ],
+  [
+   "نزد بانک",
+   "شعبه [bank_branch]",
+   "bank_name"
+  ],
+  [
+   "نزد بانک",
+   "پرداخت",
+   "bank_name"
+  ],
+  [
+   "نزد بانک",
+   "پرداخت می‌شود",
+   "bank_name"
+  ],
+  [
+   "نمایندگی",
+   "و",
+   "representative_name"
+  ],
+  [
+   "نمایندگی",
+   "EOL",
+   "employer_representative"
+  ],
+  [
+   "و کارگاه",
+   "EOL",
+   "workplace_address"
+  ],
+  [
+   "و کدپستی",
+   "که",
+   "employer_postal_code"
+  ],
+  [
+   "و کدپستی",
+   "که از",
+   "employer_postal_code"
+  ],
+  [
+   "و کدپستی",
+   "و",
+   "employee_postal_code"
+  ],
+  [
+   "و کدپستی",
+   "و تلفن",
+   "employee_postal_code"
+  ],
+  [
+   "آزمایشی",
+   "ماه",
+   "probation_period"
+  ],
+  [
+   "ازای هر",
+   "EOL",
+   "unit"
+  ],
+  [
+   "ازای هر",
+   "پرداخت",
+   "unit"
+  ],
+  [
+   "ازای هر",
+   "پرداخت می‌شود",
+   "unit"
+  ],
+  [
+   "اقتصادی",
+   "نشانی",
+   "economic_code"
+  ],
+  [
+   "اقتصادی",
+   "نماینده",
+   "economic_code"
+  ],
+  [
+   "التدریس",
+   "ریال",
+   "fee_per_hour"
+  ],
+  [
+   "اولاد |",
+   "EOL",
+   "child_allowance"
+  ],
+  [
+   "اولاد |",
+   "|",
+   "child_allowance"
+  ],
+  [
+   "اولاد |",
+   "| |",
+   "child_allowance"
+  ],
+  [
+   "با پلاک",
+   "EOL",
+   "vehicle_plate_number"
+  ],
+  [
+   "با پلاک",
+   "و",
+   "vehicle_plate_number"
+  ],
+  [
+   "با پلاک",
+   "و انجام",
+   "vehicle_plate_number"
+  ],
+  [
+   "به صورت",
+   "است",
+   "contract_type"
+  ],
+  [
+   "به صورت",
+   "EOL",
+   "contract_type"
+  ],
+  [
+   "به صورت",
+   "است.",
+   "contract_type"
+  ],
+  [
+   "به صورت",
+   "است. این",
+   "contract_type"
+  ],
+  [
+   "به صورت",
+   "است. (۲)",
+   "contract_type"
+  ],
+  [
+   "پرستار:",
+   "فرزند",
+   "nanny_name"
+  ],
+  [
+   "تا ساعت",
+   "است",
+   "end_time"
+  ],
+  [
+   "تا ساعت",
+   "است.",
+   "end_time"
+  ],
+  [
+   "تا ساعت",
+   "بعد",
+   "morning_end"
+  ],
+  [
+   "تا ساعت",
+   "بعد از",
+   "morning_end"
+  ],
+  [
+   "تحصیلات",
+   "وضعیت",
+   "education_level"
+  ],
+  [
+   "تحصیلات",
+   "EOL",
+   "education_level"
+  ],
+  [
+   "تحصیلات",
+   "وضعیت تأهل",
+   "education_level"
+  ],
+  [
+   "تحصیلات",
+   "رشته",
+   "education"
+  ],
+  [
+   "تحصیلات",
+   "رشته [field]",
+   "education"
+  ],
+  [
+   "تحصیلات",
+   "نوع",
+   "employee_education"
+  ],
+  [
+   "حسابدار",
+   "EOL",
+   "accountant_name"
+  ],
+  [
+   "حسابدار",
+   "شماره",
+   "accountant_name"
+  ],
+  [
+   "حسابدار",
+   "شماره ملی",
+   "accountant_name"
+  ],
+  [
+   "حق مسکن",
+   "EOL",
+   "housing_allowance"
+  ],
+  [
+   "حق مسکن",
+   "ریال",
+   "housing_allowance"
+  ],
+  [
+   "حق مسکن",
+   "ریال،",
+   "housing_allowance"
+  ],
+  [
+   "حق مسکن",
+   "ریال، بن",
+   "housing_allowance"
+  ],
+  [
+   "حق مسکن",
+   "حق",
+   "housing_allowance"
+  ],
+  [
+   "حق مسکن",
+   "حق اولاد",
+   "housing_allowance"
+  ],
+  [
+   "در قسمت",
+   "EOL",
+   "work_department"
+  ],
+  [
+   "در قسمت",
+   "شرکت",
+   "work_department"
+  ],
+  [
+   "در قسمت",
+   "شرکت می",
+   "work_department"
+  ],
+  [
+   "دورنگار",
+   "متولد",
+   "employer_fax"
+  ],
+  [
+   "دورنگار",
+   "EOL",
+   "company_fax"
+  ],
+  [
+   "دورنگار",
+   "طرف",
+   "employer_fax"
+  ],
+  [
+   "دورنگار",
+   "پست",
+   "employer_fax"
+  ],
+  [
+   "ساختمان",
+   "نماینده",
+   "building_name"
+  ],
+  [
+   "سنوات |",
+   "EOL",
+   "seniority_allowance"
+  ],
+  [
+   "سنوات |",
+   "|",
+   "seniority_allowance"
+  ],
+  [
+   "سنوات |",
+   "| |",
+   "seniority_allowance"
+  ],
+  [
+   "فروشنده",
+   ".",
+   "work_address"
+  ],
+  [
+   "قرارداد",
+   "ماه",
+   "contract_duration"
+  ],
+  [
+   "کارآموز",
+   "EOL",
+   "trainee_name"
+  ],
+  [
+   "کارآموز",
+   "فرزند",
+   "trainee_name"
+  ],
+  [
+   "کارآموز",
+   "فرزند [father_name]",
+   "trainee_name"
+  ],
+  [
+   "کارفرما",
+   "EOL",
+   "employer_name"
+  ],
+  [
+   "کارفرما",
+   "فرزند",
+   "employer_name"
+  ],
+  [
+   "کارفرما",
+   "فرزند [employer_father]",
+   "employer_name"
+  ],
+  [
+   "کارفرما",
+   "شماره",
+   "employer_name"
+  ],
+  [
+   "کارفرما",
+   "شماره ثبت",
+   "employer_name"
+  ],
+  [
+   "کارفرما",
+   "شماره ملی",
+   "client_name"
+  ],
+  [
+   "کارگاه:",
+   "EOL",
+   "workplace_address"
+  ],
+  [
+   "کارمند:",
+   "فرزند",
+   "employee_name"
+  ],
+  [
+   "کد پستی",
+   "نماینده",
+   "company_postal_code"
+  ],
+  [
+   "کد پستی",
+   "EOL",
+   "postal_code"
+  ],
+  [
+   "کد پستی",
+   "نماینده [representative]",
+   "company_postal_code"
+  ],
+  [
+   "کد پستی",
+   "تلفن",
+   "postal_code"
+  ],
+  [
+   "کد پستی",
+   "تلفن [phone]",
+   "postal_code"
+  ],
+  [
+   "ماهیانه",
+   "ریال،",
+   "base_salary"
+  ],
+  [
+   "ماهیانه",
+   "ریال",
+   "salary"
+  ],
+  [
+   "ماهیانه",
+   "حق",
+   "base_salary"
+  ],
+  [
+   "ماهیانه",
+   "EOL",
+   "base_salary"
+  ],
+  [
+   "ماهیانه",
+   "ریال 4-2)",
+   "base_salary"
+  ],
+  [
+   "مربی در",
+   "EOL",
+   "workplace_unit"
+  ],
+  [
+   "مربی در",
+   "و",
+   "workplace_unit"
+  ],
+  [
+   "مربی در",
+   "و انجام",
+   "workplace_unit"
+  ],
+  [
+   "نگهبان:",
+   "فرزند",
+   "guard_name"
+  ],
+  [
+   "نماینده",
+   "سمت [position]",
+   "representative"
+  ],
+  [
+   "نماینده",
+   "سمت [employer_position]",
+   "employer_representative"
+  ],
+  [
+   "نماینده",
+   "نشانی",
+   "representative"
+  ],
+  [
+   "نماینده",
+   "نشانی [address]",
+   "representative"
+  ],
+  [
+   "و فرزند",
+   "EOL",
+   "employer_father"
+  ],
+  [
+   "و فرزند",
+   "به",
+   "employer_father"
+  ],
+  [
+   "و فرزند",
+   "به نشانی",
+   "employer_father"
+  ],
+  [
+   "و فرزند",
+   "و",
+   "employer_father"
+  ],
+  [
+   "و فرزند",
+   "و کدپستی",
+   "employer_father"
+  ],
+  [
+   "و فرزند",
+   "به نمایندگی",
+   "employer_father"
+  ],
+  [
+   "وکیل در",
+   "EOL",
+   "organization_name"
+  ],
+  [
+   "/ آقای",
+   "EOL",
+   "employee_name"
+  ],
+  [
+   "/ آقای",
+   "طی",
+   "employee_name"
+  ],
+  [
+   "/ آقای",
+   "طی مدتی",
+   "employee_name"
+  ],
+  [
+   "/ آقای",
+   "با",
+   "employee_name"
+  ],
+  [
+   "/ آقای",
+   "با دریافت",
+   "employee_name"
+  ],
+  [
+   "/ خانم",
+   "فرزند [employer_father]",
+   "employer_name"
+  ],
+  [
+   "/ خانم",
+   "فرزند [employee_father]",
+   "employee_name"
+  ],
+  [
+   "/ خانم",
+   "به",
+   "employer_name"
+  ],
+  [
+   "/ خانم",
+   "به شماره",
+   "employer_name"
+  ],
+  [
+   "/ خانم",
+   "متعهد",
+   "employee_name"
+  ],
+  [
+   "/ خانم",
+   "متعهد است",
+   "employee_name"
+  ],
+  [
+   "آموزشی",
+   "EOL",
+   "subjects_table"
+  ],
+  [
+   "التزام",
+   "EOL",
+   "penalty_amount"
+  ],
+  [
+   "به حجم",
+   "کلمه",
+   "word_count"
+  ],
+  [
+   "به حجم",
+   "EOL",
+   "word_count"
+  ],
+  [
+   "به مدت",
+   "ماه",
+   "duration"
+  ],
+  [
+   "به مدت",
+   "EOL",
+   "duration"
+  ],
+  [
+   "به مدت",
+   "ماه تمدید",
+   "extension_duration"
+  ],
+  [
+   "به مدت",
+   "ماه معتبر",
+   "contract_duration"
+  ],
+  [
+   "به مدت",
+   "ماه می‌باشد.",
+   "duration"
+  ],
+  [
+   "به مدت",
+   "سال",
+   "duration"
+  ],
+  [
+   "به مدت",
+   "ماه و",
+   "duration"
+  ],
+  [
+   "به مدت",
+   "روز",
+   "duration"
+  ],
+  [
+   "به مدت",
+   "روز کاری",
+   "duration"
+  ],
+  [
+   "پرستار",
+   "EOL",
+   "nanny_name"
+  ],
+  [
+   "پرستار",
+   "فرزند",
+   "nanny_name"
+  ],
+  [
+   "پرستار",
+   "فرزند [nanny_father]",
+   "nanny_name"
+  ],
+  [
+   "جمع کل",
+   "ریال",
+   "total_salary"
+  ],
+  [
+   "جمع کل",
+   "EOL",
+   "total_salary"
+  ],
+  [
+   "جمع کل",
+   "ریال می‌باشد.",
+   "total_salary"
+  ],
+  [
+   "حق جذب",
+   "خواربار",
+   "attraction_allowance"
+  ],
+  [
+   "حق جذب",
+   "EOL",
+   "attraction_allowance"
+  ],
+  [
+   "حق جذب",
+   "خواربار و",
+   "attraction_allowance"
+  ],
+  [
+   "خانم :",
+   "فرزند",
+   "employer_name"
+  ],
+  [
+   "در بخش",
+   "و",
+   "department"
+  ],
+  [
+   "در بخش",
+   "EOL",
+   "department"
+  ],
+  [
+   "در بخش",
+   "و انجام",
+   "department"
+  ],
+  [
+   "در سمت",
+   "و",
+   "representative_position"
+  ],
+  [
+   "در سمت",
+   "و آقای/خانم",
+   "representative_position"
+  ],
+  [
+   "در سمت",
+   "نشانی [company_address]",
+   "position"
+  ],
+  [
+   "در سمت",
+   "نشانی [employer_address]",
+   "employer_position"
+  ],
+  [
+   "در سمت",
+   "نشانی [contractor_address]",
+   "contractor_position"
+  ],
+  [
+   "در سمت",
+   "به",
+   "employer_representative_position"
+  ],
+  [
+   "در سمت",
+   "به نشانی",
+   "employer_representative_position"
+  ],
+  [
+   "در سمت",
+   "طرف",
+   "employer_representative_position"
+  ],
+  [
+   "در سمت",
+   "طرف اول؛",
+   "employer_representative_position"
+  ],
+  [
+   "در شهر",
+   "EOL",
+   "city"
+  ],
+  [
+   "در شهر",
+   "منعقد",
+   "city"
+  ],
+  [
+   "در شهر",
+   "منعقد گردید.",
+   "city"
+  ],
+  [
+   "در شهر",
+   "منعقد گردید",
+   "city"
+  ],
+  [
+   "در شهر",
+   "از",
+   "city"
+  ],
+  [
+   "در شهر",
+   "از نظر",
+   "city"
+  ],
+  [
+   "در محل",
+   "EOL",
+   "work_location"
+  ],
+  [
+   "در محل",
+   "و",
+   "work_location"
+  ],
+  [
+   "در محل",
+   "و انجام",
+   "work_location"
+  ],
+  [
+   "در محل",
+   "به",
+   "work_location_name"
+  ],
+  [
+   "در محل",
+   "به نشانی",
+   "work_location_name"
+  ],
+  [
+   "روز) |",
+   "EOL",
+   "monthly_salary"
+  ],
+  [
+   "روز) |",
+   "|",
+   "monthly_salary"
+  ],
+  [
+   "روز) |",
+   "| |",
+   "monthly_salary"
+  ],
+  [
+   "روزانه",
+   "ریال.",
+   "seniority_allowance"
+  ],
+  [
+   "روزهای",
+   "از",
+   "work_days"
+  ],
+  [
+   "زیربنا",
+   "مترمربع",
+   "area"
+  ],
+  [
+   "کار در",
+   "EOL",
+   "workplace_address"
+  ],
+  [
+   "کار در",
+   "می‌باشد.",
+   "workplace_address"
+  ],
+  [
+   "کاربری",
+   "در",
+   "usage"
+  ],
+  [
+   "کارگاه",
+   "EOL",
+   "workplace_address"
+  ],
+  [
+   "کارگر:",
+   "فرزند",
+   "worker_name"
+  ],
+  [
+   "کارگری",
+   "ریال،",
+   "food_allowance"
+  ],
+  [
+   "کارگری",
+   "پایه",
+   "food_allowance"
+  ],
+  [
+   "کارمند",
+   "EOL",
+   "employee_name"
+  ],
+  [
+   "کارمند",
+   "فرزند",
+   "employee_name"
+  ],
+  [
+   "کارمند",
+   "فرزند [father_name]",
+   "employee_name"
+  ],
+  [
+   "کد ملی",
+   "نشانی",
+   "employer_national_id"
+  ],
+  [
+   "کد ملی",
+   "نشانی [employer_address]",
+   "employer_national_id"
+  ],
+  [
+   "کد ملی",
+   "متولد [nanny_birthdate]",
+   "nanny_national_id"
+  ],
+  [
+   "کد ملی",
+   "متولد [birth_date]",
+   "national_id_marketer"
+  ],
+  [
+   "کد ملی",
+   "و",
+   "employer_national_id"
+  ],
+  [
+   "کد ملی",
+   "و شماره",
+   "national_code"
+  ],
+  [
+   "کد ملی",
+   "و فرزند",
+   "employer_national_id"
+  ],
+  [
+   "کدپستی",
+   "که",
+   "employer_postal_code"
+  ],
+  [
+   "کدپستی",
+   "و",
+   "employee_postal_code"
+  ],
+  [
+   "کدپستی",
+   "تلفن",
+   "postal_code"
+  ],
+  [
+   "کدپستی",
+   "EOL",
+   "postal_code"
+  ],
+  [
+   "کدپستی",
+   "تلفن [mobile]",
+   "postal_code"
+  ],
+  [
+   "ماهانه",
+   "ریال",
+   "salary"
+  ],
+  [
+   "ماهانه",
+   "EOL",
+   "attraction_allowance"
+  ],
+  [
+   "ماهانه",
+   "ریال 4-3)",
+   "attraction_allowance"
+  ],
+  [
+   "مترجم:",
+   "فرزند",
+   "translator_name"
+  ],
+  [
+   "مسکن |",
+   "EOL",
+   "housing_allowance"
+  ],
+  [
+   "مسکن |",
+   "|",
+   "housing_allowance"
+  ],
+  [
+   "مسکن |",
+   "| |",
+   "housing_allowance"
+  ],
+  [
+   "مشاور:",
+   "فرزند",
+   "consultant_name"
+  ],
+  [
+   "نگهبان",
+   "EOL",
+   "guard_name"
+  ],
+  [
+   "نگهبان",
+   "فرزند",
+   "guard_name"
+  ],
+  [
+   "نگهبان",
+   "فرزند [father_name]",
+   "guard_name"
+  ],
+  [
+   "و تلفن",
+   "کارگر",
+   "employer_address"
+  ],
+  [
+   "و تلفن",
+   "کارگر (یا",
+   "employer_address"
+  ],
+  [
+   "و تلفن",
+   "به",
+   "employer_contact"
+  ],
+  [
+   "و تلفن",
+   "به نمایندگی",
+   "employer_contact"
+  ],
+  [
+   "و تلفن",
+   "میزان",
+   "employee_contact"
+  ],
+  [
+   "و تلفن",
+   "میزان تحصیلات",
+   "employee_contact"
+  ],
+  [
+   "و تلفن",
+   "و",
+   "employer_phone"
+  ],
+  [
+   "و تلفن",
+   "و دورنگار",
+   "employer_phone"
+  ],
+  [
+   "و مسکن",
+   "EOL",
+   "housing_food_allowance"
+  ],
+  [
+   "و مسکن",
+   "کمک",
+   "housing_food_allowance"
+  ],
+  [
+   "و مسکن",
+   "کمک عائله‌مندی",
+   "housing_food_allowance"
+  ],
+  [
+   "اولاد",
+   "ریال،",
+   "child_allowance"
+  ],
+  [
+   "اولاد",
+   "بن",
+   "child_allowance"
+  ],
+  [
+   "ایمیل",
+   "EOL",
+   "email"
+  ],
+  [
+   "پروژه",
+   "با",
+   "project_type"
+  ],
+  [
+   "پروژه",
+   "EOL",
+   "project_type"
+  ],
+  [
+   "پروژه",
+   "با کاربری",
+   "project_type"
+  ],
+  [
+   "تاریخ",
+   "شروع",
+   "contract_start_date"
+  ],
+  [
+   "تاریخ",
+   "به",
+   "contract_end_date"
+  ],
+  [
+   "تاریخ",
+   "لغایت",
+   "start_date"
+  ],
+  [
+   "تاریخ",
+   "بین",
+   "contract_date"
+  ],
+  [
+   "تاریخ",
+   "در",
+   "contract_date"
+  ],
+  [
+   "تاریخ",
+   "EOL",
+   "contract_date"
+  ],
+  [
+   "تاریخ",
+   "منعقد",
+   "contract_date"
+  ],
+  [
+   "تاریخ",
+   "و",
+   "contract_date"
+  ],
+  [
+   "تاریخ",
+   "آغاز",
+   "effective_date"
+  ],
+  [
+   "تاریخ",
+   "معتبر",
+   "termination_date"
+  ],
+  [
+   "تاریخ",
+   "می",
+   "contract_end_date"
+  ],
+  [
+   "تاریخ",
+   "تنظیم",
+   "contract_signing_date"
+  ],
+  [
+   "تدریس",
+   "ساعت",
+   "total_hours"
+  ],
+  [
+   "جمع |",
+   "EOL",
+   "total_salary"
+  ],
+  [
+   "جمع |",
+   "|",
+   "total_salary"
+  ],
+  [
+   "حداقل",
+   "روز",
+   "notice_period"
+  ],
+  [
+   "حقوقی",
+   "فرزند",
+   "lawyer_name"
+  ],
+  [
+   "خودرو",
+   "با",
+   "vehicle_type"
+  ],
+  [
+   "ساعتی",
+   "ریال",
+   "base_salary"
+  ],
+  [
+   "ساعتی",
+   "ریال.",
+   "base_salary"
+  ],
+  [
+   "سنوات",
+   "EOL",
+   "seniority"
+  ],
+  [
+   "سنوات",
+   "ریال.",
+   "seniority_allowance"
+  ],
+  [
+   "شماره",
+   "مورخ",
+   "original_contract_number"
+  ],
+  [
+   "شماره",
+   "نزد",
+   "bank_account"
+  ],
+  [
+   "شماره",
+   "صادره",
+   "employer_id"
+  ],
+  [
+   "عنوان",
+   "در",
+   "job_title"
+  ],
+  [
+   "فرزند",
+   "کدملی [employer_national_id]",
+   "employer_father"
+  ],
+  [
+   "فرزند",
+   "کدملی [employee_national_id]",
+   "employee_father"
+  ],
+  [
+   "فرزند",
+   "کد",
+   "employer_father"
+  ],
+  [
+   "فرزند",
+   "کد ملی",
+   "employer_father"
+  ],
+  [
+   "فرزند",
+   "شماره",
+   "father_name"
+  ],
+  [
+   "فرزند",
+   "متولد",
+   "employee_father"
+  ],
+  [
+   "فرزند",
+   "متولد [employee_birthdate]",
+   "employee_father"
+  ],
+  [
+   "فرزند",
+   "دارای شماره",
+   "father_name"
+  ],
+  [
+   "فرزند",
+   "دارای کد",
+   "father_name"
+  ],
+  [
+   "فرزند",
+   "شماره ملی",
+   "father_name"
+  ],
+  [
+   "فرزند",
+   "به",
+   "employer_father"
+  ],
+  [
+   "فرزند",
+   "متولد [birth_date]",
+   "father_name"
+  ],
+  [
+   "فرزند",
+   "و",
+   "employer_father"
+  ],
+  [
+   "فرزند",
+   "به شماره",
+   "employee_father"
+  ],
+  [
+   "فرزند",
+   "شماره شناسنامه/شماره",
+   "employer_father"
+  ],
+  [
+   "فرزند",
+   "دارای شناسنامه",
+   "employer_father"
+  ],
+  [
+   "کارگر",
+   "EOL",
+   "job_title"
+  ],
+  [
+   "کارگر",
+   "فرزند",
+   "worker_name"
+  ],
+  [
+   "کارگر",
+   "فرزند [worker_father_name]",
+   "worker_name"
+  ],
+  [
+   "کدملی",
+   "آدرس",
+   "employer_national_id"
+  ],
+  [
+   "کدملی",
+   "تاریخ",
+   "employee_national_id"
+  ],
+  [
+   "کدملی",
+   "آدرس و",
+   "employer_national_id"
+  ],
+  [
+   "کدملی",
+   "تاریخ تولد",
+   "employee_national_id"
+  ],
+  [
+   "کدملی",
+   "شماره",
+   "employer_national_id"
+  ],
+  [
+   "کدملی",
+   "شماره ثبت",
+   "employer_national_id"
+  ],
+  [
+   "کدملی",
+   "نشانی",
+   "employee_national_id"
+  ],
+  [
+   "کدملی",
+   "نشانی و",
+   "employee_national_id"
+  ],
+  [
+   "لغایت",
+   "است",
+   "end_date"
+  ],
+  [
+   "لغایت",
+   "EOL",
+   "end_date"
+  ],
+  [
+   "لغایت",
+   "است.",
+   "end_date"
+  ],
+  [
+   "لغایت",
+   "به",
+   "end_date"
+  ],
+  [
+   "لغایت",
+   "به مدت",
+   "end_date"
+  ],
+  [
+   "لغایت",
+   "ماه",
+   "contract_end_date"
+  ],
+  [
+   "مترجم",
+   "EOL",
+   "translator_name"
+  ],
+  [
+   "مترجم",
+   "فرزند",
+   "translator_name"
+  ],
+  [
+   "مترجم",
+   "فرزند [father_name]",
+   "translator_name"
+  ],
+  [
+   "متولد",
+   "نشانی",
+   "birth_date"
+  ],
+  [
+   "متولد",
+   "نشانی [nanny_address]",
+   "nanny_birthdate"
+  ],
+  [
+   "متولد",
+   "شماره",
+   "birth_date"
+  ],
+  [
+   "متولد",
+   "شماره شناسنامه",
+   "employee_birthdate"
+  ],
+  [
+   "متولد",
+   "نشانی [address]",
+   "birth_date"
+  ],
+  [
+   "متولد",
+   "پست",
+   "employer_representative_birthdate"
+  ],
+  [
+   "متولد",
+   "به",
+   "employee_birthdate"
+  ],
+  [
+   "متولد",
+   "پست الکترونیک",
+   "employer_representative_birthdate"
+  ],
+  [
+   "متولد",
+   "به شماره",
+   "employee_birthdate"
+  ],
+  [
+   "متولد",
+   "نشانی [home_address]",
+   "birth_date"
+  ],
+  [
+   "متولد",
+   "شماره تماس",
+   "birth_date"
+  ],
+  [
+   "متولد",
+   "در",
+   "employer_representative_birthdate"
+  ],
+  [
+   "متولد",
+   "در سمت",
+   "employer_representative_birthdate"
+  ],
+  [
+   "مدرس:",
+   "شماره",
+   "teacher_name"
+  ],
+  [
+   "مربی:",
+   "فرزند",
+   "trainer_name"
+  ],
+  [
+   "مزایا",
+   "ریال",
+   "other_allowances"
+  ],
+  [
+   "مزایا",
+   "ریال.",
+   "other_benefits"
+  ],
+  [
+   "مزایا",
+   "EOL",
+   "other_benefits"
+  ],
+  [
+   "مزایا",
+   "ریال تبصره",
+   "other_benefits"
+  ],
+  [
+   "مشاور",
+   "EOL",
+   "consultant_name"
+  ],
+  [
+   "مشاور",
+   "فرزند",
+   "consultant_name"
+  ],
+  [
+   "مشاور",
+   "فرزند [father_name]",
+   "consultant_name"
+  ],
+  [
+   "موکل:",
+   "فرزند",
+   "client_name"
+  ],
+  [
+   "مهارت",
+   "EOL",
+   "skill_level"
+  ],
+  [
+   "مهرات",
+   "به",
+   "employee_skill"
+  ],
+  [
+   "نشانی",
+   "تلفن [employer_phone]",
+   "employer_address"
+  ],
+  [
+   "نشانی",
+   "تحصیلات",
+   "address"
+  ],
+  [
+   "نشانی",
+   "تحصیلات [education_level]",
+   "address"
+  ],
+  [
+   "نشانی",
+   "تلفن [phone]",
+   "address"
+  ],
+  [
+   "نشانی",
+   "میزان مهارت",
+   "address"
+  ],
+  [
+   "نشانی",
+   "میزان تحصیلات",
+   "nanny_address"
+  ],
+  [
+   "نشانی",
+   "می‌باشد",
+   "work_address"
+  ],
+  [
+   "نشانی",
+   "تلفن [contractor_phone]",
+   "contractor_address"
+  ],
+  [
+   "نشانی",
+   "تلفن [company_phone]",
+   "company_address"
+  ],
+  [
+   "نشانی",
+   "نماینده",
+   "company_address"
+  ],
+  [
+   "نشانی",
+   "نماینده [board_representative]",
+   "company_address"
+  ],
+  [
+   "نشانی",
+   "شماره",
+   "developer_address"
+  ],
+  [
+   "نشانی",
+   "شماره تماس",
+   "developer_address"
+  ],
+  [
+   "نشانی",
+   "کد",
+   "address"
+  ],
+  [
+   "نشانی",
+   "کد پستی",
+   "address"
+  ],
+  [
+   "نشانی",
+   "تلفن [client_phone]",
+   "client_address"
+  ],
+  [
+   "نشانی",
+   "تلفن [lawyer_phone]",
+   "lawyer_address"
+  ],
+  [
+   "نشانی",
+   "کدپستی",
+   "address"
+  ],
+  [
+   "نشانی",
+   "کدپستی [postal_code]",
+   "address"
+  ],
+  [
+   "نشانی",
+   "منعقد",
+   "employee_address"
+  ],
+  [
+   "نشانی",
+   "می",
+   "work_location_address"
+  ],
+  [
+   "وکالت",
+   "EOL",
+   "license_number"
+  ],
+  [
+   "وکیل:",
+   "فرزند",
+   "lawyer_name"
+  ],
+  [
+   "همراه",
+   "و",
+   "employee_phone"
+  ],
+  [
+   "آقای",
+   "طی",
+   "employee_name"
+  ],
+  [
+   "آقای",
+   "با",
+   "employee_name"
+  ],
+  [
+   "بانک",
+   "شعبه",
+   "bank_name"
+  ],
+  [
+   "بانک",
+   "EOL",
+   "bank_name"
+  ],
+  [
+   "بانک",
+   "پرداخت",
+   "bank_name"
+  ],
+  [
+   "پستی",
+   "نماینده",
+   "company_postal_code"
+  ],
+  [
+   "پستی",
+   "تلفن",
+   "postal_code"
+  ],
+  [
+   "پلاک",
+   "و",
+   "vehicle_plate_number"
+  ],
+  [
+   "تأهل",
+   "EOL",
+   "marital_status"
+  ],
+  [
+   "تلفن",
+   "کارگر",
+   "employer_address"
+  ],
+  [
+   "تلفن",
+   "به",
+   "company_phone"
+  ],
+  [
+   "تلفن",
+   "میزان",
+   "employee_contact"
+  ],
+  [
+   "تلفن",
+   "ایمیل",
+   "phone"
+  ],
+  [
+   "تلفن",
+   "ایمیل [email]",
+   "phone"
+  ],
+  [
+   "تلفن",
+   "به نمایندگی",
+   "company_phone"
+  ],
+  [
+   "تلفن",
+   "و",
+   "employer_phone"
+  ],
+  [
+   "تلفن",
+   "پروانه",
+   "phone"
+  ],
+  [
+   "تلفن",
+   "پروانه وکالت",
+   "phone"
+  ],
+  [
+   "تلفن",
+   "تحصیلات",
+   "phone"
+  ],
+  [
+   "تلفن",
+   "تحصیلات [education]",
+   "phone"
+  ],
+  [
+   "تلفن",
+   "نشانی [address]",
+   "phone"
+  ],
+  [
+   "تلفن",
+   "نشانی [client_address]",
+   "client_phone"
+  ],
+  [
+   "تلفن",
+   "نشانی [consultant_address]",
+   "consultant_phone"
+  ],
+  [
+   "تلفن",
+   "رشته",
+   "lawyer_phone"
+  ],
+  [
+   "تلفن",
+   "رشته [field_of_study]",
+   "lawyer_phone"
+  ],
+  [
+   "تلفن",
+   "دورنگار",
+   "company_phone"
+  ],
+  [
+   "تلفن",
+   "دورنگار [company_fax]",
+   "company_phone"
+  ],
+  [
+   "تلفن",
+   "پست",
+   "mobile"
+  ],
+  [
+   "تلفن",
+   "پست الکترونیک",
+   "mobile"
+  ],
+  [
+   "تولد",
+   "آدرس",
+   "employee_birthdate"
+  ],
+  [
+   "حقوق",
+   "ریال",
+   "salary"
+  ],
+  [
+   "خانم",
+   "به",
+   "employer_name"
+  ],
+  [
+   "خانم",
+   "EOL",
+   "employer_name"
+  ],
+  [
+   "خانم",
+   "فرزند [employer_father]",
+   "employer_name"
+  ],
+  [
+   "خانم",
+   "فرزند [employee_father]",
+   "employee_name"
+  ],
+  [
+   "خانم",
+   "متعهد",
+   "employee_name"
+  ],
+  [
+   "ساعت",
+   "است.",
+   "end_time"
+  ],
+  [
+   "ساعت",
+   "بعد",
+   "morning_end"
+  ],
+  [
+   "ساکن",
+   "EOL",
+   "employer_address"
+  ],
+  [
+   "ساکن",
+   "که در",
+   "employer_address"
+  ],
+  [
+   "ساکن",
+   "که از",
+   "employee_address"
+  ],
+  [
+   "شامل",
+   "به",
+   "document_type"
+  ],
+  [
+   "شامل",
+   "EOL",
+   "document_type"
+  ],
+  [
+   "شامل",
+   "به حجم",
+   "document_type"
+  ],
+  [
+   "شرکت",
+   "و",
+   "company_name"
+  ],
+  [
+   "شرکت",
+   "به",
+   "company_name"
+  ],
+  [
+   "شرکت",
+   "شماره",
+   "company_name"
+  ],
+  [
+   "شرکت",
+   "EOL",
+   "company_name"
+  ],
+  [
+   "شرکت",
+   "شماره ثبت",
+   "company_name"
+  ],
+  [
+   "شرکت",
+   "شناسه",
+   "company_name"
+  ],
+  [
+   "شرکت",
+   "شناسه ملی",
+   "company_name"
+  ],
+  [
+   "شرکت",
+   "به شماره",
+   "company_name"
+  ],
+  [
+   "شرکت",
+   "فرزند",
+   "company_name"
+  ],
+  [
+   "شعبه",
+   "EOL",
+   "bank_branch"
+  ],
+  [
+   "شعبه",
+   "انجام",
+   "bank_branch"
+  ],
+  [
+   "شعبه",
+   "انجام می‌گردد.",
+   "bank_branch"
+  ],
+  [
+   "شعبه",
+   "توسط",
+   "bank_branch"
+  ],
+  [
+   "شعبه",
+   "توسط کارفرما",
+   "bank_branch"
+  ],
+  [
+   "صورت",
+   "است.",
+   "contract_type"
+  ],
+  [
+   "فروش",
+   ".",
+   "work_address"
+  ],
+  [
+   "قسمت",
+   "شرکت",
+   "work_department"
+  ],
+  [
+   "کار،",
+   "ساعت",
+   "weekly_hours"
+  ],
+  [
+   "کارت",
+   "نزد",
+   "bank_card"
+  ],
+  [
+   "مدرس",
+   "EOL",
+   "teacher_name"
+  ],
+  [
+   "مدرس",
+   "شماره",
+   "teacher_name"
+  ],
+  [
+   "مدرس",
+   "شماره ملی",
+   "teacher_name"
+  ],
+  [
+   "مربی",
+   "EOL",
+   "trainer_name"
+  ],
+  [
+   "مربی",
+   "فرزند",
+   "trainer_name"
+  ],
+  [
+   "مربی",
+   "فرزند [father_name]",
+   "trainer_name"
+  ],
+  [
+   "مسکن",
+   "ریال،",
+   "housing_allowance"
+  ],
+  [
+   "مسکن",
+   "حق",
+   "housing_allowance"
+  ],
+  [
+   "مسکن",
+   "EOL",
+   "housing_allowance"
+  ],
+  [
+   "مسکن",
+   "ریال",
+   "housing_allowance"
+  ],
+  [
+   "مسکن",
+   "ریال 4-4)",
+   "housing_allowance"
+  ],
+  [
+   "مسکن",
+   "کمک",
+   "housing_food_allowance"
+  ],
+  [
+   "مندی",
+   "EOL",
+   "child_allowance"
+  ],
+  [
+   "مندی",
+   "ریال",
+   "child_allowance"
+  ],
+  [
+   "مندی",
+   "ریال ۴-۵)",
+   "child_allowance"
+  ],
+  [
+   "مورخ",
+   "طرفین",
+   "original_contract_date"
+  ],
+  [
+   "مورخ",
+   "EOL",
+   "original_contract_date"
+  ],
+  [
+   "مورخ",
+   "طرفین توافق",
+   "original_contract_date"
+  ],
+  [
+   "موکل",
+   "EOL",
+   "client_name"
+  ],
+  [
+   "موکل",
+   "فرزند",
+   "client_name"
+  ],
+  [
+   "موکل",
+   "فرزند [father_name]",
+   "client_name"
+  ],
+  [
+   "و تا",
+   "EOL",
+   "confidentiality_period"
+  ],
+  [
+   "و تا",
+   "سال",
+   "confidentiality_period"
+  ],
+  [
+   "و تا",
+   "سال پس",
+   "confidentiality_period"
+  ],
+  [
+   "و در",
+   "به",
+   "contract_place"
+  ],
+  [
+   "و در",
+   "EOL",
+   "contract_place"
+  ],
+  [
+   "و در",
+   "به شرح",
+   "contract_place"
+  ],
+  [
+   "وکیل",
+   "EOL",
+   "lawyer_name"
+  ],
+  [
+   "وکیل",
+   "فرزند",
+   "lawyer_name"
+  ],
+  [
+   "وکیل",
+   "فرزند [father_name_2]",
+   "lawyer_name"
+  ],
+  [
+   "بخش",
+   "و",
+   "department"
+  ],
+  [
+   "بخش",
+   "EOL",
+   "department"
+  ],
+  [
+   "ثبت",
+   "شناسه",
+   "registration_number"
+  ],
+  [
+   "ثبت",
+   "و",
+   "registration_number"
+  ],
+  [
+   "ثبت",
+   "شماره",
+   "employer_registration_number"
+  ],
+  [
+   "ثبت",
+   "به",
+   "employer_id"
+  ],
+  [
+   "جذب",
+   "خواربار",
+   "attraction_allowance"
+  ],
+  [
+   "جمع",
+   "EOL",
+   "total_salary"
+  ],
+  [
+   "حجم",
+   "کلمه",
+   "word_count"
+  ],
+  [
+   "سمت",
+   "EOL",
+   "position"
+  ],
+  [
+   "سمت",
+   "و",
+   "representative_position"
+  ],
+  [
+   "سمت",
+   "نشانی",
+   "position"
+  ],
+  [
+   "سمت",
+   "نشانی [company_address]",
+   "position"
+  ],
+  [
+   "سمت",
+   "به",
+   "employer_representative_position"
+  ],
+  [
+   "سمت",
+   "طرف",
+   "employer_representative_position"
+  ],
+  [
+   "سمت",
+   "نشانی [address]",
+   "position"
+  ],
+  [
+   "سمت",
+   "نشانی [employer_address]",
+   "employer_position"
+  ],
+  [
+   "شهر",
+   "منعقد",
+   "city"
+  ],
+  [
+   "شهر",
+   "خواهد",
+   "jurisdiction_city"
+  ],
+  [
+   "شهر",
+   "از",
+   "city"
+  ],
+  [
+   "کار",
+   "ساعت",
+   "weekly_hours"
+  ],
+  [
+   "کار",
+   "EOL",
+   "work_location"
+  ],
+  [
+   "کار",
+   "میزان",
+   "working_hours"
+  ],
+  [
+   "کسر",
+   "%",
+   "deduction_percent"
+  ],
+  [
+   "کسر",
+   "EOL",
+   "deduction_percent"
+  ],
+  [
+   "کسر",
+   "% به",
+   "deduction_percent"
+  ],
+  [
+   "محل",
+   "و",
+   "work_location"
+  ],
+  [
+   "محل",
+   "به",
+   "work_location_name"
+  ],
+  [
+   "مدت",
+   "ماه",
+   "duration"
+  ],
+  [
+   "مدت",
+   "سال",
+   "duration"
+  ],
+  [
+   "مدت",
+   "روز",
+   "duration"
+  ],
+  [
+   "مدت",
+   "EOL",
+   "duration"
+  ],
+  [
+   "ملی",
+   "منعقد",
+   "national_id"
+  ],
+  [
+   "ملی",
+   "و",
+   "employer_national_id"
+  ],
+  [
+   "ملی",
+   "شماره",
+   "national_id"
+  ],
+  [
+   "ملی",
+   "میزان",
+   "employee_national_id"
+  ],
+  [
+   "از",
+   "تا",
+   "start_time"
+  ],
+  [
+   "از",
+   "ساکن",
+   "employer_issued_at"
+  ],
+  [
+   "به",
+   "شامل",
+   "target_language"
+  ],
+  [
+   "به",
+   "EOL",
+   "target_language"
+  ],
+  [
+   "به",
+   "شامل [document_type]",
+   "target_language"
+  ],
+  [
+   "تا",
+   "و",
+   "end_time"
+  ],
+  [
+   "تا",
+   "EOL",
+   "thursday_end"
+  ],
+  [
+   "تا",
+   "و پنج‌شنبه",
+   "end_time"
+  ],
+  [
+   "در",
+   "می‌باشد.",
+   "workplace_address"
+  ],
+  [
+   "در",
+   "به",
+   "contract_place"
+  ],
+  [
+   "در",
+   "با",
+   "project_address"
+  ],
+  [
+   "در",
+   "با زیربنا",
+   "project_address"
+  ],
+  [
+   "کل",
+   "ریال",
+   "total_salary"
+  ],
+  [
+   "هر",
+   "پرداخت",
+   "unit"
+  ]
  ]
-]
+}

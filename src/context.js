@@ -5,17 +5,18 @@
 import { readFileSync } from 'node:fs';
 
 /**
- * GENERATED map, mined from the dataset itself (npm run build-map).
- * These entries are dataset ground truth and take PRIORITY over the
- * hand-curated list below.
+ * GENERATED output of `npm run build-map` (dataset ground truth).
+ * Accepts the object format {keywords, pairs} and the legacy plain array
+ * of [keyword, slot].
  */
-const GENERATED_SLOTS = (() => {
+const GENERATED = (() => {
   try {
-    return JSON.parse(
+    const g = JSON.parse(
       readFileSync(new URL('./keyword-slots.generated.json', import.meta.url), 'utf8'),
     );
+    return Array.isArray(g) ? { keywords: g, pairs: [] } : g;
   } catch {
-    return []; // generated file missing → hand map only
+    return { keywords: [], pairs: [] }; // generated file missing → hand map only
   }
 })();
 
@@ -234,17 +235,64 @@ const KEYWORD_SLOTS = [
   ['نزد بانک', 'bank_name'],
 ];
 
-/** Best keyword match for `window` in one ordered [keyword, slot] list. */
-function bestIn(list, window) {
-  let best = null, bestIdx = -1, bestLen = 0;
-  for (const [keyword, slot] of list) {
-    const idx = window.lastIndexOf(keyword);
-    if (idx === -1) continue;
-    if (idx > bestIdx || (idx === bestIdx && keyword.length > bestLen)) {
-      bestIdx = idx;
-      bestLen = keyword.length;
-      best = slot;
+// ------------------------------------------------------------------
+// FAST lookups: build lookup structures ONCE at module load instead of
+// scanning ~730 keyword entries per placeholder.
+// ------------------------------------------------------------------
+
+/** Normalize Arabic/Persian look-alike chars so map keys and regex hits agree. */
+export function normFa(s) {
+  return s
+    .replace(/[يى]/g, 'ی')
+    .replace(/ك/g, 'ک')
+    .replace(/[ۀة]/g, 'ه')
+    .replace(/ٔ/g, '');
+}
+
+/** keyword text -> slot. Generated (dataset) entries win over hand list. */
+const ALL_KEYWORDS = (() => {
+  const m = new Map();
+  // insert hand entries first, then generated ones overwrite → dataset wins
+  for (const [kw, slot] of KEYWORD_SLOTS) m.set(normFa(kw), slot);
+  for (const [kw, slot] of GENERATED.keywords) m.set(normFa(kw), slot);
+  return m;
+})();
+
+/** Characters that must be escaped inside a regex pattern. */
+const RE_SPECIALS = new Set(['\\', '.', '*', '+', '?', '(', ')', '[', ']', '{', '}', '^', '$', '|']);
+
+function rePiece(s) {
+  // escape specials; make Arabic/Persian look-alikes interchangeable
+  let out = '';
+  for (const ch of s) {
+    if ('یيى'.includes(ch)) out += '[یيى]';
+    else if ('کك'.includes(ch)) out += '[کك]';
+    else if ('هۀة'.includes(ch)) out += '[هۀة]';
+    else out += (RE_SPECIALS.has(ch) ? '\\' : '') + ch;
+  }
+  return out;
+}
+
+/** ONE regex that matches any known keyword; longest alternatives first. */
+const KEYWORD_RE = new RegExp(
+  '(?:' + [...ALL_KEYWORDS.keys()].sort((a, b) => b.length - a.length).map(rePiece).join('|') + ')',
+  'gu',
+);
+
+/** Best label match inside `window`: rightmost occurrence, ties → longest. */
+function keywordIn(window) {
+  KEYWORD_RE.lastIndex = 0;
+  let best = null;
+  let bestIdx = -1;
+  let bestLen = 0;
+  let m;
+  while ((m = KEYWORD_RE.exec(window)) !== null) {
+    if (best === null || m.index > bestIdx || (m.index === bestIdx && m[0].length > bestLen)) {
+      bestIdx = m.index;
+      bestLen = m[0].length;
+      best = ALL_KEYWORDS.get(normFa(m[0])) ?? null;
     }
+    if (KEYWORD_RE.lastIndex === m.index) KEYWORD_RE.lastIndex++;
   }
   return best;
 }
@@ -253,7 +301,7 @@ function bestIn(list, window) {
  * Given a dotted_placeholder match inside `text`, return the Persian slot hint
  * found in the words immediately before the blank.
  *
- * Looks at up to ~40 chars / 2 lines before the gap — the label usually sits at
+ * Looks at up to ~60 chars / 2 lines before the gap — the label usually sits at
  * the end of the previous line (e.g. "فرزند: ..............................").
  */
 const WINDOW_CHARS = 60;
@@ -265,7 +313,138 @@ export function slotHintForPlaceholder(text, start) {
   if (/^[.\u2026\s]+$/.test(window)) {
     window = text.slice(Math.max(0, start - 160), start);
   }
-  // Pick the keyword occurring closest to the blank (largest lastIndexOf in the window).  // Ties broken by LONGER keyword first so "عبارت است از ترجمه" beats "عبارت است از".
-  // Generated (dataset-mined) entries are checked first; hand map is fallback.
-  return bestIn(GENERATED_SLOTS, window) ?? bestIn(KEYWORD_SLOTS, window);
+  return keywordIn(window);
 }
+
+// ------------------------------------------------------------------
+// BLANK GAPS: contracts where values were stripped with NO dots left,
+// just whitespace between labels ("آقای/خانم   فرزند   به شماره...").
+// Detected with dataset-mined (before, after) token pairs; bucketed by
+// the LAST word of `before` so each candidate run inspects only a few
+// pairs instead of scanning every pair across the whole text.
+// ------------------------------------------------------------------
+
+const GAP_WS = /[ \t\u00A0\u200c]/;
+const LINE_WS = /[ \t]/;
+
+const PAIR_BUCKETS = (() => {
+  const buckets = new Map();
+  for (const [before, after, slot] of GENERATED.pairs) {
+    const last = normFa(before).trim().split(/\s+/).pop();
+    if (!last) continue;
+    let arr = buckets.get(last);
+    if (!arr) { arr = []; buckets.set(last, arr); }
+    arr.push({
+      before,
+      after: after || 'EOL',
+      slot,
+      endRe: new RegExp('(?:' + rePiece(before) + ')[:：]?$', ''),
+      afterRe: after && after !== 'EOL'
+        ? new RegExp('^(?:' + rePiece(after) + ')', '')
+        : null,
+    });
+  }
+  return buckets;
+})();
+
+function bucketFor(preClean) {
+  const words = normFa(preClean).split(/[\s\u200c]+/).filter(Boolean);
+  const last = words[words.length - 1];
+  return last ? PAIR_BUCKETS.get(last) : null;
+}
+
+/** Collect non-overlapping blank-gap slot hints for `text`. */
+export function detectBlankGaps(text) {
+  if (!text || !PAIR_BUCKETS.size) return [];
+  const found = [];
+
+  // 1) mid-line runs of ≥2 spaces/tabs (runs touching '\n' are handled by 2)
+  RUN_RE.lastIndex = 0;
+  let m;
+  while ((m = RUN_RE.exec(text)) !== null) {
+    const g0 = m.index;
+    const g1 = m.index + m[0].length;
+    if (text[g1] === '\n' || text[g1] === '\r') continue;
+    const pre = text.slice(0, g0).replace(/[ \t:：]+$/, '');
+    const bucket = bucketFor(pre);
+    if (!bucket) continue;
+    for (const p of bucket) {
+      if (!p.endRe.test(pre)) continue;
+      if (p.afterRe && !p.afterRe.test(text.slice(g1, g1 + 40))) continue;
+      found.push({ name: p.slot, start: g0, end: g1 });
+    }
+  }
+
+  // 2) line-end gaps: any whitespace between the last label and '\n'
+  LF_RE.lastIndex = 0;
+  while ((m = LF_RE.exec(text)) !== null) {
+    const n = m.index;
+    const lineStart = text.lastIndexOf('\n', n - 1) + 1;
+    const line = text.slice(lineStart, n);
+    const trimmed = line.replace(/[ \t]+$/, '');
+    if (trimmed.length === line.length) continue;        // no trailing ws → prose line
+    const pre = trimmed.replace(/[ \t:：]+$/, '');
+    const bucket = bucketFor(pre);
+    if (!bucket) continue;
+    for (const p of bucket) {
+      if (p.after !== 'EOL' || !p.endRe.test(pre)) continue;
+      found.push({ name: p.slot, start: lineStart + pre.length, end: n });
+    }
+  }
+
+  // 3) keyword fallback for runs the pair map missed: a known label ending
+  //    exactly at the run start (colon allowed). Lower precision → only used
+  //    where no pair matched that run.
+  RUN_RE.lastIndex = 0;
+  while ((m = RUN_RE.exec(text)) !== null) {
+    const g0 = m.index;
+    const g1 = m.index + m[0].length;
+    if (text[g1] === '\n' || text[g1] === '\r') continue;
+    const pre = text.slice(0, g0).replace(/[ \t:：]+$/, '');
+    if (!pre) continue;
+    KEYWORD_END_RE.lastIndex = 0;
+    const km = KEYWORD_END_RE.exec(pre);
+    if (!km) continue;
+    if (pre.length - km[0].length > 0 && /[\p{L}\p{N}]/u.test(pre[pre.length - km[0].length - 1])) {
+      // the "label" is glued to a longer word inside it — false positive guard
+      continue;
+    }
+    found.push({ name: ALL_KEYWORDS.get(normFa(km[0])) ?? null, start: g0, end: g1 });
+  }
+  LF_RE.lastIndex = 0;
+  while ((m = LF_RE.exec(text)) !== null) {
+    const n = m.index;
+    const lineStart = text.lastIndexOf('\n', n - 1) + 1;
+    const line = text.slice(lineStart, n);
+    const trimmed = line.replace(/[ \t]+$/, '');
+    if (trimmed.length === line.length) continue;
+    const pre = trimmed.replace(/[ \t:：]+$/, '');
+    if (!pre) continue;
+    KEYWORD_END_RE.lastIndex = 0;
+    const km = KEYWORD_END_RE.exec(pre);
+    if (!km) continue;
+    if (pre.length > km[0].length && /\p{L}\p{N}/u.test(pre[pre.length - km[0].length - 1])) continue;
+    found.push({ name: ALL_KEYWORDS.get(normFa(km[0])) ?? null, start: lineStart + pre.length, end: n });
+  }
+
+  // 4) dedupe overlaps (leftmost wins, NULLs dropped)
+  found.sort((a, b) => a.start - b.start || (a.end - a.start) - (b.end - b.start));
+  const out = [];
+  let lastEnd = -1;
+  for (const g of found) {
+    if (g.start < lastEnd) continue;
+    if (g.name === null) continue;
+    out.push(g);
+    lastEnd = g.end;
+  }
+  return out;
+}
+
+const RUN_RE = /[ \t]{2,}/g;
+const LF_RE = /\n/g;
+/** Same alternation, but anchored at the END of the given string. */
+const KEYWORD_END_RE = new RegExp(
+  '(?:' + [...ALL_KEYWORDS.keys()].sort((a, b) => b.length - a.length).map(rePiece).join('|') + ')$',
+  'u',
+);
+

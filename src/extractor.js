@@ -3,7 +3,7 @@
  * and returns their positions as JSON.
  */
 
-import { slotHintForPlaceholder } from './context.js';
+import { slotHintForPlaceholder, detectBlankGaps } from './context.js';
 
 const BRACKET_RE = /\[([^\[\]]+)\]/g;   // [variable_name]
 const BRACE_RE = /\{\{([^{}]+)\}\}/g;   // {{variable_name}} (clauses dataset style)
@@ -39,6 +39,17 @@ export function extractVariablesFromText(text) {
       raw: m[0],
     });
     if (SLOT_RE.lastIndex === m.index) SLOT_RE.lastIndex++;
+  }
+
+  // blank gaps (whitespace-only slots with NO dots) ← dataset (before,after) pairs
+  for (const g of detectBlankGaps(text)) {
+    variables.push({
+      name: g.name,
+      kind: 'blank_gap',
+      start: g.start,
+      end: g.end,
+      raw: text.slice(g.start, g.end),
+    });
   }
 
   variables.sort((a, b) => a.start - b.start);
