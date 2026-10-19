@@ -3,213 +3,1004 @@
     {
       "name": "employer_name",
       "kind": "dotted_placeholder",
-      "start": 39,
-      "end": 69,
-      "raw": ".............................."
+      "start": 146,
+      "end": 152,
+      "raw": "………………"
     },
     {
       "name": "father_name",
       "kind": "dotted_placeholder",
-      "start": 78,
-      "end": 108,
-      "raw": ".............................."
+      "start": 159,
+      "end": 163,
+      "raw": "…………"
     },
     {
-      "name": "national_id",
+      "name": "registration_number",
       "kind": "dotted_placeholder",
-      "start": 118,
-      "end": 148,
-      "raw": ".............................."
+      "start": 194,
+      "end": 198,
+      "raw": "…………"
     },
     {
-      "name": "employer_phone",
+      "name": "address",
       "kind": "dotted_placeholder",
-      "start": 163,
-      "end": 193,
-      "raw": ".............................."
+      "start": 210,
+      "end": 223,
+      "raw": "…………………………………"
     },
     {
-      "name": "weekly_hours",
+      "name": "full_name",
       "kind": "dotted_placeholder",
-      "start": 226,
-      "end": 256,
-      "raw": ".............................."
+      "start": 244,
+      "end": 250,
+      "raw": "………………"
     },
     {
       "name": "father_name",
       "kind": "dotted_placeholder",
-      "start": 265,
-      "end": 295,
-      "raw": ".............................."
+      "start": 257,
+      "end": 261,
+      "raw": "…………"
+    },
+    {
+      "name": "birth_date",
+      "kind": "dotted_placeholder",
+      "start": 270,
+      "end": 274,
+      "raw": "…………"
     },
     {
       "name": "national_id",
       "kind": "dotted_placeholder",
-      "start": 305,
-      "end": 335,
-      "raw": ".............................."
+      "start": 290,
+      "end": 294,
+      "raw": "…………"
     },
     {
-      "name": "employee_birthdate",
+      "name": "education_level",
       "kind": "dotted_placeholder",
-      "start": 349,
-      "end": 379,
-      "raw": ".............................."
+      "start": 311,
+      "end": 315,
+      "raw": "…………"
     },
     {
-      "name": "employer_phone",
+      "name": "address",
       "kind": "dotted_placeholder",
-      "start": 394,
-      "end": 424,
-      "raw": ".............................."
+      "start": 327,
+      "end": 340,
+      "raw": "…………………………………"
     },
     {
-      "name": "weekly_hours",
+      "name": "job_title",
       "kind": "dotted_placeholder",
-      "start": 470,
-      "end": 500,
-      "raw": ".............................."
+      "start": 384,
+      "end": 390,
+      "raw": "………………"
     },
     {
-      "name": "weekly_hours",
+      "name": "address",
       "kind": "dotted_placeholder",
-      "start": 604,
-      "end": 634,
-      "raw": ".............................."
+      "start": 419,
+      "end": 432,
+      "raw": "…………………………………"
     },
     {
-      "name": "duration",
+      "name": "start_date",
       "kind": "dotted_placeholder",
-      "start": 759,
-      "end": 789,
-      "raw": ".............................."
+      "start": 534,
+      "end": 538,
+      "raw": "…………"
     },
     {
       "name": "end_date",
       "kind": "dotted_placeholder",
-      "start": 804,
-      "end": 834,
-      "raw": ".............................."
+      "start": 547,
+      "end": 551,
+      "raw": "…………"
     },
     {
-      "name": "probation_period",
+      "name": "duration",
       "kind": "dotted_placeholder",
-      "start": 849,
-      "end": 859,
-      "raw": ".........."
+      "start": 561,
+      "end": 565,
+      "raw": "…………"
     },
     {
-      "name": "work_location",
+      "name": "amount",
       "kind": "dotted_placeholder",
-      "start": 1190,
-      "end": 1196,
-      "raw": "......"
+      "start": 757,
+      "end": 761,
+      "raw": "…………"
     },
     {
-      "name": "work_location",
+      "name": "duration",
       "kind": "dotted_placeholder",
-      "start": 1205,
-      "end": 1211,
-      "raw": "......"
+      "start": 912,
+      "end": 916,
+      "raw": "…………"
+    },
+    {
+      "name": "bank_name",
+      "kind": "dotted_placeholder",
+      "start": 928,
+      "end": 932,
+      "raw": "…………"
+    },
+    {
+      "name": "bank_branch",
+      "kind": "dotted_placeholder",
+      "start": 940,
+      "end": 944,
+      "raw": "…………"
     },
     {
       "name": "seniority_allowance",
       "kind": "dotted_placeholder",
-      "start": 1402,
-      "end": 1432,
-      "raw": ".............................."
+      "start": 1043,
+      "end": 1047,
+      "raw": "…………"
     },
     {
-      "name": "seniority",
+      "name": "seniority_allowance",
       "kind": "dotted_placeholder",
-      "start": 1442,
-      "end": 1472,
-      "raw": ".............................."
+      "start": 1063,
+      "end": 1067,
+      "raw": "…………"
     },
     {
-      "name": "salary",
+      "name": "contract_date",
       "kind": "dotted_placeholder",
-      "start": 1492,
-      "end": 1522,
-      "raw": ".............................."
+      "start": 2049,
+      "end": 2057,
+      "raw": "……………………"
     },
     {
-      "name": "housing_allowance",
+      "name": "employer_signature",
       "kind": "dotted_placeholder",
-      "start": 1529,
-      "end": 1559,
-      "raw": ".............................."
+      "start": 2132,
+      "end": 2138,
+      "raw": "………………"
     },
     {
-      "name": "food_allowance",
+      "name": "worker_signature",
       "kind": "dotted_placeholder",
-      "start": 1568,
-      "end": 1598,
-      "raw": ".............................."
+      "start": 2152,
+      "end": 2158,
+      "raw": "………………"
     },
     {
-      "name": "child_allowance",
+      "name": "worker_signature",
       "kind": "dotted_placeholder",
-      "start": 1608,
-      "end": 1616,
-      "raw": "........"
-    },
-    {
-      "name": "child_allowance",
-      "kind": "dotted_placeholder",
-      "start": 1623,
-      "end": 1653,
-      "raw": ".............................."
-    },
-    {
-      "name": "contract_type",
-      "kind": "dotted_placeholder",
-      "start": 1678,
-      "end": 1708,
-      "raw": ".............................."
-    },
-    {
-      "name": "salary",
-      "kind": "dotted_placeholder",
-      "start": 1721,
-      "end": 1751,
-      "raw": ".............................."
-    },
-    {
-      "name": "unit",
-      "kind": "dotted_placeholder",
-      "start": 1797,
-      "end": 1807,
-      "raw": ".........."
+      "start": 2166,
+      "end": 2172,
+      "raw": "………………"
     },
     {
       "name": "employer_name",
       "kind": "dotted_placeholder",
-      "start": 2684,
-      "end": 2714,
-      "raw": ".............................."
+      "start": 2548,
+      "end": 2554,
+      "raw": "………………"
     },
     {
-      "name": "confidentiality_period",
+      "name": "father_name",
       "kind": "dotted_placeholder",
-      "start": 2731,
-      "end": 2761,
-      "raw": ".............................."
+      "start": 2561,
+      "end": 2565,
+      "raw": "…………"
+    },
+    {
+      "name": "national_id",
+      "kind": "dotted_placeholder",
+      "start": 2581,
+      "end": 2585,
+      "raw": "…………"
+    },
+    {
+      "name": "address",
+      "kind": "dotted_placeholder",
+      "start": 2597,
+      "end": 2610,
+      "raw": "…………………………………"
+    },
+    {
+      "name": "full_name",
+      "kind": "dotted_placeholder",
+      "start": 2631,
+      "end": 2637,
+      "raw": "………………"
+    },
+    {
+      "name": "father_name",
+      "kind": "dotted_placeholder",
+      "start": 2644,
+      "end": 2648,
+      "raw": "…………"
+    },
+    {
+      "name": "birth_date",
+      "kind": "dotted_placeholder",
+      "start": 2657,
+      "end": 2661,
+      "raw": "…………"
+    },
+    {
+      "name": "national_id",
+      "kind": "dotted_placeholder",
+      "start": 2677,
+      "end": 2681,
+      "raw": "…………"
+    },
+    {
+      "name": "education_level",
+      "kind": "dotted_placeholder",
+      "start": 2698,
+      "end": 2702,
+      "raw": "…………"
+    },
+    {
+      "name": "address",
+      "kind": "dotted_placeholder",
+      "start": 2714,
+      "end": 2727,
+      "raw": "…………………………………"
     },
     {
       "name": "weekly_hours",
       "kind": "dotted_placeholder",
-      "start": 2790,
-      "end": 2820,
-      "raw": ".............................."
+      "start": 2810,
+      "end": 2837,
+      "raw": "………………………………………………………………………"
+    },
+    {
+      "name": "contract_start_date",
+      "kind": "dotted_placeholder",
+      "start": 2981,
+      "end": 2985,
+      "raw": "…………"
+    },
+    {
+      "name": "work_location",
+      "kind": "dotted_placeholder",
+      "start": 3146,
+      "end": 3170,
+      "raw": "………………………………………………………………"
+    },
+    {
+      "name": "contract_duration",
+      "kind": "dotted_placeholder",
+      "start": 3236,
+      "end": 3240,
+      "raw": "…………"
+    },
+    {
+      "name": "advance_payment",
+      "kind": "dotted_placeholder",
+      "start": 3291,
+      "end": 3295,
+      "raw": "…………"
+    },
+    {
+      "name": "installment_payment",
+      "kind": "dotted_placeholder",
+      "start": 3320,
+      "end": 3324,
+      "raw": "…………"
+    },
+    {
+      "name": "final_settlement",
+      "kind": "dotted_placeholder",
+      "start": 3374,
+      "end": 3378,
+      "raw": "…………"
+    },
+    {
+      "name": "fault_notice_period",
+      "kind": "dotted_placeholder",
+      "start": 4220,
+      "end": 4224,
+      "raw": "…………"
+    },
+    {
+      "name": "employer_signature",
+      "kind": "dotted_placeholder",
+      "start": 4657,
+      "end": 4663,
+      "raw": "………………"
+    },
+    {
+      "name": "worker_signature",
+      "kind": "dotted_placeholder",
+      "start": 4677,
+      "end": 4683,
+      "raw": "………………"
+    },
+    {
+      "name": "worker_signature",
+      "kind": "dotted_placeholder",
+      "start": 4691,
+      "end": 4697,
+      "raw": "………………"
+    },
+    {
+      "name": "employer_name",
+      "kind": "dotted_placeholder",
+      "start": 5067,
+      "end": 5073,
+      "raw": "………………"
+    },
+    {
+      "name": "father_name",
+      "kind": "dotted_placeholder",
+      "start": 5080,
+      "end": 5084,
+      "raw": "…………"
+    },
+    {
+      "name": "national_id",
+      "kind": "dotted_placeholder",
+      "start": 5100,
+      "end": 5104,
+      "raw": "…………"
+    },
+    {
+      "name": "address",
+      "kind": "dotted_placeholder",
+      "start": 5116,
+      "end": 5129,
+      "raw": "…………………………………"
+    },
+    {
+      "name": "full_name",
+      "kind": "dotted_placeholder",
+      "start": 5150,
+      "end": 5156,
+      "raw": "………………"
+    },
+    {
+      "name": "father_name",
+      "kind": "dotted_placeholder",
+      "start": 5163,
+      "end": 5167,
+      "raw": "…………"
+    },
+    {
+      "name": "birth_date",
+      "kind": "dotted_placeholder",
+      "start": 5176,
+      "end": 5180,
+      "raw": "…………"
+    },
+    {
+      "name": "national_id",
+      "kind": "dotted_placeholder",
+      "start": 5196,
+      "end": 5200,
+      "raw": "…………"
+    },
+    {
+      "name": "education_level",
+      "kind": "dotted_placeholder",
+      "start": 5217,
+      "end": 5221,
+      "raw": "…………"
+    },
+    {
+      "name": "national_id",
+      "kind": "dotted_placeholder",
+      "start": 5237,
+      "end": 5241,
+      "raw": "…………"
+    },
+    {
+      "name": "address",
+      "kind": "dotted_placeholder",
+      "start": 5253,
+      "end": 5266,
+      "raw": "…………………………………"
+    },
+    {
+      "name": "job_title",
+      "kind": "dotted_placeholder",
+      "start": 5337,
+      "end": 5343,
+      "raw": "………………"
+    },
+    {
+      "name": "job_title",
+      "kind": "dotted_placeholder",
+      "start": 5362,
+      "end": 5368,
+      "raw": "………………"
+    },
+    {
+      "name": "work_location",
+      "kind": "dotted_placeholder",
+      "start": 5376,
+      "end": 5389,
+      "raw": "…………………………………"
+    },
+    {
+      "name": "duties",
+      "kind": "dotted_placeholder",
+      "start": 5461,
+      "end": 5488,
+      "raw": "………………………………………………………………………"
+    },
+    {
+      "name": "duties",
+      "kind": "dotted_placeholder",
+      "start": 5490,
+      "end": 5517,
+      "raw": "………………………………………………………………………"
+    },
+    {
+      "name": "duties",
+      "kind": "dotted_placeholder",
+      "start": 5519,
+      "end": 5546,
+      "raw": "………………………………………………………………………"
+    },
+    {
+      "name": "start_date",
+      "kind": "dotted_placeholder",
+      "start": 5726,
+      "end": 5730,
+      "raw": "…………"
+    },
+    {
+      "name": "end_date",
+      "kind": "dotted_placeholder",
+      "start": 5739,
+      "end": 5743,
+      "raw": "…………"
+    },
+    {
+      "name": "duration",
+      "kind": "dotted_placeholder",
+      "start": 5753,
+      "end": 5757,
+      "raw": "…………"
+    },
+    {
+      "name": "work_location",
+      "kind": "dotted_placeholder",
+      "start": 5847,
+      "end": 5871,
+      "raw": "………………………………………………………………"
+    },
+    {
+      "name": "amount",
+      "kind": "dotted_placeholder",
+      "start": 5916,
+      "end": 5920,
+      "raw": "…………"
+    },
+    {
+      "name": "seniority_allowance",
+      "kind": "dotted_placeholder",
+      "start": 6157,
+      "end": 6161,
+      "raw": "…………"
+    },
+    {
+      "name": "seniority_allowance",
+      "kind": "dotted_placeholder",
+      "start": 6177,
+      "end": 6181,
+      "raw": "…………"
+    },
+    {
+      "name": "employer_signature",
+      "kind": "dotted_placeholder",
+      "start": 7330,
+      "end": 7336,
+      "raw": "………………"
+    },
+    {
+      "name": "worker_signature",
+      "kind": "dotted_placeholder",
+      "start": 7350,
+      "end": 7356,
+      "raw": "………………"
+    },
+    {
+      "name": "worker_signature",
+      "kind": "dotted_placeholder",
+      "start": 7364,
+      "end": 7370,
+      "raw": "………………"
+    },
+    {
+      "name": "employer_name",
+      "kind": "dotted_placeholder",
+      "start": 7743,
+      "end": 7749,
+      "raw": "………………"
+    },
+    {
+      "name": "father_name",
+      "kind": "dotted_placeholder",
+      "start": 7756,
+      "end": 7760,
+      "raw": "…………"
+    },
+    {
+      "name": "national_id",
+      "kind": "dotted_placeholder",
+      "start": 7776,
+      "end": 7780,
+      "raw": "…………"
+    },
+    {
+      "name": "address",
+      "kind": "dotted_placeholder",
+      "start": 7792,
+      "end": 7805,
+      "raw": "…………………………………"
+    },
+    {
+      "name": "full_name",
+      "kind": "dotted_placeholder",
+      "start": 7826,
+      "end": 7832,
+      "raw": "………………"
+    },
+    {
+      "name": "father_name",
+      "kind": "dotted_placeholder",
+      "start": 7839,
+      "end": 7843,
+      "raw": "…………"
+    },
+    {
+      "name": "national_id",
+      "kind": "dotted_placeholder",
+      "start": 7859,
+      "end": 7863,
+      "raw": "…………"
+    },
+    {
+      "name": "address",
+      "kind": "dotted_placeholder",
+      "start": 7875,
+      "end": 7888,
+      "raw": "…………………………………"
+    },
+    {
+      "name": "job_title",
+      "kind": "dotted_placeholder",
+      "start": 7959,
+      "end": 7965,
+      "raw": "………………"
+    },
+    {
+      "name": "work_location",
+      "kind": "dotted_placeholder",
+      "start": 7973,
+      "end": 7979,
+      "raw": "………………"
+    },
+    {
+      "name": "contract_start_date",
+      "kind": "dotted_placeholder",
+      "start": 8287,
+      "end": 8291,
+      "raw": "…………"
     },
     {
       "name": "confidentiality_period",
       "kind": "dotted_placeholder",
-      "start": 2837,
-      "end": 2867,
-      "raw": ".............................."
+      "start": 8310,
+      "end": 8314,
+      "raw": "…………"
+    },
+    {
+      "name": "base_salary",
+      "kind": "dotted_placeholder",
+      "start": 8479,
+      "end": 8483,
+      "raw": "…………"
+    },
+    {
+      "name": "employer_signature",
+      "kind": "dotted_placeholder",
+      "start": 9667,
+      "end": 9673,
+      "raw": "………………"
+    },
+    {
+      "name": "worker_signature",
+      "kind": "dotted_placeholder",
+      "start": 9687,
+      "end": 9693,
+      "raw": "………………"
+    },
+    {
+      "name": "worker_signature",
+      "kind": "dotted_placeholder",
+      "start": 9701,
+      "end": 9707,
+      "raw": "………………"
+    },
+    {
+      "name": "employer_name",
+      "kind": "dotted_placeholder",
+      "start": 10069,
+      "end": 10075,
+      "raw": "………………"
+    },
+    {
+      "name": "father_name",
+      "kind": "dotted_placeholder",
+      "start": 10082,
+      "end": 10086,
+      "raw": "…………"
+    },
+    {
+      "name": "national_id",
+      "kind": "dotted_placeholder",
+      "start": 10102,
+      "end": 10106,
+      "raw": "…………"
+    },
+    {
+      "name": "address",
+      "kind": "dotted_placeholder",
+      "start": 10118,
+      "end": 10131,
+      "raw": "…………………………………"
+    },
+    {
+      "name": "company_name",
+      "kind": "dotted_placeholder",
+      "start": 10160,
+      "end": 10166,
+      "raw": "………………"
+    },
+    {
+      "name": "registration_number",
+      "kind": "dotted_placeholder",
+      "start": 10184,
+      "end": 10188,
+      "raw": "…………"
+    },
+    {
+      "name": "address",
+      "kind": "dotted_placeholder",
+      "start": 10200,
+      "end": 10213,
+      "raw": "…………………………………"
+    },
+    {
+      "name": "project_type",
+      "kind": "dotted_placeholder",
+      "start": 10282,
+      "end": 10288,
+      "raw": "………………"
+    },
+    {
+      "name": "scope_items",
+      "kind": "dotted_placeholder",
+      "start": 10306,
+      "end": 10330,
+      "raw": "………………………………………………………………"
+    },
+    {
+      "name": "scope_items",
+      "kind": "dotted_placeholder",
+      "start": 10331,
+      "end": 10355,
+      "raw": "………………………………………………………………"
+    },
+    {
+      "name": "start_date",
+      "kind": "dotted_placeholder",
+      "start": 10487,
+      "end": 10491,
+      "raw": "…………"
+    },
+    {
+      "name": "termination_date",
+      "kind": "dotted_placeholder",
+      "start": 10538,
+      "end": 10542,
+      "raw": "…………"
+    },
+    {
+      "name": "contract_duration",
+      "kind": "dotted_placeholder",
+      "start": 10652,
+      "end": 10656,
+      "raw": "…………"
+    },
+    {
+      "name": "advance_payment",
+      "kind": "dotted_placeholder",
+      "start": 10720,
+      "end": 10724,
+      "raw": "…………"
+    },
+    {
+      "name": "progress_payment",
+      "kind": "dotted_placeholder",
+      "start": 10769,
+      "end": 10773,
+      "raw": "…………"
+    },
+    {
+      "name": "employer_name",
+      "kind": "dotted_placeholder",
+      "start": 10827,
+      "end": 10831,
+      "raw": "…………"
+    },
+    {
+      "name": "project_type",
+      "kind": "dotted_placeholder",
+      "start": 10970,
+      "end": 10983,
+      "raw": "…………………………………"
+    },
+    {
+      "name": "employer_signature",
+      "kind": "dotted_placeholder",
+      "start": 12029,
+      "end": 12035,
+      "raw": "………………"
+    },
+    {
+      "name": "work_location",
+      "kind": "dotted_placeholder",
+      "start": 12052,
+      "end": 12058,
+      "raw": "………………"
+    },
+    {
+      "name": "work_location",
+      "kind": "dotted_placeholder",
+      "start": 12066,
+      "end": 12072,
+      "raw": "………………"
+    },
+    {
+      "name": "employer_name",
+      "kind": "dotted_placeholder",
+      "start": 12588,
+      "end": 12594,
+      "raw": "………………"
+    },
+    {
+      "name": "father_name",
+      "kind": "dotted_placeholder",
+      "start": 12601,
+      "end": 12605,
+      "raw": "…………"
+    },
+    {
+      "name": "national_id",
+      "kind": "dotted_placeholder",
+      "start": 12621,
+      "end": 12625,
+      "raw": "…………"
+    },
+    {
+      "name": "address",
+      "kind": "dotted_placeholder",
+      "start": 12637,
+      "end": 12650,
+      "raw": "…………………………………"
+    },
+    {
+      "name": "full_name",
+      "kind": "dotted_placeholder",
+      "start": 12671,
+      "end": 12677,
+      "raw": "………………"
+    },
+    {
+      "name": "father_name",
+      "kind": "dotted_placeholder",
+      "start": 12684,
+      "end": 12688,
+      "raw": "…………"
+    },
+    {
+      "name": "national_id",
+      "kind": "dotted_placeholder",
+      "start": 12704,
+      "end": 12708,
+      "raw": "…………"
+    },
+    {
+      "name": "address",
+      "kind": "dotted_placeholder",
+      "start": 12720,
+      "end": 12733,
+      "raw": "…………………………………"
+    },
+    {
+      "name": "weekly_hours",
+      "kind": "dotted_placeholder",
+      "start": 12795,
+      "end": 12801,
+      "raw": "………………"
+    },
+    {
+      "name": "work_examples",
+      "kind": "dotted_placeholder",
+      "start": 12846,
+      "end": 12847,
+      "raw": "…"
+    },
+    {
+      "name": "contract_start_date",
+      "kind": "dotted_placeholder",
+      "start": 13099,
+      "end": 13103,
+      "raw": "…………"
+    },
+    {
+      "name": "confidentiality_period",
+      "kind": "dotted_placeholder",
+      "start": 13122,
+      "end": 13126,
+      "raw": "…………"
+    },
+    {
+      "name": "amount",
+      "kind": "dotted_placeholder",
+      "start": 13341,
+      "end": 13345,
+      "raw": "…………"
+    },
+    {
+      "name": "contract_type",
+      "kind": "dotted_placeholder",
+      "start": 13368,
+      "end": 13372,
+      "raw": "…………"
+    },
+    {
+      "name": "employer_signature",
+      "kind": "dotted_placeholder",
+      "start": 14473,
+      "end": 14479,
+      "raw": "………………"
+    },
+    {
+      "name": "worker_signature",
+      "kind": "dotted_placeholder",
+      "start": 14493,
+      "end": 14499,
+      "raw": "………………"
+    },
+    {
+      "name": "worker_signature",
+      "kind": "dotted_placeholder",
+      "start": 14507,
+      "end": 14513,
+      "raw": "………………"
+    },
+    {
+      "name": "unit",
+      "kind": "dotted_placeholder",
+      "start": 14752,
+      "end": 14753,
+      "raw": "…"
+    },
+    {
+      "name": "employer_name",
+      "kind": "dotted_placeholder",
+      "start": 15598,
+      "end": 15604,
+      "raw": "………………"
+    },
+    {
+      "name": "father_name",
+      "kind": "dotted_placeholder",
+      "start": 15611,
+      "end": 15615,
+      "raw": "…………"
+    },
+    {
+      "name": "national_id",
+      "kind": "dotted_placeholder",
+      "start": 15631,
+      "end": 15635,
+      "raw": "…………"
+    },
+    {
+      "name": "address",
+      "kind": "dotted_placeholder",
+      "start": 15647,
+      "end": 15660,
+      "raw": "…………………………………"
+    },
+    {
+      "name": "full_name",
+      "kind": "dotted_placeholder",
+      "start": 15687,
+      "end": 15693,
+      "raw": "………………"
+    },
+    {
+      "name": "father_name",
+      "kind": "dotted_placeholder",
+      "start": 15700,
+      "end": 15704,
+      "raw": "…………"
+    },
+    {
+      "name": "national_id",
+      "kind": "dotted_placeholder",
+      "start": 15720,
+      "end": 15724,
+      "raw": "…………"
+    },
+    {
+      "name": "address",
+      "kind": "dotted_placeholder",
+      "start": 15736,
+      "end": 15749,
+      "raw": "…………………………………"
+    },
+    {
+      "name": "weekly_hours",
+      "kind": "dotted_placeholder",
+      "start": 15811,
+      "end": 15817,
+      "raw": "………………"
+    },
+    {
+      "name": "contract_start_date",
+      "kind": "dotted_placeholder",
+      "start": 15979,
+      "end": 15983,
+      "raw": "…………"
+    },
+    {
+      "name": "confidentiality_period",
+      "kind": "dotted_placeholder",
+      "start": 16002,
+      "end": 16006,
+      "raw": "…………"
+    },
+    {
+      "name": "contract_duration",
+      "kind": "dotted_placeholder",
+      "start": 16308,
+      "end": 16312,
+      "raw": "…………"
+    },
+    {
+      "name": "employer_signature",
+      "kind": "dotted_placeholder",
+      "start": 17307,
+      "end": 17313,
+      "raw": "………………"
+    },
+    {
+      "name": "worker_signature",
+      "kind": "dotted_placeholder",
+      "start": 17333,
+      "end": 17339,
+      "raw": "………………"
+    },
+    {
+      "name": "worker_signature",
+      "kind": "dotted_placeholder",
+      "start": 17347,
+      "end": 17353,
+      "raw": "………………"
+    },
+    {
+      "name": "probation_period",
+      "kind": "dotted_placeholder",
+      "start": 18079,
+      "end": 18080,
+      "raw": "…"
     }
   ],
-  "count": 30
+  "count": 143
 }
